@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": 3,
+      "name": "Chapli Kebab",
+      "category": "starters/kebabs",
+      "ingredients": [
+        "Beef mince ½ kg",
+        "Gram flour 3 tbsp",
+        "Coriander seeds 2 tbsp (crushed)",
+        "Pomegranate seeds 2 tbsp",
+        "Red pepper 2 tbsp (crushed)",
+        "Garam masala powder 1 tbsp",
+        "Salt to taste",
+        "Tomatoes 2",
+        "Onion 2",
+        "Green chilies 5",
+        "Coriander leaves ¼ bunch",
+        "Egg 1",
+        "White butter or ghee 2 tbsp",
+        "Oil ½ liter"
+      ],
+      "instructions": [
+        "In a bowl mix together mince, gram flour, crushed coriander, pomegranate seeds, crushed red pepper, garam masala powder and salt.",
+        "Finely chop tomatoes, onion, green chilies and coriander leaves.",
+        "Add vegetables in the mince mixture.",
+        "Then add egg and butter. Mix very well.",
+        "Form large patties with the mince mixture.",
+        "Then fry in a large griddle until golden brown."
+      ]
+    }
+  ]
+}

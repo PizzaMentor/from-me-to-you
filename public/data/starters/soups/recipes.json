@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Roasted Tomato Soup",
+      "category": "starters/soups",
+      "ingredients": [
+        "Sliced Tomato 1 kg",
+        "Salt and pepper to taste",
+        "Garlic 5 clove",
+        "Sliced Onion 1",
+        "Rosemary a pinch",
+        "Thyme a pinch",
+        "Oil 1 tsp"
+      ],
+      "instructions": [
+        "Cut tomatoes place on a baking tray sprinkle salt and pepper, cloves of garlic, sliced onions, rosemary, thyme and oil on top of the tomatoes.",
+        "Bake for 15 minutes for 60 C.",
+        "Take a blender, put the roasted ingredients in the blender and blend to a fine texture.",
+        "Pour the blended puree into a saucepan and cook on a medium flame.",
+        "Serve hot with croutons."
+      ]
+    }
+  ]
+}
