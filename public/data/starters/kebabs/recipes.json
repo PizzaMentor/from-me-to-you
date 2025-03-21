@@ -1,9 +1,391 @@
 {
   "recipes": [
     {
-      "id": 3,
+      "id": 1,
+      "name": "Shami Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Minced meat without fat 1/2 kg",
+        "Split gram lentils washed and soaked 2 tbsp",
+        "Cinnamon 2 pieces",
+        "Ginger 1 piece",
+        "Garam masala powder 1 tsp",
+        "Large cardamom 2",
+        "A handful of chopped coriander and mint",
+        "Juice of 1 lemon",
+        "Onion, chopped 1",
+        "Salt to taste",
+        "Cloves 3",
+        "Coriander and cumin powder 1 tsp",
+        "Garlic flakes 10",
+        "Chilli powder 1 tsp",
+        "A pinch of pepper",
+        "Oil for frying",
+        "Egg 1"
+      ],
+      "instructions": [
+        "In a bowl, take Meat and mix it well with Garam masala Powder, Garlic Ginger paste, Red Chilli Powder, Salt, Egg, and chopped Green Chilli.",
+        "Make cylindrical shapes of the mixed meat.",
+        "In a frying pan, take such amount of Oil so that half of the Seekh Kebabs get dipped in it.",
+        "Heat the Oil and fry till golden brown and place them in a separate plate.",
+        "For curry: In saucepan add Oil, Cinnamon, Cloves, Tomatoes and stir fry.",
+        "Now add, Red Chilli, Garam Masala Powder, Garlic Ginger Paste, Tomato Puree, and let it cook for a while.",
+        "When the gravy is completely cooked, add Yoghurt and little of Water.",
+        "Spread the Seekh Kebabs on the gravy, cover the lid and simmer on light.",
+        "Delicious Kashmiri Kebab Curry is ready."
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Mughlaee Chicken Boti",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Boneless chicken (cut into small cubes) 1/2 kg",
+        "Coconut, desiccated 1/2 tsp",
+        "Cashew nuts, roasted and powdered 18",
+        "Garlic powder 1/2 tsp",
+        "Chilli powder 1/2 tsp",
+        "Red food colour 2-3 pinches",
+        "Green chillies, coarsely ground 8",
+        "Fresh coriander and mint, chopped 3 1/2 tbsp",
+        "Butter / oil 2 tbsp",
+        "Lemon juice 6 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a bowl mix all the spices and make a thick paste.",
+        "Marinate chicken overnight in the refrigerator.",
+        "Grease a baking tray with butter or oil, spread marinated chicken cubes on it and bake in a preheated oven at 180 C for 10-15 minutes till chicken becomes crispy and tender.",
+        "Turn the chicken over halfway through baking.",
+        "Garnish with finely chopped coriander and mint leaves.",
+        "Serve hot with parathas or rice."
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Beef Malai Tikka",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Lamb 1 kg",
+        "Ginger & Garlic 2 tsp",
+        "Hot Green Chilli 1-2 tsp",
+        "Double Cream 4 tsp",
+        "Salt",
+        "Vegetable Oil for deep frying",
+        "Egg 1",
+        "Dried Bread Crumbs 1 c"
+      ],
+      "instructions": [
+        "Cut away and discard heavy fat on meat, if any.",
+        "Cut meat into 1 inch cubes.",
+        "Place meat in bowl with ginger, garlic, green chilli, cream and salt, mix well.",
+        "Cover and marinate for at least overnight.",
+        "Just before eating, pour enough oil in kadhai, wok, or deep frying pan to a depth of 2 inches.",
+        "Set on medium heat (medium low flame).",
+        "Put egg into shallow dish and beat lightly.",
+        "Dip meat cubes in egg and then in bread crumbs.",
+        "Cover generously with bread crumbs until encrusted.",
+        "When oil is heated, put as many meat cubes in heated oil that will cover the bottom of the container with 1 layer.",
+        "Stir and fry until golden brown or the meat is done to your taste."
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Paneer Cutlets (Version 2)",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Paneer grated 500 gm",
+        "Green chillies chopped 4",
+        "Green coriander chopped 15 gm",
+        "White pepper 5 gm",
+        "Red chilli powder 5 gm",
+        "Carom seeds 3 gm",
+        "Egg (Optional) 1",
+        "Garam Masala 5 gm",
+        "Oil for frying",
+        "Gram flour 75 gm"
+      ],
+      "instructions": [
+        "Combine grated cottage cheese and all other ingredients, adding gram flour in the end, and mix together in a bowl to make a smooth paste.",
+        "Shape the mixture into round cutlets.",
+        "Heat oil in a wok till it starts smoking.",
+        "Slide a few cutlets at a time into the oil and fry till they are golden brown and crisp on all sides.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Paneer Tikka",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Paneer 1 kg",
+        "Caraway seeds 3 gm",
+        "White pepper powder 5 gm",
+        "Garam masala 10 gm",
+        "Turmeric powder 5 gm",
+        "Lemon juice 25 ml",
+        "Salt to taste",
+        "Cream 150 ml",
+        "Yoghurt hung 150 gm",
+        "Gram flour 30 gm",
+        "Fenugreek powder 5 gm",
+        "Garlic paste 15 gm",
+        "Ginger paste 15 gm",
+        "Red chilli powder 10 gm",
+        "Saffron 3 gm",
+        "Cottage cheese 60 gm",
+        "Butter to baste 50 gm",
+        "Chaat masala 10 gm"
+      ],
+      "instructions": [
+        "Wash and cut the paneer into small cubes.",
+        "Mix the caraway seeds, white pepper powder, Garam masala, turmeric powder, two thirds of the lemon juice and salt.",
+        "Sprinkle over the paneer cubes.",
+        "Keep aside for 1 hour in the refrigerator.",
+        "Mix cream, yoghurt and gram flour/ cornflour in a bowl.",
+        "Add remaining ingredients and whisk well to make a fine batter.",
+        "Add the paneer cubes to this and marinate for at least 1 hour.",
+        "Preheat the oven to (150-175 degree c/ 300-350 degree F).",
+        "Thread the paneer cubes onto the skewers, 2 cm apart.",
+        "Roast in an oven/tandoor/charcoal grill for 5-6 minutes.",
+        "Baste with melted butter.",
+        "Sprinkle with chaat masala and the remaining lemon juice.",
+        "Serve with a green salad."
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Bajra and Beef Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Beef, finely Mince 1 1/4 kg",
+        "Bajra flour 250 g",
+        "Yogurt 250 g",
+        "Spring onions, finely chopped 10-12",
+        "Green chillies, finely chopped 12-15",
+        "Fresh coriander leaves, finely chopped 1 bunch",
+        "Tomatoes, skinned and chopped 2 medium",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Add all ingredients to the beef except tomatoes, increase or decrease quantity of bajra flour (should bind well).",
+        "Leave to marinate for 2-3 hours. Knead well.",
+        "Add tomatoes just before frying.",
+        "Heat oil, take about 1 tsp of the marinated beef and drop gently into oil and fry.",
+        "Do not turn the kababs immediately, as they will break.",
+        "Lower heat to medium and turn over once.",
+        "Remove and place on paper to drain extra oil. Serve hot."
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Tangdi Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Chicken drumsticks 8",
+        "Lemon juice 1 tbsp",
+        "Ginger 1 one inch knob",
+        "Garlic 6 cloves",
+        "Green chillies 4-6",
+        "Yogurt 1 cup",
+        "Gram flour 2 tbsp",
+        "Turmeric powder 1 tbsp",
+        "Garam masala powder 1 tsp",
+        "Red chilli powder 1 tsp",
+        "Chaat masala powder 1 tsp",
+        "Lemon wedges for garnishing",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Clean and trim excess fat and skin from the drumsticks.",
+        "Dry them with a clean and absorbent kitchen towel.",
+        "Make three to four long deep incisions.",
+        "Apply lemon juice and keep aside.",
+        "Peel ginger and garlic, wash and grind them to a paste.",
+        "Wash green chillies, remove stem and then chop them fine.",
+        "Hang skimmed milk yogurt for fifteen to twenty minutes to drain off excess water.",
+        "Roast gram flour in a non-stick pan on a low heat, stirring continuously.",
+        "Cool and mix with hung yogurt, ginger and garlic paste, turmeric powder, Garam masala powder, red chilli powder, salt and chopped green chillies.",
+        "Marinate chicken drumsticks in above mixture and refrigerate for one to two hours.",
+        "Skewer marinated chicken drumsticks and roast in a moderately hot charcoal fired tandoor or alternately cook in pre-heated oven at 220 degrees Celsius for five minutes.",
+        "Reduce oven temperature to 180 degrees & further cook for 20 minutes or till completely cooked.",
+        "Turn drumsticks couple of times to ensure even cooking and colour.",
+        "Serve hot, sprinkled with chaat masala and lemon wedges."
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Hara Kebab (Version 2)",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Green Bananas 6-7",
+        "Potatoes 2 medium sized",
+        "Cumin Seeds 1 tsp",
+        "Black Pepper Powder 1 tsp",
+        "Mustard Oil 2 tbsp",
+        "Turmeric Powder 1 tsp",
+        "Salt to taste",
+        "Garlic cloves(crushed) 2",
+        "Fresh root ginger(grated) 2 tsp",
+        "Green chilli(chopped) 4",
+        "Coriander leaves(chopped) large handful",
+        "Mint leaves(chopped) small handful",
+        "Juice of limes 2"
+      ],
+      "instructions": [
+        "Peel the bananas and the potatoes, and cut them into medium sized cubes.",
+        "Heat the oil and add the cumin seeds.",
+        "Stir for one minute and then add the vegetables.",
+        "Lower the flame and add the salt and turmeric powder, Garlic, Ginger, Green chilli and Juice of limes mix.",
+        "Add 1/2 a cup of water and cover with a lid and cook till the bananas and potatoes are tender.",
+        "Add the black pepper, coriander leaves, mint leaves and mix well."
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Yam Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Yam 1 1/2 kg",
+        "Green chillies finely chopped 5 gm",
+        "Ginger finely chopped 5 gm",
+        "Salt 8 gm",
+        "White pepper powder 5 gm",
+        "Red chilli powder 5 gm",
+        "Chaat masala 5 gm",
+        "Green coriander finely chopped 5 gm",
+        "Breadcrumbs 100 gm",
+        "Oil 150 ml"
+      ],
+      "instructions": [
+        "Peel and wash the yam.",
+        "Immerse in boiling water and cook until it becomes tender.",
+        "Remove from water, grate finely and squeeze out all the excess water.",
+        "Add the remaining ingredients to the grated yam.",
+        "Mix well and divide into 8 equal portions.",
+        "Shape the portions into medallions.",
+        "Shallow fry on medium heat till they become crisp and golden brown on both sides.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Tuna Fish Cutlet",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Tuna Fish (canned) 200 gm",
+        "Onion chopped 3",
+        "Green chillies chopped 4",
+        "Garlic pods 1 tsp",
+        "Ginger finely chopped 1 tsp",
+        "Potatoes mashed 3",
+        "Pepper powder 1 tsp",
+        "Coriander leaves as required",
+        "Garam masala 2 tsp",
+        "Oil 4 tbsp",
+        "Bread Crumbs 1/2 cup",
+        "Eggs 3"
+      ],
+      "instructions": [
+        "Heat the oil in pan.",
+        "Add onion, ginger, garlic & green chillies til their fresh smell goes or till they are little cooked.",
+        "Add fish to it & mix well.",
+        "Remember not to add water to it.",
+        "We have to make this mixture dry.",
+        "As the fish is cooked, we just have to cook it till all the water is evaporated.",
+        "Add mashed potatoes & mix well.",
+        "Add pepper powder & garam masala.",
+        "Mix well and add coriander leaves.",
+        "Allow it to cool. Make small flat round shape balls.",
+        "Beat the eggs in a bowl and take bread crumbs in another plate.",
+        "Dip the balls in the egg mixture & then roll them on the bread crumbs.",
+        "Fry the cutlets deep in oil."
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Gular Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mince 1/2 kg",
+        "Onion (chopped) 1",
+        "Water 2 cups",
+        "Red chilli (crushed) 1 tsp",
+        "White cumin seeds 1 tsp",
+        "Ginger garlic paste 1 tsp",
+        "Garam masala powder 1 tsp",
+        "Salt 1 tsp",
+        "Gram lentils 5 tbsp",
+        "Kachumar 1/2 cup (for stuffing)",
+        "Raisin 2 tbsp (for stuffing)"
+      ],
+      "instructions": [
+        "Boil mince with gram lentils, water, Crushed red chilli, white cumin seeds, ginger garlic paste, chopped onion, salt, Garam masala and grind finely.",
+        "Mix in it 1 egg and 2 tbsp yogurt.",
+        "Make round balls filled with stuffing, deep fry balls and keep aside."
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Ghutwa Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mince 250 gm",
+        "Bread 1 sliced",
+        "Onion ground 1",
+        "Onion 1 large chopped",
+        "Green chillies 4 chopped",
+        "Garam masala powder 1 tsp heaped",
+        "Crushed red pepper 1 tsp heaped",
+        "Salt 1 tsp",
+        "Ginger garlic paste 1 tbsp",
+        "Roasted & crushed coriander 1 tbsp",
+        "Nutmeg ground ¼ tsp",
+        "Mace ground ¼ tsp",
+        "Gram flour roasted 2 tbsp heaped",
+        "Coriander leaves 3 tbsp chopped",
+        "Raw papaya paste 1 ½ tbsp",
+        "Onion rings for garnishing"
+      ],
+      "instructions": [
+        "Marinate mince with onion, raw papaya paste, bread slice, ginger garlic paste, roasted gram flour, garam masala, salt, mace and nutmeg, red pepper, coriander, mix all well and leave it for 1 hour.",
+        "Heat oil in a pan, fry onion till light golden.",
+        "Now add it into marinated mince and fry for 15 minutes till its colour turn into brown.",
+        "Garnish with chillies, coriander leaves, onion rings and serve hot."
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Iskender Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Pita Bread 4",
+        "Olive Oil 1 tbsp",
+        "Chicken Breast fillets(chopped) 2",
+        "Onions (chopped) 2 medium",
+        "Garlic Cloves (minced) 4",
+        "Tomato Puree 250 gms",
+        "Ground cumin & Black Pepper to taste",
+        "Butter(melted) 1/2 cup",
+        "Greek Yoghurt 1 cup",
+        "Fresh Parsley (chopped) 1/4 cup"
+      ],
+      "instructions": [
+        "Heat olive oil in a skillet over medium heat.",
+        "Stir in chicken till juices run clear.",
+        "Mix in tomato puree and season with cumin, salt and pepper.",
+        "Continue cooking for 10 minutes.",
+        "Preheat oven to 350°F.",
+        "Arrange pita bread on a baking try and lightly toast in the oven.",
+        "Cut it into bite size pieces and set aside. Keep warm.",
+        "Arrange pita pieces in a serving dish, drizzle with butter, and top with the chicken mixture.",
+        "Garnish with yoghurt and parsley and serve."
+      ]
+    },
+    {
+      "id": 2,
       "name": "Chapli Kebab",
-      "category": "starters/kebabs",
+      "category": "Starters - Kebabs",
       "ingredients": [
         "Beef mince ½ kg",
         "Gram flour 3 tbsp",
@@ -28,6 +410,1023 @@
         "Form large patties with the mince mixture.",
         "Then fry in a large griddle until golden brown."
       ]
+    },
+    {
+      "id": 3,
+      "name": "Daal Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Gram lentil ½ cup",
+        "Yellow lentil ½ cup",
+        "Chicken mince ½ kg",
+        "Rice flour 3 tbsp",
+        "Egg white 2",
+        "Green coriander ½ bunch (chopped)",
+        "Green chilies 4 (chopped)",
+        "Mint leaves 1 bunch (chopped)",
+        "Cumin 1 tbsp (roasted and crushed)",
+        "Red chili flakes 1 tbsp",
+        "Black pepper 1 tsp (crushed)",
+        "Salt to taste",
+        "Oil to fry"
+      ],
+      "instructions": [
+        "Wash soak and boil both lentils separately.",
+        "Mix together until lentils and chicken mince well blended.",
+        "Add in rice flour, eggs, green coriander, green chilies, mint leaves, cumin, red chili flakes, black pepper and some salt.",
+        "Make kabab and shallow fry them until they are golden fry.",
+        "Serve them chili garlic sauce."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Reshmi Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Chicken mince ½ kg",
+        "Clarified butter 2 tbsp",
+        "Almonds 2 tbsp (blanched and grinded)",
+        "Coconut milk powder 1 tbsp",
+        "Garam masala powder 1 tsp (leveled)",
+        "Cumin 1 tsp (Roasted and crushed)",
+        "Salt 1 tsp heaped",
+        "Red pepper 1 tsp (crushed)",
+        "White pepper ½ tsp",
+        "Coriander 1 tsp (roasted and crushed)",
+        "Green chili 2 tsp (grinded)",
+        "Ginger garlic paste 1 tbsp",
+        "Cream 2 tbsp"
+      ],
+      "instructions": [
+        "Marinate chicken mince with clarified butter, almonds, coconut milk powder, garam masala powder, cumin, salt, red pepper, white pepper, coriander, green chili, ginger garlic paste and cream, mix well.",
+        "Shape kabab on broad square skewers.",
+        "BBQ over hot charcoal"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Galawat Ke Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Beef mince ½ kg",
+        "Raw papaya 1 tbsp",
+        "Red chilli powder 1 tbsp",
+        "Garam masala powder 1 tsp",
+        "Fresh cream 2 tbsp",
+        "Mint chopped ½ bunch",
+        "Green chilli chopped 2",
+        "Onion 1",
+        "Salt to taste",
+        "Oil ½ cup"
+      ],
+      "instructions": [
+        "Take mince beef in a mixing bowl and add raw papaya, red chilli powder, garam masala powder, fresh cream, chopped mint, green chilli, onion chopped and salt.",
+        "Mix well and keep aside for Overnight.",
+        "Now make small patties from the meat mixture and shallow fry it on low flame.",
+        "Then dish out and serve it with paratha and mint chutney."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Potato Cutlets",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Potato 1/2 kg (boiled)",
+        "Green chilies 2",
+        "Fresh coriander leaves ½ bunch",
+        "Lemon juice of 1",
+        "Red chili powder ½ tsp",
+        "Ginger garlic paste ½ tsp",
+        "Chili flakes ½ tsp (optional)",
+        "Cumin ½ tsp",
+        "Black pepper ½ tsp",
+        "Sesame seed 1 tbsp",
+        "Salt ½ tsp",
+        "Eggs 1 - 2",
+        "Oil as required"
+      ],
+      "instructions": [
+        "Peel and boil the potatoes.",
+        "Add in salt, red chili powder, ginger garlic paste, chili flakes, lemon juice, cumin, black pepper, sesame seed, green chili and coriander leaves and mix well.",
+        "Then refrigerate this mixture for 15 - 20 minutes.",
+        "Now make small cutlets of potato mixture and dip in lightly beat egg.",
+        "Fry the potato cutlets in a frying pan on medium flame till golden brown.",
+        "Potato cutlets are ready to serve."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kakori Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Minced lamb 1 kg",
+        "Black pepper 1 tsp",
+        "Butter for basting",
+        "Cashew nuts 60 gm",
+        "Cloves 2.5 gm",
+        "Cooking oil 1 cup",
+        "Garam masala powder 7.5 gm",
+        "Gram flour, roasted 105 gm",
+        "Green cardamom powder 1 tsp",
+        "Oil for basting",
+        "Onion, chopped 180 gm",
+        "Onion paste, browned 60 gm",
+        "Poppy seeds(khus khus) 60 gm",
+        "Raw papaya 60 gm",
+        "Red chilli powder 1 tsp",
+        "Saffron 1 tsp",
+        "Vetivier (kewda)essence 2 drop"
+      ],
+      "instructions": [
+        "Mince lamb twice and a third time with the oil.",
+        "Blend all the other ingredients (except saffron, red chilli powder and vetivier) together and mix with the mince.",
+        "Add red chilli powder, saffron and vetivier. Knead well.",
+        "Set aside for half an hour. Knead again.",
+        "Pat the mixture in a thin layer around the skewers and cook over low charcoal fire for 5 minutes.",
+        "Baste with butter and cook again for 4 minutes.",
+        "Transfer to an oven at 325 ºF for 8 minutes.",
+        "Baste with butter and roast again for 4 minutes.",
+        "Serve hot with sheermal."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Seekh Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Minced meat 500 gm",
+        "Black cardamoms 2",
+        "Black peppercorns 2 tsp",
+        "Cinnamon powder 2.5 gm",
+        "Cloves 2",
+        "Coconut, grated 15 gm",
+        "Cream 30 ml",
+        "Cumin (jeera) seeds 1 tsp",
+        "Garlic paste 3 tsp",
+        "Ginger paste 3 tsp",
+        "Gram flour (besan), roasted 45 gm",
+        "Mace (javitri) powder 2.5 gm",
+        "Oil 15 ml",
+        "Onion paste, browned 45 gm",
+        "Poppy seeds (khus khus) 2 tsp",
+        "Raw papaya paste 15 gm",
+        "Red chilli powder 1 tsp",
+        "Yogurt 30 ml"
+      ],
+      "instructions": [
+        "Mix mince with all other ingredients.",
+        "Knead well for 10 minutes. Let stand for 10 minutes.",
+        "Moisten hands with cold water and mold mixture around skewers pressing and shaping to the size of a frankfurter sausage, about 5, 1/2 inch long.",
+        "Roast the kebabs in a moderately hot clay oven (tandoor) for 12 minutes till they are browned uniformly.",
+        "The kebabs can also be slid off the skewers and cooked on the fine wire mesh of the grilling rack in a charcoal gas grill.",
+        "Do not turn too often as the kebabs may split.",
+        "Serve hot with mint chutney."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fish Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Fish 340 gms",
+        "Water 3 cups",
+        "Fresh ginger 4 small pieces",
+        "Cumin 1. 1/2 tsp",
+        "Ghee for frying",
+        "Cinnamon 1 inch piece",
+        "Fresh coriander (chopped) 2 tbsp",
+        "Gram lentils (channa dal) 85 gms",
+        "Onion 1 small",
+        "Cloves 2",
+        "Green chillies 2",
+        "Egg yolks 1 or 2",
+        "Red chili (grounded) 1/4 tsp",
+        "Salt to taste",
+        "Garlic flakes 6"
+      ],
+      "instructions": [
+        "Wash and soak gram lentils for 15 minutes.",
+        "Cook with cloves, cinnamon, cumin seeds and garlic until 3/4 tender.",
+        "Drain and keep its water for boiling the fish.",
+        "Boil the fish in the same water until tender and water is absorbed.",
+        "Cool, remove the bones and skin.",
+        "Then grind with gram lentils.",
+        "Grind onion, green chillies, ginger and coriander leaves finely.",
+        "Mix into ground mixture of fish and lentils.",
+        "Mix in egg yolks.",
+        "Then shape it in small round balls.",
+        "Deep fry in oil until nicely golden.",
+        "Drain on absorbent paper, insert toothpick in each kebab.",
+        "Serve hot with chutneys."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Macaroni Cutlets",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Potatoes 1/2 kg (boiled)",
+        "Macaroni 1/2 packet (boiled)",
+        "Eggs 3-4",
+        "Black pepper powder 1tbsp",
+        "White cumin powder 1tbsp",
+        "Green onions 1/2 bunch (Chopped)",
+        "Bread crumbs 2 cups",
+        "Garlic paste 1tbsp",
+        "Chinese salt 1/2tsp",
+        "Oil for frying",
+        "Salt as required"
+      ],
+      "instructions": [
+        "Mash the boiled potatoes.",
+        "Now take a mixing bowl; mix potatoes and macaroni.",
+        "Then add the black pepper powder, white cumin powder, chopped green onions, Chinese salt and salt.",
+        "Shape into cutlets oval shape or lengthwise.",
+        "Dip into beaten eggs and coat with breadcrumbs.",
+        "Deep fry and serve with ketchup."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Malai Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Beef Mince 1/2 kg",
+        "Onion Paste 2 tsp",
+        "Salt As Required",
+        "Whole Red Chilli(crushed) 2 tsp",
+        "Mustard Paste 2 tsp",
+        "White pepper Powder 1/2 tsp",
+        "Spring Onion(chopped) 1/4 cup",
+        "Egg Whites 2",
+        "Bread Slice 1",
+        "Cheese(grated) 3 tbsp",
+        "Ghee 1 tbsp",
+        "Coriander Leaves A few",
+        "Ginger(crushed) 1 1/2 tsp",
+        "Cream 1/4 cup (for topping)",
+        "Cheese 1 tbsp (for topping)",
+        "Black Pepper(ground) 1/4 tsp (for topping)",
+        "Oil For Deep frying"
+      ],
+      "instructions": [
+        "Mix all the marination ingredients in mince and marinate for 2 hours.",
+        "Make oval or round shaped kebabs.",
+        "Heat oil on medium heat fry kebabs till brown.",
+        "Beat cream, cheese and black pepper.",
+        "Serve kebabs with cream topping and mashed potatoes."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Jalfrezi Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Boneless chicken thighs 2 lbs (cut into bite size pieces)",
+        "Red bell pepper 1",
+        "Green bell pepper 1",
+        "Large onion 1",
+        "Red pepper 1 1/2 tsp",
+        "Corriander powder 1 tsp",
+        "Salt 1 1/2 tsp",
+        "Cumin powder 1/2 tsp",
+        "Oil 1/4 cup",
+        "Juice of 1 lemon"
+      ],
+      "instructions": [
+        "Marinade chicken with oil, lemon juice, salt, pepper, corriander and cumin powder for at least fifteen minutes to half an hour.",
+        "Saute chicken in a large pot on high heat so meat doesn't give off the juices and rather fries.",
+        "Continue to fry while stirring until chicken is completely cooked.",
+        "Chop bell peppers and onion into chunky cubes and stir into cooked meat.",
+        "Cook for 2-3 minutes on high heat to keep the vegetables firm and crisp.",
+        "Remove and serve immediately."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Potato Cutlets (Version 2)",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Potatoes 1 kg",
+        "Salt as per taste",
+        "Green Chutney 1 cup",
+        "Cheddar Cheese 1/2 cup",
+        "White Pepper Powder 1 tsp",
+        "Black Pepper Powder 1 tsp",
+        "Bread Slices(crushed) 2",
+        "Eggs(beaten) 2",
+        "Bread Crumbs 2 cups",
+        "Cooking Oil for frying",
+        "Fresh Coriander 1 bunch (for chutney)",
+        "Mint Leaves 1/2 bunch (for chutney)",
+        "Green Chillies 3-4 (for chutney)",
+        "Lemon Juice 3-4 tbsp (for chutney)"
+      ],
+      "instructions": [
+        "Blend all the chutney ingredients into a fine paste.",
+        "Boil and mash the potatoes. Add salt, cheese, white pepper, black pepper, bread slices and green chutney.",
+        "Mix well. Make cutlets and refrigerate for 15 minutes.",
+        "Dip the cutlets in beaten eggs, toss them in bread crumbs and refrigerate again for 10-15 minutes.",
+        "In a wok or frying pan, heat the cooking oil on medium heat for 3-5 minutes and fry the cutlets till golden.",
+        "Serve hot with tomato ketchup."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Kebabs Mughlai Style",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Meat 1/2 kg",
+        "Almonds 45 gms",
+        "Ginger 1 piece",
+        "Cardamoms 4",
+        "Garlic 8 cloves",
+        "Cream 1 pint",
+        "Roasted cumin seed 1 tsp",
+        "Milk 1 pint",
+        "Dry red chillies 6",
+        "Baby pickling onions 1/2 kg",
+        "Ghee 2-3 tbsp",
+        "Few coriander leaves",
+        "Pistachios 30 gms",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Grind the ginger, garlic, cumin seed, chilies and coriander to a fine paste.",
+        "Add the salt to taste.",
+        "Cut meat into desired cubes and rub this paste over it.",
+        "Marinate for 2 1/2 hours.",
+        "Fix the meat cubes on skewers, placing an onion between each cube of meat.",
+        "Grill on a low fire till tender and browned.",
+        "In a saucepan heat the ghee, add milk, cream, finely grated almonds and pistachios.",
+        "Mix well and cook till slightly thickened.",
+        "Garnish with ground cardamoms and serve with the kebabs."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mooli ke Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Radish 400 gms",
+        "Gram flour 60 gms",
+        "Cloves (ground) 5",
+        "Cardamoms (ground) 5",
+        "Cinnamon powder 3/4 tsp",
+        "Black cumin seeds 2 tsps",
+        "Poppy seeds 3 tsps",
+        "Coconut 60 gms",
+        "Curd 3 tsps",
+        "Breadcrumbs 1/4 cup",
+        "Chopped onion 60 gms",
+        "Salt to taste",
+        "Saffron a little",
+        "Ghee a little",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Cut off the base and leaves from the radishes.",
+        "Prick them with a fork and boil in salted water for 20 minutes until nearly tender.",
+        "Drain well and grind roughly. Now grind all the spices and coconut to a fine paste and mix with the gram flour, curd, powdered saffron and salt to taste.",
+        "In a little ghee, fry the onions till golden brown and crisp.",
+        "Drain well, grind to a paste and mix with the rest of the ingredients.",
+        "Take a little mixture and form into round kebabs.",
+        "Put breadcrumbs evenly on both sides and shallow fry in ghee until golden brown. Serve immediately."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Paneer Cutlets",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Paneer 200 gm",
+        "Potatoes, boiled 1 cup",
+        "Peas, boiled 1/2 cup",
+        "Chilli paste 1 tbsp",
+        "Oil for frying",
+        "Lemon juice 1 tsp",
+        "White pepper 1 tsp",
+        "Breadcrumbs 2 tbsp",
+        "Grated cheese for topping 50 gm",
+        "Pizza sauce",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Mix the paneer, potatoes, breadcrumbs, pepper and salt.",
+        "Mash well. For the filling, mix the Peas, lemon juice and chilli paste and mash it in a blender. Keep aside.",
+        "Make equal-sized balls out of the potato-paneer mixture.",
+        "Flatten each ball into a thin cutlet and spoon a little of the filling into its centre.",
+        "Cover with another cutlet. Seal the edges and shallow fry in the oil.",
+        "Grease a baking dish. Arrange the cutlets on it.",
+        "Pour the pizza sauce over the cutlets.",
+        "Sprinkle the cheese on the sauce and bake at 200°C for 10 minutes."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Prawn kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Cooked prawns (mashed to a paste) 1 cup",
+        "Grated coconut 1/2 cup",
+        "Green chilies 6",
+        "Clove garlic 1",
+        "Fresh coriander 1 small bunch",
+        "Cumin seeds 1 tsp",
+        "Turmeric powder a little",
+        "Ghee",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Slice the chilies, coriander and garlic very fine.",
+        "Mix all the ingredients add salt to taste, and form into flat cutlets.",
+        "Dip in beaten eggs, roll in breadcrumbs and fry."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Dhal Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Moong dhal 1/2 kg",
+        "Gram flours 60 gms",
+        "Garam masala 2 tsp",
+        "Onions 1",
+        "Eggs 4",
+        "Green chilies 2",
+        "Powdered breadcrumbs",
+        "Curd 1 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Wash and soak the moong dhal overnight.",
+        "Drain water and grind to a fine paste.",
+        "Fry finely sliced onion until crisp and brown.",
+        "Remove, grind coarsely and keep aside.",
+        "In the same ghee, fry gram flour and garam masala for a minute.",
+        "Mix ground dhal gram flour mixture, beaten eggs, curd finely chopped chilies, fried onion and salt until well blended.",
+        "Form into flat cutlets, roll in breadcrumbs and fry in ghee until evenly browned."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Egg Cutlets",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Milk 300 ml",
+        "Grated nutmeg 1 pinch",
+        "Flour 30gms",
+        "Chopped parsley or coriander 1/4 tsp",
+        "Butter 1 tbsp",
+        "Boiled rice 60 gms",
+        "White breadcrumbs",
+        "Hard boiled eggs 4",
+        "Green chillies 2",
+        "Egg 1",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Melt butter in a saucepan.",
+        "Add flour and cook, stirring constantly, for a few seconds.",
+        "Add milk, stir well and boil for 5 minutes.",
+        "Add rice, chopped eggs, chopped green chilies, nutmeg, parsley and breadcrumbs. Mix well.",
+        "Spread on a floured platter and let cool.",
+        "Then divide into equal portions and shape into cutlets.",
+        "Coat in egg and breadcrumbs and deep fry in hot fat.",
+        "Drain well on kitchen paper and serve with tomato puree or chutney."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Hara Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Spinach 1kg, stems removed and thoroughly cleaned",
+        "Yellow lentils (Bengal gram) 30gms, picked through for debris and rinsed in cold water",
+        "Cumin seeds 2 teaspoons",
+        "Canola oil 1/4 cup",
+        "Ginger root 1 tablespoon finely chopped",
+        "Green Thai chili pepper 1 tablespoon finely chopped",
+        "Garam masala powder 2 teaspoons",
+        "Salt 1/2 teaspoon"
+      ],
+      "instructions": [
+        "Have ready a large rimmed baking sheet.",
+        "In a large pot of boiling salted water, wilt the spinach; it will take only about 30 seconds. Drain the spinach, rinse it with cold water until it has cooled, and squeeze out as much water as possible. Transfer to a food processor and pulse until it forms a dense, pesto-like paste. Transfer to a bowl and set aside.",
+        "In a large pot of boiling salted water over high heat, cook the yellow lentils for about 25 minutes, until they have softened. Drain and rinse with cold water until the lentils have cooled. Transfer to a food processor and pulse to form a paste. Transfer to a bowl and set aside.",
+        "In a small skillet over medium-high heat, toast the cumin seeds for about 30 seconds. Let them cool slightly, then transfer to a grinder and grind the seeds into a fine powder.",
+        "In a large nonstick skillet over medium-high heat, heat 2 tablespoons of the oil until it is smoking. Add the yellow lentil paste and cook for 5 to 7 minutes, stirring constantly, until it becomes dry. Add the spinach paste and cook for about 5 minutes, stirring, until the mixture appears dry. Add the ginger, green chili pepper, garam masala, ground cumin seeds and salt. Spread the mixture onto the baking sheet to cool completely.",
+        "At this point, the mixture can be refrigerated.",
+        "When ready to cook, line a plate with paper towels. Divide the mixture into equal portions and form into patties 2 1/2 inches in diameter.",
+        "The mixture for the kebab can be made up to 2 days in advance and refrigerated. Serve these kebab with Mint Chutney."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Seasoned Fish Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Firm-fleshed fish steaks 1kg, skin removed and cubed",
+        "Extra virgin olive oil 1/4 cup",
+        "Onions 3 medium-size, 1 very finely chopped and 2 quartered and layers separated",
+        "Freshly ground cumin seeds 2 tsp",
+        "Long wooden skewers 8-10",
+        "Green bell pepper 1, seeded and cut into 20 to 24 square pieces",
+        "Bay leaves 18, soaked in tepid water to cover for 30 minutes (no need to soak if using fresh)",
+        "Juice from 1/2 lemon",
+        "Freshly ground black pepper to taste",
+        "Salt to taste",
+        "Lemon wedges (for garnish)",
+        "Chopped fresh parsley leaves (for garnish)"
+      ],
+      "instructions": [
+        "Whisk together the lemon juice, olive oil, 1 chopped onion, cumin, salt and pepper in a large ceramic or glass baking dish and marinate the fish cubes for 4 to 6 hours, covered, in the refrigerator, turning occasionally.",
+        "Skewer the fish, putting a piece of quartered onion and a piece of green pepper between the pieces of fish and using 2 to 3 bay leaves per skewer.",
+        "Continue in this manner until all the ingredients are skewered.",
+        "Prepare a charcoal fire or preheat a gas grill on high for 20 minutes.",
+        "Grill the skewered fish for 10 to 12 minutes brushing with the marinade and turning once.",
+        "Serve garnished with lemon wedges and parsley."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Gingery Fish Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Raw firm fish (surmai) 700gms",
+        "Minced fresh ginger 3 tbsp",
+        "Fresh pineapple in large chunks 4 cups",
+        "Pineapple juice 2 cups",
+        "Cornstarch 1 tbsp",
+        "Light soya sauce 2 tbsp",
+        "White vinegar 1 1/2 tablespoons",
+        "Garlic cloves 2, crushed",
+        "Red onion 1 large, cut in wedges"
+      ],
+      "instructions": [
+        "In a small saucepan, dissolve cornstarch in pineapple juice.",
+        "Add soya sauce, vinegar, garlic and ginger.",
+        "Simmer until slightly thickened, about 7 minutes. Let cool.",
+        "Add fish and pineapple to sauce and marinate in the refrigerator for 30 minutes.",
+        "Thread fish, pineapple and onion on skewers.",
+        "Place on a hot grill (or under a broiler) until fish is done to your liking.",
+        "Serve with rice.",
+        "Heat marinade and use as a sauce over fish and rice."
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Rajma Galoti Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Rajma 2 cups",
+        "Green chillies 3 chopped",
+        "Salt to taste",
+        "Ginger 1\" piece chopped",
+        "Lemon juice 1 tbsp.",
+        "Mava/khoya 4 tbsps",
+        "Kewra water 1/2 tsp",
+        "Pure ghee 1/2 cup",
+        "Shahjeera 1 tsp (for roasting and grinding)",
+        "Green cardamoms 4 (for roasting and grinding)",
+        "Black cardamoms 2 (for roasting and grinding)",
+        "Cloves 6 (for roasting and grinding)",
+        "Cinnamon 1 piece (for roasting and grinding)",
+        "Pinch saffron (for roasting and grinding)",
+        "Cashewnuts 15 (for roasting and grinding)",
+        "Sunflower seeds 2 tbsps (for roasting and grinding)",
+        "Poppy seeds (khus khus) 1 1/2 tbsps (for roasting and grinding)",
+        "Fresh mint leaves and onion rings (for garnishing)"
+      ],
+      "instructions": [
+        "Blend cooked rajma in a blender. Add green chilles, roasted spice powder, salt, ginger blend again.",
+        "Add cashewnut, sunflower seeds, khuskhus powder and continue to blend. Transfer the mixture into a bowl.",
+        "Add a little kewra water and mix. Divide the mixture into sixteen equal portions.",
+        "Roll each portion into a ball and press a little. Roll the edges against a flat surface to even the edges.",
+        "Heat ghee on a tawa and Fry on medium heat till well browned.",
+        "Drain and serve hot garnished with onion rings and fresh mint leaves."
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Chicken and Vegetable Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Peas 1 cup",
+        "French beans 1/2 cup",
+        "Potatoes 2 medium",
+        "Carrot 1",
+        "Chicken mince 1/2 kg",
+        "Onion finely chopped 1",
+        "Ginger grated 1 tsp",
+        "Garam masala powder 1 tsp",
+        "Green chilies 6",
+        "Rice flour 2 tbsp",
+        "Coriander leaves 1/2 bunch chopped",
+        "Lemon juice 2 tbsp",
+        "White zeera (roasted and crushed)",
+        "Salt 1 tsp",
+        "White pepper 1 tsp",
+        "Breadcrumbs 1 cup",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Wash and peel the vegetables.",
+        "Boil potatoes separately and mash.",
+        "Dice rest of the vegetables finely and boil.",
+        "Add to mashed potatoes and mix in chicken mince.",
+        "Add chopped onions, grated ginger, green chilies, lemon juice with all the given spices and 1/2 cup breadcrumbs.",
+        "Mix well and pat flat on a board sprinkled with corn flour and cut in desired shapes with biscuit cutter.",
+        "Pat breadcrumbs on both sides and fry in hot oil.",
+        "Serve with tomato chutney, green chutney, salad and bread rolls."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Chicken Tikka Chilli Fry",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Boneless chicken ½ kg",
+        "Capsicum 1 thinly sliced",
+        "Onion 1 thinly sliced",
+        "Tomato 1 sliced",
+        "Green chillies 4 cut diagonally",
+        "Orange colour pinch",
+        "Butter 50 gms",
+        "Chilli powder 1 tsp",
+        "Cumin 1 tsp (roasted and crushed)",
+        "Ginger garlic paste 1 tsp",
+        "Crushed red pepper 1 tsp",
+        "Crushed black pepper 1 tsp",
+        "Salt 1 tsp",
+        "Chicken tikka masala 1 tbsp",
+        "Black pepper powder ½ tsp",
+        "Sliced ginger 2 tbsp",
+        "Coriander leaves 2 tbsp (chopped)",
+        "Yogurt 2 tbsp",
+        "Lemon juice 5 tbsp"
+      ],
+      "instructions": [
+        "Marinate chicken strips with salt, chilli powder, black pepper powder, ginger garlic paste, roasted and crushed cumin, yogurt, lemon juice, pinch of orange colour, leave it for 15 minutes.",
+        "Heat 2 tbsp oil in a pan fry marinated chicken, now put a burning coal in pan, drop some oil and cover for 1 minute.",
+        "Method for Gravy: Heat butter in a fry pan, add onion, tomato and capsicum, stir fry for 2 minutes.",
+        "Add sliced ginger, green chillies, crushed black pepper and red pepper add cooked chicken with lemon juice.",
+        "Now lastly add coriander leaves and remove from stove. Serve hot with naan."
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Barbecued BBQ Liver Boti",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Liver, cut into cubes 250 gms",
+        "Ginger paste 1 tbsp",
+        "Garlic paste 1 tsp",
+        "Onion paste 1 tsp",
+        "Yoghurt 2 tbsp",
+        "Red chilli powder 1/2 tsp",
+        "Garam masala 1/2 tsp",
+        "Cumin powder 1/2 tsp",
+        "Green coriander (chopped) 2 tsp",
+        "Turmeric powder 1/2 tsp",
+        "Carom seeds 1/2 tsp",
+        "Dry fenugreek (powder) 1 tsp",
+        "Salt to taste",
+        "Vegetable oil 1 tbsp",
+        "Butter for basting"
+      ],
+      "instructions": [
+        "Rub ginger, garlic, and onion pastes on the liver cubes and set aside for an hour.",
+        "Mix the remaining ingredients (except oil / butter for basting) with the yoghurt and coat the liver cubes.",
+        "Leave to marinate for at least 2 hours.",
+        "Preheat oven to 150°C (300°F).",
+        "Thread the cubes gently onto the skewers.",
+        "Roast / grill / bake till half done (10 minutes).",
+        "Drain the excess marinade, baste once and roast again for 4 - 5 minutes till cooked through.",
+        "Serve at once, accompanied by salad."
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Pine Nuts Chicken Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Cloves garlic 2 medium",
+        "Freshly grated ginger root 1 teaspoon",
+        "Chili powder 1/4 teaspoon",
+        "Pine nuts 1/4 cup, ground",
+        "Lemon juice 2 tablespoons",
+        "Dried fenugreek leaves (optional) 2 teaspoons",
+        "Pinch paprika",
+        "Salt, to taste",
+        "Boneless skinless chicken 1kg, cubed",
+        "Plain yogurt 1/2 cup"
+      ],
+      "instructions": [
+        "In a medium bowl, combine the ginger-garlic paste, chili powder, pine nuts, lemon juice, dried fengreek leaves, paprika and salt. Mix well.",
+        "Add the chicken cubes, stir to coat, cover and refrigerate for 30 minutes.",
+        "Add the yogurt and mix again. Refrigerate for 8 hours.",
+        "When ready to cook the kebabs, prepare the grill. If using a gas grill, preheat the grill on medium.",
+        "If using a charcoal grill, start the charcoal.",
+        "Clean the grate with a grill brush.",
+        "Thread the coated chicken cubes onto the skewers.",
+        "Grill for about 15 minutes, until the chicken is cooked through and its juices run clear."
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Muthi Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Minced beef 500 gms",
+        "Almond paste 100 gms",
+        "Raw papaya paste 2 tsp",
+        "Roasted and gram pulse 4 tsp",
+        "Fried onions(crushed) 4 tsp",
+        "Ginger/garlic paste 2 tsp",
+        "Red chili powder 1 tsp",
+        "Yoghurt 2 tsp",
+        "Mint(chopped) 1 tsp",
+        "Coriander 1 tsp",
+        "Green chilies 1 tsp",
+        "Black pepper(crushed) 1/2 tsp",
+        "Butter 2 tsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Mix all the ingredients, except butter and keep aside for two hours.",
+        "Put the mixture in a pan and make a well in the centre.",
+        "Place a smoking piece of charcoal in a small bowl of butter and place it in the well and cover the pan with a tight lid.",
+        "Leave for three minutes then discard the charcoal piece.",
+        "Make oblong kebabs by taking small portions of the mixture.",
+        "Bake them in a preheated oven till golden brown."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Dum ke Kabab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mutton 1 kg, boneless cut in pieces",
+        "Yogurt 1 cup",
+        "Papaya raw 1 tbsp, ground",
+        "Khush khush 1 tbsp, ground",
+        "Ginger/ garlic paste 2 tbsp",
+        "Red chillies 1 tbsp, powdered",
+        "Black pepper 1/2 tbsp, powdered",
+        "Green chillies 4, chopped fine",
+        "Lemons 4",
+        "Salt to taste",
+        "Oil 1/2 cup",
+        "Ghee 1 tbsp"
+      ],
+      "instructions": [
+        "Wash and clean meat, spread it out on a board.",
+        "With the blunt side of a heavy knife pound lightly.",
+        "Mix all ingredients except oil, with yogurt and lemon and marinate the meat in it for 4-6 hours.",
+        "Heat oil, add meat and cook on low heat. Remove when meat is tender and liquid has evaporated; spread it out in a large shallow steel pan, pour a tbsp of ghee and cover it.",
+        "Put a tawa on low heat, put the covered pan on it and place a few hot coals on the lid.",
+        "Leave for 10-15 minutes. Serve with hot parathas."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Bread and Mince Meat Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mincemeat 1 kg",
+        "Bread slices 4",
+        "Soya sauce 4 tbsp",
+        "Vinegar 1 tbsp",
+        "Black pepper (ground) 2 tsp",
+        "Fresh coriander leaves 1 bunch",
+        "Green chilies (chopped) 4",
+        "Corn flour 1 tbsp",
+        "Egg 1 beaten",
+        "Salt to taste",
+        "Cooking oil for frying"
+      ],
+      "instructions": [
+        "Soak the bread slices in the mixture of Soya sauce and vinegar for 10 minutes.",
+        "Mix it with the mincemeat.",
+        "Now add black pepper, fresh coriander and the beaten egg.",
+        "Mix well, knead this mixture with your hands for a few minutes and leave for an hour.",
+        "Take small portions from the meat mixture and shape to form kebabs and fry."
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Barah Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Lamb, chops 900 gm",
+        "Black cumin seeds 45 gm",
+        "Garam masala 20 gm",
+        "Garlic paste 45 gm",
+        "Ginger paste 45 gm",
+        "Kachri (tenderizer) 20 gm",
+        "Malt vinegar 180 ml",
+        "Oil for basting",
+        "Raw papaya paste 20 gm",
+        "Red chilli powder 15 gm",
+        "Salt to taste",
+        "Yogurt 60 gm"
+      ],
+      "instructions": [
+        "Marinade the lamb in salt, red chilli powder, garam masala, malt vinegar, ginger and garlic pastes, papaya paste, kachri and cumin seeds overnight.",
+        "Skewer pieces 1 inch apart and roast on a slow fire in a tandoor or charcoal grill for 15 minutes or till half done.",
+        "Stand at room temperature for 20 minutes. Baste with oil.",
+        "Roast or grill on slow fire for another 20 minutes, till velvety brown.",
+        "Serve with onion rings, fresh green salad and lemon wedges."
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Badami Lamb Shammi Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Lamb, minced 1 kg",
+        "Bengal gram 30 g",
+        "Red chillies 5",
+        "Green chillies 5",
+        "Black cardamom 5",
+        "Bay leaves 5",
+        "Cinnamon 5",
+        "Cloves (hung) 10",
+        "Water 8 cups",
+        "Eggs 3",
+        "Salt 2 tsp",
+        "Almonds past 1/2 cup",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Boil the minced lamb with Bengal gram, dry red chillies, green chillies, & all spices till the water evaporates.",
+        "Remove the whole spices from the mince & discard.",
+        "Mash the mince well.",
+        "Add eggs and salt and knead well. Mix in the almonds.",
+        "Divide the mixture into even-sized balls and shape into cutlets.",
+        "Heat the oil in a wok (kadhai), deep-fry the cutlets until crisp and brown on all sides.",
+        "Remove and drain the excess oil & serve hot."
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Turkish Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Lamb Leg Fillet 700 gms",
+        "Lemon 1",
+        "Onion Finely chopped 1 large",
+        "Garlic 2 cloves finely minced",
+        "Bay Leaves 2",
+        "Cayenne Pepper 11/2 tsp",
+        "Fresh Thyme 1 tbsp",
+        "Fresh mint leaves 1 tsp",
+        "Olive Oil 3 tbsps",
+        "Salt to taste",
+        "Crushed black pepper to taste",
+        "Oil to brush the grill pan"
+      ],
+      "instructions": [
+        "Cut the lamb into cubes not more than 1 1/2 inches.",
+        "To make the marinade in a bowl finely grate the lemon rind into a bowl,",
+        "Now add the finely chopped onion, garlic, bay leaves, cayenne pepper, chopped up fresh thyme and mint along with the olive oil and mix well well.",
+        "Season with salt and pepper.",
+        "Now add the lamb cubes to this marinade and mix well and coat it fully and leave in the fridge overnight.",
+        "Thread the lamb onto skewers spacing them slightly apart. preheat oven to 180 C.",
+        "Heat a grill pan and brush with oil.",
+        "When at smoking point at the kebabs and cook till u get some grill lines and charred bits on the meat.",
+        "Now place the skewers in a baking tray and place in the oven to cook for a further 8 minutes or until the meat is tender and just cooked, serve hot!",
+        "You could barbeque them on a charcoal grill for that lovely smoky flavor."
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Spanish Kebabs",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mutton Boneless cut into cubes 300 gm",
+        "Fresh parsley 1 1/2 tbsp",
+        "Garlic 4cloves",
+        "Black Peppercorns 1/4 tsp",
+        "Pink or red peppercorns (optional) 1/2 tsp",
+        "Ground Cumin 1/4 tsp",
+        "Paprika 1/4 tsp",
+        "Cayenne Pepper 1/4 tsp",
+        "Juice 1 lemon",
+        "Olive Oil 1 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Chop the parsley, crush the garlic clove along with the pink and black peppercorns.",
+        "In a glass bowl combine the cumin, cayenne pepper, paprika, salt, lemon juice and oil along with the crushed garlic and peppercorns.",
+        "Add parsley. Mix well together.",
+        "Add the meat cubes and coat well with the marinade.",
+        "Cover and refrigerate overnight.",
+        "Soak 4 wooden skewers in cold water for 15 minutes.",
+        "Now thread the pieces of meat on the skewer.",
+        "Reserve the marinade.",
+        "Grill on a charcoal grill or a grill pan basting the kebabs with the marinade occasionally until cooked."
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Iranian Chelo Kebab",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Mince ½ kg",
+        "Onion ground ½ cup",
+        "Ginger paste 1 tbsp heaped",
+        "Salt 1 tsp heaped",
+        "Black pepper ½ tsp",
+        "Butter 2 tbsp",
+        "Soda bicarbonate ¼ tsp"
+      ],
+      "instructions": [
+        "Marinate mince with ground onions, ginger paste, salt, black pepper, butter and soda bicarb. Leave for 30 minutes.",
+        "Then shape into long seekh kabab.",
+        "Now grill for 10 minutes. Lower a piece of burning charcoal and add a few drops of oil over it; cover immediately.",
+        "Serve with rice."
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Afghani Kebab with Tomato Gravy",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Minecemeat 1 kg",
+        "Ginger Garlic Paste 2 tbsp",
+        "Salt as per taste",
+        "Black Pepper 1 tbsp",
+        "Onions (finely Sliced) 2 medium",
+        "Tomatoes(boiled & blended) 1 kg",
+        "Cooking Oil 1 cup",
+        "Green Chillies (chopped) for garnish",
+        "Fresh Coriander(chopped) for garnish"
+      ],
+      "instructions": [
+        "Add ginger garlic Paste, onions, 1/2 tea spoon black pepper and salt to mincemeat and knead well.",
+        "Make oblong shaped kebabs and refrigerate for 10-15 minutes.",
+        "In a wok or a frying pan, heat Oil on medium heat for 3-4 minutes and fry the kebabs till golden.",
+        "In a pot, slightly heat Oil on medium heat for 3-4 minutes.",
+        "Add tomatoes, salt and 1/2 teaspoon black pepper and stir for 3-4 minutes.",
+        "Then spread the kebabs in the pot.",
+        "Simmer on low heat for 5-7 minutes and remove from stove.",
+        "Garnish and serve hot with rooghni naan or boiled rice."
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Kashmiri Kabab Curry",
+      "category": "Starters - Kebabs",
+      "ingredients": [
+        "Beef Minced 1/2 Kg",
+        "Red Chilli 1 Tbsp",
+        "Garlic Ginger Paste 2 Tbsp",
+        "Garam Masala Powder 1 Tbsp",
+        "Green Chilli 1 Tbsp",
+        "Egg 1",
+        "Oil for Frying",
+        "Salt to Taste",
+        "Yoghurt 200gms (for gravy)",
+        "Cloves 4 (for gravy)",
+        "Cinnamon Stick 1 (for gravy)",
+        "Tomatoes 5 (for gravy)",
+        "Tomato Puree 2 Tbsp (for gravy)",
+        "Red Chilli Powder 1 Tbsp (for gravy)",
+        "Ginger Garlic Paste 2 Tbsp (for gravy)",
+        "Garam Masala Powder 1 Tbsp (for gravy)",
+        "Oil 6 Tbsp (for gravy)",
+        "Coriander 20g (for gravy)",
+        "Salt to Taste (for gravy)"
+      ],
+      "instructions": [
+        "Mix the mince meat, split gram, whole spices, a cup of water and salt to taste in a pan.",
+        "Cook until liquid dries.",
+        "Remove from the heat and add ginger, garlic, pepper, chilli powder, coriander and cumin powder garam masala powder, and grind the mixture into a fine paste and knead into a dough.",
+        "Now add the chopped mint leaves, lime juice, onion and salt to taste.",
+        "Make lemon sized balls of the dough, flatten the balls and stuff them with a little onion mixture.",
+        "Dip the stuffed kebabs in the beaten eggs and shallow fry till golden brown"
+      ]
+  },
+  {
+    "id": 38,
+    "name": "Malai Tikka",
+    "category": "Starters - Kebabs",
+    "ingredients": [
+      "Chicken mince 1/2 kg",
+      "Cream 1/2 cup",
+      "Lemon juice 2 tbsps",
+      "Desiccated coconut 2 tbsps",
+      "Almond 1 tbsp",
+      "Salt to taste",
+      "White pepper 2 tsp",
+      "Raw papaya 1 tbsp"
+    ],
+    "instructions": [
+        "Marinate chicken with all the ingredients and take a little mixture and skew on the skewers so that the tikkas do not break off in places.",
+        "Barbeque and serve hot."
+      ]
     }
-  ]
+  ] 
 }

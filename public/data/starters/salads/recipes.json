@@ -1,0 +1,1479 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+      "name": "Russian Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Potatoes 2",
+        "Carrots 2",
+        "Apple 1",
+        "Walnut 50 g",
+        "Raisin 50 g",
+        "Mayonnaise ½ cup",
+        "Black pepper ¼ tsp",
+        "Salt to taste",
+        "Cream 4 tsp"
+      ],
+      "instructions": [
+        "Boil potatoes and carrots.",
+        "Cut apple, potato and carrot into cubes.",
+        "Combine boiled carrot, boiled potatoes, apple, walnut, raisin, black pepper, mayonnaise and cream in a bowl and mix well.",
+        "Serve the delicious Russian salad with grilled chicken and zeera pulao.",
+        "To serve, garnish with lettuce leaf, sliced cucumber and long slices of carrot.",
+        "Tips: Boiled green peas or boiled chicken can also be added to the salad."
+        ]
+    },
+    {
+      "id": 2,
+      "name": "Turkish Couscous Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Couscous 200 gm",
+        "Tomato puree 2 tbsp",
+        "Cucumber 1 (cubed)",
+        "Onion 1 (chopped)",
+        "Fresh red chili 1",
+        "Coriander 3 tbsp",
+        "Mint leaves 3 tbsp",
+        "Tomato 1 chopped",
+        "Smoked paprika powder 1 tsp",
+        "Salt 1 tsp",
+        "Cumin powder 1 tsp",
+        "Parsley 3 tbsp",
+        "Extra virgin Olive oil 2 tbsp",
+        "1 Lemon's juice and zest",
+        "Freshly ground black pepper 1 tsp"
+      ],
+      "instructions": [
+        "In a large bowl put couscous add salt, paprika, cumin powder and mix well with spoon.",
+        "Add boiling water that covers the couscous stir spoon to incorporate, cover and leave for 10 minutes.",
+        "Mix with fork and add onion, tomato, cucumber, red chili, olive oil, coriander, mint, parsley, black pepper, lemon juice and zest mix all ready to serve."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Orange Chicken Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Orange 1 large",
+        "Dried cherries ½ bowl",
+        "Salad dressing 2 tbsp",
+        "Lettuce 1 cup",
+        "Cooked chicken ½ cup",
+        "Walnut 4 tbsp (chopped)",
+        "Spinach leaves 1 cup",
+        "Cheese grated for garnish",
+        "Black pepper ½ tsp"
+      ],
+      "instructions": [
+        "Cut oranges into half and scoop out segments carefully so segments do not get mushy keep a side orange's both shell.",
+        "Cut fine chunks of orange segments and combine all ingredients in a large bowl except leaves.",
+        "Arrange spinach and lettuce on two plates and put orange shells on the centre of both plates like a bowl.",
+        "Fill orange shells with salad sprinkle grated cheese and freshly ground black pepper"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Blueberry Orange and Spinach Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Pecans ¼ cup (coarsely chopped)",
+        "Maple syrup 1 tbsp",
+        "Sugar ½ tsp",
+        "Fresh orange juice ¼ cup",
+        "White vinegar 1 tbsp",
+        "Olive oil 1 tbsp",
+        "Sugar 1 tbsp",
+        "Torn spinach leaves 4 bowls",
+        "Blueberries 1 cup",
+        "Oranges 2 diced"
+      ],
+      "instructions": [
+        "Line baking tray with parchment paper now lay foil paper on tray.",
+        "In a bowl mix pecans and syrup well and spread coated pecans on the foil and sprinkle ½ tsp of sugar on pecans and now bake till 7 minutes or roast well. Remove and let them cool completely.",
+        "For Salad Dressing: In a bowl add vinegar, oil, orange juice and 1 tbsp of sugar whisk all till creamy dressing is ready. Set aside.",
+        "In a serving large bowl put orange, blueberries and spinach pour over dressing and toss well sprinkle roasted pecans and serve."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Winter Crunch Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Garlic bread",
+        "Chicory 2 heads",
+        "Celery sticks 2",
+        "Radish a bunch",
+        "Walnut toasted coarsely 2 tbsp (chopped)",
+        "Red apples 2",
+        "Cheese ½ cup",
+        "Mustard dressing 3-4 tbsp",
+        "Honey 2 tbsp"
+      ],
+      "instructions": [
+        "Cut apple into thin wedges, trim radish and cut in quartered also separate chicory into leaves.",
+        "In a large bowl toss celery, nuts, radish, apples and chicory.",
+        "Take half of garlic bread and make slices of it keep a side and make small chunks of remaining bread and add into salad bowl top with cheese chunks pour dressing and honey toss well to incorporate well.",
+        "Ready for serve with garlic bread slices."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Layered Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Potato 50g (boiled)",
+        "Carrot 50g",
+        "Egg 4 (boiled)",
+        "Chicken boiled 50g (shredded)",
+        "Mayonnaise 50g",
+        "Black pepper ¼ tsp"
+      ],
+      "instructions": [
+        "Cut potato, carrot and egg in cube shape.",
+        "In a bowl first set layer of boiled potato, then chicken; add some mayonnaise and sprinkle black pepper.",
+        "Now layer eggs, mayonnaise, carrot and cover with thin layer of mayonnaise.",
+        "Chill in fridge and turn over salad on plate and serve or serve as it is in the bowl."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cucumber & Peanut Fantasy Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Cucumber 4 large",
+        "Soya Sauce 1 tsp",
+        "Sugar or sweetener 1 tsp",
+        "Crushed salted peanuts 1/2 cup",
+        "1/2 Lemon's juice"
+      ],
+      "instructions": [
+        "Peel and cut cucumber into tiny square pieces.",
+        "Take a large bowl add cucumber and peanuts.",
+        "Add seasonings mix well and serve."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "American Corn Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Sweet corn 1 cup",
+        "Spring onion 1 cup finely chopped",
+        "Capsicum chopped into tiny cubes ½ cup",
+        "Tomatoes chopped into tiny cubes ½ cup",
+        "Cucumber chopped in tiny cubes 1 cup",
+        "Mayonnaise 6 tbsp",
+        "Salt ½ tsp",
+        "White pepper ¼ tsp",
+        "Sugar 1 tbsp"
+      ],
+      "instructions": [
+        "Mix everything together (sweet corn, spring onion cup, capsicum chopped, tomatoes, cucumber, mayonnaise, salt, white pepper and sugar) in a bowl."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pasta Chicken Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Chicken breast 2 (boiled cut in cubes)",
+        "Macaroni 2 cup (boiled)",
+        "Capsicum 1 (cut in tiny cubes)",
+        "Sweet corn ½ cup",
+        "Tomatoes puree 3 tbsp",
+        "Ketchup 3 tbsp",
+        "Chili sauce 1 tbsp",
+        "Sugar 1 tbsp",
+        "Salt ½ tsp heaped",
+        "Cream 2 tbsp",
+        "Mayonnaise ½ cup",
+        "Salad leaves for serving"
+      ],
+      "instructions": [
+        "In a bowl add chicken breast, macaroni, capsicum, sweet corn, tomato puree, ketchup, chili sauce, sugar, salt, cream and mayonnaise. Mix well.",
+        "Serve over bed of salad leaves, serve chilled."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Tomato, Basil and Feta Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Roma (plum) tomatoes 6 (diced)",
+        "Cucumber 1 small (peeled and chopped)",
+        "Green onions 3 (chopped)",
+        "Fresh basil leaves 1/4 cup (thin strips)",
+        "Olive oil 2 tbsp",
+        "Balsamic vinegar 2 tbsp",
+        "Crumbled feta cheese 3 tbsp",
+        "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl toss together the tomatoes, cucumber, green onions, basil, olive oil, balsamic vinegar, and feta cheese.",
+        "Season with salt and pepper and serve."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mojito Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Fresh fruit 4 cups",
+        "Granulated sugar ¼ cup",
+        "Water 2 tbsp",
+        "Lime juice ¼ cup",
+        "Fresh mint leaves 1 tbsp"
+      ],
+      "instructions": [
+        "Cook sugar and water over low heat until sugar dissolve.",
+        "Stir in lime juice.",
+        "Drop mixture over fresh fruits and toss gently until fruit is lightly coated.",
+        "Sprinkle mint, toss again and serve."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Prawn Salsa",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Prawns 300 gm (boiled, chopped)",
+        "Capsicum 1",
+        "Tomatoes 2 (boiled, chopped)",
+        "Garlic 2 cloves",
+        "Onion 1",
+        "Green chilies 4",
+        "Cucumber 1",
+        "Oil 2 tbsp",
+        "Corn ½ cup",
+        "Lemon juice 1 tbsp",
+        "Coriander leaves ¼ bunch",
+        "Black pepper powder ½ tsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Finely chop capsicum, tomatoes, garlic, onion, green chilies and cucumber.",
+        "Heat oil in a wok, add in chopped garlic.",
+        "Sauté till golden brown.",
+        "Now add all the chopped vegetables, corn, lemon juice, coriander leaves, black pepper powder and salt.",
+        "Mix well and fry for a few minutes.",
+        "Lastly add boiled chopped prawns and mix well.",
+        "Dish it out and serve."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Yogurt Egg Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Actiplus yogurt ½ cup",
+        "Egg 4 (hard boiled)",
+        "Butter 2 tsp",
+        "Salt ½ tsp",
+        "Black pepper ½ tsp",
+        "Mustard powder ½ tsp",
+        "Mayonnaise 1 tbsp",
+        "Macaroni 1 cup",
+        "Actiplus yogurt ½ cup",
+        "Capsicum, cucumber, tomatoes 1 cup (chopped)",
+        "Lemon juice 2 tbsp",
+        "Salt ½ tsp",
+        "Black pepper ½ tsp"
+      ],
+      "instructions": [
+        "Cut boiled eggs into two halves and scoop out yolks.",
+        "Mash the yolk with yogurt and all other ingredients till gets creamy.",
+        "Fill this mixture into boiled egg whites with piping bag or directly.",
+        "In a bowl add macaroni, yogurt, chopped tomatoes, cucumber, capsicum, lemon juice, salt and black pepper together.",
+        "Place this mixture in the center of a serving dish.",
+        "Set egg white filled with beaten yolk and enjoy delicious healthy salad."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Summer Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Potato 1 (boiled)",
+        "Kidney beans ½ cup",
+        "White beans ½ cup",
+        "Red radish 3 – 4",
+        "Green capsicum 1",
+        "Red capsicum 1",
+        "Ice berg half",
+        "Tomatoes 2",
+        "Cucumber 1",
+        "Parsley ¼ bunch (chopped)",
+        "Apple 1",
+        "Mayonnaise ¼ cup",
+        "Fresh cream ¼ cup",
+        "Mustard paste 1 tbsp",
+        "Lemon juice 2 tbsp",
+        "Salt to taste",
+        "Black pepper 1 tsp (crushed)"
+      ],
+      "instructions": [
+        "Finely chop radish, green capsicum, red capsicum, green capsicum, ice berg, tomato, cucumber and parsley.",
+        "Now in a bowl mix all the chopped vegetables with boiled red and white beans.",
+        "Also chop potatoes into small cubes, add to salad mixture and mix well.",
+        "Finely chop and an apple and mix to the salad.",
+        "Separately mix together mayonnaise, fresh cream, mustard paste and lemon juice. Mix well.",
+        "Lastly in a large bowl put together all the chopped vegetables, salt, black pepper and prepared dressing. Mix all well.",
+        "Dish it out, serve chilled."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cashew Chicken Mango Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Chicken breast 450 gm",
+        "Extra virgin olive oil",
+        "Salt and pepper",
+        "Mangoes 3 (chopped and peeled)",
+        "Avocados 2 (chopped and peeled)",
+        "Cashews 1/2 cup",
+        "Mixed Lettuce 12 cups",
+        "Lime juice 1/4 cup",
+        "Honey 2 tsp"
+      ],
+      "instructions": [
+        "Brush both side of chicken with virgin oil, salt and pepper",
+        "Then fry chicken for 4 to 5 minutes over a medium heat.",
+        "Remove from the heat and let it cool slightly.",
+        "Then cut chicken into the small pieces.",
+        "For Dressing: Mix lime juice, honey salt and pepper in bowl and steam in 2 tsp olive oil.",
+        "Then divide the lettuce in plates and top with cooked chicken, mangoes, avocados and 2 tsp cashews in each plate and drizzle with the dressing.",
+        "Delicious and mouth-watering cashew chicken salad is ready to serve."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Chipotle-Mango BBQ Chicken Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Mango 1 (chopped)",
+        "Chipotle pepper 1",
+        "Adobo sauce 2 tsp",
+        "Ketchup 1/2 cup",
+        "Apple juice 1/2 cup",
+        "Onion 1/4 (chopped)",
+        "Garlic 4 cloves (smashed)",
+        "Juice from half lemon",
+        "Unseasoned rice vinegar 2 tsp",
+        "Brown sugar 2 tsp",
+        "Canola oil 1 tsp",
+        "Paprika 2 tsp",
+        "Salt 2 tsp",
+        "Black pepper 1 tsp",
+        "Plain Greek yogurt 2 tsp",
+        "Chicken breasts 2",
+        "Ears sweet corn 2 (shucked)",
+        "Vine-ripened tomato 1 (cut into cubes)",
+        "Cilantro 1/4 cup (chopped)",
+        "Dole Romaine Salad mix 1 bag"
+      ],
+      "instructions": [
+        "For the Sauce: Mix mango, chipotle pepper, adobo sauce, ketchup, apple juice, onion, garlic, lemon juice, unseasoned rice vinegar, brown sugar, canola oil, paprika, salt, black pepper into saucepan and boil over a medium heat for 15-20 minutes. Let it cool then put into blender and process until smooth.",
+        "For Dressing: Mix prepared sauce, plain Greek yogurt. Then taste it and add more lime juice, salt and pepper if necessary.",
+        "For the Salad: Marinate chicken breast into prepared sauce for at least 15 minutes or up to 3 hours. Then grill it over a medium-high heat for 5-6 minutes per side. Before slicing, remove it from the grill at least for 5 minutes. Grill corn along with the chicken, turn it every few minutes until cooked on all sides. Let it cool for a few minutes, and then slice kernels off the cob.",
+        "Divide lettuce into plates, and then top with the grilled corn, tomatoes, cilantro and chicken. Drizzle with prepared dressing.",
+        "Ready to serve."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Green Mango Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Raw mango 2 (cut julliene about 400 gm)",
+        "Green onions 2 (cut lengthwise)",
+        "Red chilies 2 (deseeded and sliced)",
+        "Dry shrimp 1 ½ tbsp",
+        "Fish sauce 2 tbsp",
+        "Peanuts ½ cup (roasted)",
+        "Fresh coriander 3 tbsp (chopped)",
+        "Brown sugar 2 tbsp",
+        "Lemon juice 3 – 4 tbsp",
+        "Sweet chili sauce 1 tbsp"
+      ],
+      "instructions": [
+        "Soak mango in a bowl of ice water to make it crisp.",
+        "Using a mortar and pestle pound the dry shrimp along with the peanuts, red chili and coriander.",
+        "Add the fish sauce, lemon juice, sweet chili sauce and sugar and combine.",
+        "On a serving platter place the drained mango and toss along with the green onion pour over the mixture of all the spices and toss well.",
+        "Serve with lemon wedges and garnish with fresh coriander."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Chicken Minced Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Chicken mince 250 grams",
+        "Cucumber 1",
+        "Whole red chilies 4 to 5",
+        "Chopped spring onion 1 cup",
+        "Chopped coriander 1 cup",
+        "Chopped mint 1 cup",
+        "Chopped cabbage ½ cup",
+        "Garlic paste 1 tbsp",
+        "Fish sauce 2 to 3 tbsp",
+        "Roasted rice 2 to 3 tbsp",
+        "Lemon juice 3 to 4 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Roast whole red chilies and crush.",
+        "In a pan, heat olive oil and add garlic paste and chicken mince and sauté briefly.",
+        "When water begins to dry up and chicken looks tender, take it off the flame.",
+        "In a mixing bowl, add mincemeat, crushed and roasted red chilies, fish sauce, chopped spring onion, chopped coriander, chopped mint and lemon juice and mix well.",
+        "Now add roasted rice and mix.",
+        "Garnish with cabbage and cucumber and serve."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Sweet and Sour Pasta Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Shell pasta ½ packet",
+        "Tomato ketchup 1 cup",
+        "Pineapple cubes 1 tin",
+        "Cucumber sliced 2",
+        "Carrot sliced 2",
+        "Capsicum sliced 2",
+        "Boiled almond 10",
+        "Parsley as required",
+        "Black pepper crushed ½ tbsp",
+        "Brown sugar 2 tbsp",
+        "Salad oil 2 tbsp",
+        "Lemon juice 2 tbsp",
+        "Brown vinegar 3 tbsp",
+        "Oil for stir frying 2-3 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a large pot of boiling, salted water cook the pasta to al dente.",
+        "Drain, place in a large bowl and set aside.",
+        "To make the dressing mix together tomato, ketchup, brown vinegar, brown sugar, salad oil and salt.",
+        "Place the drained pasta in a large bowl.",
+        "Finely slice cucumber, carrot and capsicum.",
+        "Mix with the pasta along with the pineapple chunks.",
+        "Pour the dressing over the pasta.",
+        "Add lemon juice, black pepper, salt and chopped parsley.",
+        "Gently mix the salad cover and refrigerate for 30 minutes.",
+        "Before serving garnish with stir fried almonds."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mexican Bean Salad",
+      "category": "Starters - Salads",
+      "ingredients": [
+        "Kidney Beans 1 can",
+        "Haricot Beans or cannellini beans 1 can",
+        "Sweet Corn 1 small can",
+        "Red Bell Pepper 1",
+        "Fresh Green Chili 1",
+        "Onion 1",
+        "Coriander 1 bunch",
+        "Garlic 1 clove",
+        "Salt to taste",
+        "Pepper to taste",
+        "Tomato deseeded 1",
+        "Limes 2",
+        "Salt to taste",
+        "Pepper to taste",
+        "Caster sugar 1/4 tsp",
+        "Oregano 1 tbsp",
+        "Olive oil 4 tbsp"
+      ],
+      "instructions": [
+        "Drain the beans and corn well and set aside in bowl.",
+        "Chop the onion, green chili, red pepper and tomato into 1 cm cubes. Mix with the beans.",
+        "And season lightly with salt and pepper.",
+        "To make the dressing beat the oil, lime juice, zest of 1 lime, oregano and salt and pepper and sugar until well combined.",
+        "Pour over salad toss well to combine and allow it to sit for 15 to 20 minutes",
+        "Now before serving, garnish with coriander and serve."
+      ]
+    },
+{
+  "id": 21,
+  "name": "Chicken and Rice Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Rice long white kernel cooked & cooled 1 cup - for salad",
+    "Chicken diced, cooked 1 cup - for salad",
+    "Cheese diced 4 tbsp - for salad",
+    "Celery sliced 2 1/2 tbsp - for salad",
+    "Lettuce sliced 1 cup - for salad",
+    "Cucumber 1/2 cup - for salad",
+    "Sour cream 1 cup - for dressing",
+    "Mayonnaise 1/3 cup - for dressing"
+  ],
+  "instructions": [
+    "In a large bowl combine cooked rice, chicken, cheese and celery",
+    "Toss to mix In a small bowl combine dressing ingredients",
+    "Blend well",
+    "Pour over rice mixture",
+    "Toss to coat",
+    "To serve, place 1 cup lettuce on each of 4 plates",
+    "Spoon rice mixture evenly onto lettuce with cucumber"
+  ]
+},
+{
+  "id": 22,
+  "name": "Noodles & Black Olive Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Noodles 1/2 pk",
+    "White pepper pd 1/2 tsp",
+    "Cream 1/4 cup (65 ml)",
+    "Black olives 10-12",
+    "Celery leaves (for garnish) can be alternated with lettuce leaves",
+    "Mayonnaise (blender) 1",
+    "The mixed vegetable variety 1/4cup /300ml"
+  ],
+  "instructions": [
+    "Take the mayonnaise and combine with the cream.",
+    "Take the boiled broken noodles and place in a salad bowl, add the creamed mayonnaise and toss the salad well.",
+    "Add olives, pepper apd and celery leaves and chill for at least 30 minutes"
+  ]
+},
+{
+  "id": 23,
+  "name": "Pomegranate and Rocket Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Baby Spinach Leave 4 to 5",
+    "Rocket Leaves 6 to 8",
+    "Red Pomegranate 1 cup peeled",
+    "Walnuts Handful",
+    "Feta Cheese crumbled 50 gms",
+    "Salt to taste",
+    "Black Pepper",
+    "Sugar 1/2 cup to caramelize walnuts",
+    "Raspberry Jam 3 tbsp - for dressing",
+    "Virgin olive oil 1/4 cup - for dressing",
+    "Balsamic Vinegar 1 tbsp - for dressing",
+    "Honey 1 tsp - for dressing",
+    "Mustard 1/2 tsp - for dressing",
+    "Salt and pepper to taste - for dressing"
+  ],
+  "instructions": [
+    "Mix all the ingredients for the dressing and gradually add the oil.",
+    "To serve layer the leaves and pomegranate",
+    "Now finish with some crumbled cheese, caramel walnuts and the dressing and serve immediately."
+  ]
+},
+{
+  "id": 24,
+  "name": "Chicken and Macaroni salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Chicken Breast boneless 2, boil and chop in small pieces",
+    "Shell Macaroni 200 g",
+    "Pineapple bits 1 small can",
+    "Almonds 1/2 cup, peeled and broken in two",
+    "White pepper 1/2 tsp, powdered",
+    "Sugar 1 tbsp",
+    "Lemon juice 2 lemons",
+    "White vinegar 2 tbsp",
+    "Salad oil 1 tbsp"
+  ],
+  "instructions": [
+    "Boil the macaroni according to package instructions drain and rinse in cold water.",
+    "Combine the macaroni in a large bowl with the pineapple bits and the syrup.",
+    "Then add all other ingredients and mix well.",
+    "Chill for several hours.",
+    "Tastes best when very cold."
+  ]
+},
+{
+  "id": 25,
+  "name": "Medley of Fruits with Candied Rose",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Watermelon 1/4 medium sized",
+    "Pineapple 1/4 medium sized",
+    "Apples 2 medium sized",
+    "Lemon juice 1 tsp",
+    "Pomegranate 1/2 medium sized",
+    "Orange 1",
+    "Sweet lime 1",
+    "Candied rose petals (Gulkand) 2 tbsp",
+    "Fresh orange or sweet lime juice 1 cup"
+  ],
+  "instructions": [
+    "Scoop out watermelon into small balls, using a parisienne scoop.",
+    "Scoop out pineapple also into small balls.",
+    "Scoop apples into small sized balls and sprinkle with lemon juice and mix well.",
+    "Peel pomegranate and separate the pomegranate pearls.",
+    "Peel orange, deseed, remove the white pith and cut the segments into two.",
+    "Mix candied rose petals (Gulkand) with fresh orange juice or fresh sweet lime juice.",
+    "Arrange the fruits in a serving plate decoratively and refrigerate.",
+    "Just before serving place candied rose petal and fresh juice mixture onto the arranged fruits.",
+    "Serve immediately."
+  ]
+},
+{
+  "id": 26,
+  "name": "Mixed Sprouts and Cucumber Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Cherry tomatoes(chopped) 200 g",
+    "Beans & lentils(mixed) 625 g",
+    "Red onion(finely diced) 1 small",
+    "Lebanese cucumbers(sliced) 4 small",
+    "Light olive oil 1 tbsp",
+    "Lemon juice 1",
+    "Cumin seeds(roasted) 1 tsp",
+    "Mint leaves(chopped) 3 tbsp",
+    "Coriander leaves(chopped) 2 tbsp",
+    "Salt & black pepper(ground)"
+  ],
+  "instructions": [
+    "Place the tomatoes in a mixing bowl.",
+    "Rinse & drain mixed sprouts and add them to tomatoes with red onion and cucumber.",
+    "Mix together the olive oil, lemon juice and cumin seeds and pour over the salad.",
+    "Stir in the chopped herbs and season well before serving."
+  ]
+},
+{
+  "id": 27,
+  "name": "Black-Eyed Beans with Leeks Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Black-eyed beans 250 gm",
+    "Water 4 cups",
+    "Leeks, washed well 2",
+    "Olive oil 2 tsp",
+    "Clove garlic, crushed 1",
+    "Grainy mustard 1 tbsp",
+    "Cider 1 cup",
+    "Fresh lemon thyme 1 tbsp or Dried thyme leaves 1 tsp",
+    "Fresh parsley, chopped 2 tbsp"
+  ],
+  "instructions": [
+    "Place the beans in a large pan and cover with water.",
+    "Bring to the boil, reduce heat and simmer for about 40 minutes.",
+    "Slice the leeks (use the white and tender green parts only, discard the tough, outer green leaves).",
+    "Heat the oil in a large pan, add the garlic and leeks and cook, covered, over low heat for 4-5 minutes, stirring occasionally.",
+    "Add the mustard, cider, drained beans and thyme to the garlic and leek mixture.",
+    "Cover and continue cooking for about 15 minutes, or until the beans are tender but not mushy.",
+    "Sprinkle with the parsley and serve."
+  ]
+},
+{
+  "id": 28,
+  "name": "Chopped Egg & Cucumber Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Eggs (hard boiled) 4",
+    "Olives 5/6",
+    "Crème 2 tbsp",
+    "White pepper 1 tsp",
+    "Salt to taste",
+    "Cucumber slice (with skin on) 1",
+    "Cucumber (mashed with the eggs) 1",
+    "Chicken stock (ice cubes) 2",
+    "Mayonnaise 6 tbsp"
+  ],
+  "instructions": [
+    "Take the hard boiled eggs and mash roughly with mayonnaise, chicken stock, 1 cucumber, white pepper and crème.",
+    "Then in a plate arrange the sliced cucumbers, place the egg mixture in the middle and top with crème.",
+    "Garnish with black olives."
+  ]
+},
+{
+  "id": 29,
+  "name": "Cold Chicken Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Chicken Breast boneless 2, boiled and cubed",
+    "Potatoes 3 boiled, peeled and cubed",
+    "Green peas 1 cup, shelled and boiled",
+    "Apples 2 chopped and sprinkled with sugar and lemon",
+    "Pineapple 4 slices, chopped",
+    "Capsicums 2, remove seeds and white pith, chop fine",
+    "Almonds 10-12 peeled, roasted separated in tow",
+    "Raisins 10, soak in hot water and roast on tawa",
+    "Fresh cream 1 cup",
+    "White pepper 1 tsp, powdered",
+    "Sugar 1/2 tbsp",
+    "Salt to taste",
+    "White flour 3 tbsp - for white sauce",
+    "Milk 3 cups - for white sauce",
+    "White pepper 1 tsp, powdered - for white sauce",
+    "Butter 1/2 tbsp - for white sauce",
+    "Salt to taste - for white sauce"
+  ],
+  "instructions": [
+    "Heat butter in a small pan, add sifted white flour and stir till it changes color slightly. Remove from heat.",
+    "After five minutes pour milk in it and stir constantly.",
+    "Put the pan back on heat; continue to stir till the sauce thickens.",
+    "Remove from heat and add salt and pepper; let it cool.",
+    "Combine fruit and vegetables, almonds, sugar and salt in a large bowl.",
+    "Add the white sauce and cream.",
+    "Mix well. Sprinkle raisins on top."
+  ]
+},
+{
+  "id": 30,
+  "name": "Kachoomber Salad",
+  "category": "Starters - Salads",
+  "ingredients": [
+    "Cucumber, peeled and seeded 1 medium",
+    "onion 1/2 medium",
+    "tomato 1 medium",
+    "lemon (about 2 tablespoons) Juice of 1/2 large",
+    "salt, or to taste 1/2 teaspoon",
+    "black pepper, 1/2 teaspoon freshly ground",
+    "cilantro leaves 2 tablespoons coarsely chopped"
+  ],
+  "instructions": [
+    "Thinly slice or chop into thin chunks the cucumber, onion and tomato, combine in a medium bowl.",
+    "Add the lemon juice, salt and pepper and mix well.",
+    "Adjust seasoning as necessary.",
+    "When ready to serve, garnish with the cilantro."
+  ]
+},
+{
+        "id": 46,
+        "name": "Mediterranean Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Ice lettuce",
+          "Onion (chopped) 2",
+          "Sun ripe tomatoes (optional) 1-2",
+          "Tomatoes 1-2",
+          "Cottage cheese (cubes) 1 small bowl",
+          "Black olives 1 small bowl",
+          "Olive oil as required (or 5-6 tbsp)",
+          "Salt 1/2 tsp",
+          "Black pepper 1/2 tsp",
+          "Vinegar 3-4 tbsp",
+          "Garlic paste according to taste"
+        ],
+        "instructions": [
+          "Take off the leaves of ice lettuce roughly.",
+          "Add salt, black pepper in some olive oil.",
+          "Also add vinegar and garlic in olive oil mixture.",
+          "Mix all the ingredients well.",
+          "Now add tomatoes, olives, onion and sun ripe tomatoes.",
+          "Also add cottage cheese.",
+          "Pour the olive oil mixed dressing on top of it.",
+          "The salad is ready to be served."
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Lebanese Salsa",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tomato (finely chopped) 1",
+          "Parsley (chopped) 1 tbsp",
+          "Garlic (crushed) 1 clove",
+          "Green chilly (finely chopped) 1",
+          "Lemon juice 1 tbsp",
+          "Olive Oil 1 tbsp",
+          "Salt (to taste)",
+          "Pepper (to taste)"
+        ],
+        "instructions": [
+          "Take a large bowl and mix chopped tomato, parsley and garlic.",
+          "Also mix green chilli, lemon juice and olive oil.",
+          "Add salt and pepper and mix well.",
+          "Serve the salsa as an accompaniment to any food."
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Farfalle Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Farfalle bow pasta 1 cup",
+          "Chicken breast, boiled 2 pieces",
+          "Tomato, without seeds 1",
+          "Capsicum 1 cube",
+          "Cucumber peeled, without seeds 1",
+          "Sweet corn 1/2 cup",
+          "Black or green olives 10-12",
+          "Carrot (slightly boiled) 1 medium",
+          "Red chilies, crushed 1/2 tsp",
+          "Black pepper, crushed 1/2 tsp",
+          "Mayonnaise 6 tbsp"
+        ],
+        "instructions": [
+          "For boiling pasta, fill a pan with water and add a pinch of salt and 2 tbsp oil.",
+          "Add pasta and boil for 8-10 minutes.",
+          "Drain out water when boiled and wash under with running cold water.",
+          "Take a bowl and put boiled cold pasta in it.",
+          "Now add boiled chicken, tomato, capsicum, cucumber, sweet corn, olives, carrot, crushed red chilies, crushed black pepper and mayonnaise.",
+          "Mix well. Decorate with tomato flower and serve."
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Fish Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Fish fillet 1",
+          "Salt and pepper to taste",
+          "Lemon juice to taste",
+          "Olive oil to taste",
+          "Egg yolks 2 large - for red pepper mayonnaise",
+          "Dijon mustard 1 tbsp - for red pepper mayonnaise",
+          "Olive oil 250 ml - for red pepper mayonnaise",
+          "Balsamic vinegar 2 tbsp - for red pepper mayonnaise",
+          "Sugar 1 tsp - for red pepper mayonnaise",
+          "Lemon juice 1 tbsp - for red pepper mayonnaise",
+          "Red pepper, roasted 2 - for red pepper mayonnaise"
+        ],
+        "instructions": [
+          "Marinate fish in salt, pepper and lemon juice for 3-4 hours.",
+          "Grill till done and golden brown, basting with oil.",
+          "To prepare red pepper mayonnaise: In a food processor, blend yolks until thickened.",
+          "Add mustard.",
+          "With food processor still running, add oil in a steady stream until mixture thickens and emulsifies.",
+          "Add vinegar, sugar, salt and freshly-ground pepper to taste, lemon juice and 1 tbsp boiling water to set it.",
+          "Process red pepper until smooth and fold into mayonnaise.",
+          "Store in refrigerator in a screw-top jar until required.",
+          "Make slits on the fish and pour mayonnaise over it.",
+          "Serve warm with a fresh salad."
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Caesar Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Iceberg 1",
+          "Parmesan Cheese grated 1/4 cup",
+          "Chicken Fillet Strips 100 gm",
+          "Salt to taste",
+          "Pepper to taste",
+          "Oregano pinch",
+          "Lemon juice 1/2 lemon",
+          "Garlic croutons as required",
+          "Mayonnaise 1/4 cup - for salad dressing",
+          "Grainy Mustard paste 1 tsp - for salad dressing",
+          "Grated Parmesan 3 tbsp - for salad dressing",
+          "White Vinegar 1/2 tsp - for salad dressing",
+          "Sour cream 1 tbsp - for salad dressing",
+          "Salt to taste - for salad dressing",
+          "Black pepper to taste - for salad dressing",
+          "Olive oil as required - for salad dressing",
+          "Garlic ground 1 clove - for salad dressing"
+        ],
+        "instructions": [
+          "Whip all the ingredients of salad dressing together.",
+          "Coat chicken with oregano, salt and black pepper and grill on a pan till done.",
+          "Serve salad with lettuce, croutons, and Parmesan, topped with the grilled chicken."
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Sweet Corn and Cottage Cheese Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Sweet corn 1-2 tins",
+          "Crushed black pepper 1 tsp",
+          "Sugar 1 tbsp",
+          "Salt to taste",
+          "Lemon 2",
+          "Raisin 1 packet (soaked in warm water and then lightly fried)",
+          "Cottage cheese cubed 1 pack",
+          "Mint leaves 1/2 bunch"
+        ],
+        "instructions": [
+          "Combine sweet corn, black pepper, salt, sugar, lemon juice and fried raisins, mix well.",
+          "Cut the cottage cheese in cubes and fry them lightly.",
+          "Add the cheese to the corn and then add chopped mint leaves.",
+          "Leave to cool and serve."
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Chicken Tandoori Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Chicken boneless (cut into 1 inch cubes) 1 cup",
+          "Iceberg lettuce coarsely chopped 1",
+          "Capsicum cut into cubes 1",
+          "Tomato chopped 1",
+          "Cucumber with skin (cut into cubes) 2",
+          "Onion rings 3-4",
+          "Orange color a pinch",
+          "Red kidney beans 1 cup",
+          "Green olive 1/4 cup",
+          "Black olives 1/4 cup",
+          "Garlic 1 tsp",
+          "Salt 1/2 tsp",
+          "Chili powder 1/2 tsp",
+          "Yogurt 1 tbsp",
+          "Lemon juice 2 tbsp",
+          "Oil 2 tbsp",
+          "Oil 1/2 cup - for dressing",
+          "Garlic paste 1 tsp leveled - for dressing",
+          "White vinegar 1 tbsp - for dressing",
+          "Salt 1/2 tsp - for dressing",
+          "Mustard powder 1/2 tsp - for dressing",
+          "Black pepper 1/2 tsp - for dressing"
+        ],
+        "instructions": [
+          "Marinate the chicken cubes with garlic, salt, chili powder, pinch of orange color, lemon juice, yogurt and oil.",
+          "Now pan fry in 1 tbsp oil till chicken is tender for about 10 minutes.",
+          "Remove and put a inflamed coal with chicken on silver foil.",
+          "Drop some oil on coal, cover tightly for 1 minute.",
+          "In a bowl mix together iceberg lettuce, capsicum, tomato, cucumber, onions, red kidney beans, green olive and black olives.",
+          "Mix in the grilled chicken cubes.",
+          "Just before serving add in the blended dressing.",
+          "Serve on a platter.",
+          "For Dressing: In blender put together oil, garlic paste, white vinegar, salt, mustard powder and black pepper.",
+          "Blend for 2 minutes."
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Tuna Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tuna fish 1 can",
+          "Salt and pepper to taste",
+          "Onion 1",
+          "Cucumber 1 (Peeled)",
+          "Tomato 1 (deseeded)",
+          "Green chili 1",
+          "Ice berg Lettuce 100 gm",
+          "Capsicum 1",
+          "Olive oil 1 tsp",
+          "Lemon juice 1 tsp"
+        ],
+        "instructions": [
+          "Take out tuna fish from can, put into the strainer to strain the oil out of it.",
+          "Take a bowl, put strained tuna fish into the bowl.",
+          "Now cut onion, cucumber, tomato, capsicum into small cubes. Cut green chili and lettuce.",
+          "Season with olive oil, salt, pepper and lemon juice.",
+          "Mix all ingredients properly.",
+          "Serve it on a platter with garlic toast."
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Raw Vegetable Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tomatoes 3 sliced",
+          "Cucumbers 2 sliced",
+          "Onions 2 sliced in rings",
+          "Carrots 2 sliced",
+          "Green chilies 4 chopped",
+          "Coriander 1 bunch chopped",
+          "Lettuce leaves as required torn",
+          "Lemon juice 2 tbsp",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a mixing bowl add carrots, cucumber, tomatoes and onion rings.",
+          "Then add chopped coriander, lettuce leaves and chopped green chilies, toss well.",
+          "Now squeeze in lemon juice and sprinkle salt.",
+          "Toss and serve."
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Sweet and Sour Pasta Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Shell pasta ½ packet",
+          "Tomato ketchup 1 cup",
+          "Pineapple cubes 1 tin",
+          "Cucumber sliced 2",
+          "Carrot sliced 2",
+          "Capsicum sliced 2",
+          "Boiled almond 10",
+          "Parsley as required",
+          "Black pepper crushed ½ tbsp",
+          "Brown sugar 2 tbsp",
+          "Salad oil 2 tbsp",
+          "Lemon juice 2 tbsp",
+          "Brown vinegar 3 tbsp",
+          "Oil for stir frying 2-3 tbsp",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a large pot of boiling, salted water cook the pasta.",
+          "Drain, place in a large bowl and set aside.",
+          "To make the dressing mix together tomato, ketchup, brown vinegar, brown sugar, salad oil and salt.",
+          "Place the drained pasta in a large bowl.",
+          "Finely slice cucumber, carrot and capsicum.",
+          "Mix with the pasta along with the pineapple chunks.",
+          "Pour the dressing over the pasta.",
+          "Add lemon juice, black pepper, salt and chopped parsley.",
+          "Gently mix the salad cover and refrigerate for 30 minutes.",
+          "Before serving garnish with stir fried almonds."
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Potato and Pineapple Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Potato 1 (boiled and mashed)",
+          "Egg 1 (boiled and mashed)",
+          "Cucumber 1 (chopped)",
+          "Pineapple pieces 1 cup",
+          "Cream 1 tbsp",
+          "Black pepper ½ tsp",
+          "Icing sugar ½ tsp",
+          "Salt ¼ tsp",
+          "Mayonnaise 2 tbsp",
+          "Peanut 2 tbsp (fried)"
+        ],
+        "instructions": [
+          "In a bowl, add potato, egg, cucumber, pineapple pieces, cream, black pepper, icing sugar, salt and mayonnaise; mix them properly together.",
+          "Take it out in a platter and garnish with peanut before serving.",
+          "Delicious Potato and Pineapple Salad is ready to serve."
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Beef Steak Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Beef under cut 200 gm",
+          "Salt to taste",
+          "Pepper ½ tsp",
+          "Mustard paste 1 tsp",
+          "Ice-berg or lettuce 1",
+          "Bell pepper 1",
+          "Balsamic vinegar 1 tbsp",
+          "Tomato 1 (medium size)",
+          "Olive oil 2 tbsp"
+        ],
+        "instructions": [
+          "Take the under - cut meat cut into thin slices, marinade with salt, pepper, 1 tbsp olive oil & mustard paste for 30 minutes.",
+          "Take Ice-berg lettuce, tear the lettuce leaves with your hands, wash and dip into chilled water.",
+          "Julienne cut the bell peppers.",
+          "Add them to the bowl of lettuce.",
+          "Take grill pan or frying pan, and heat on a medium flame.",
+          "Grill the marinated beef steaks from both the sides, cook till soft & tender, remove from the grill, and leave it to cool.",
+          "Now julienne cut the beef and add to the lettuce bowl, add salt & pepper for seasoning, 1 tbsp olive oil, balsamic vinegar, tomato wedges, toss well.",
+          "Serve in a deep platter."
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Chicken Pasta Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Pasta ½ packet (boiled)",
+          "Chicken 200 gm (boiled)",
+          "Tomato 2",
+          "Salad leaves as required",
+          "Capsicum 1",
+          "Almond 10",
+          "Coriander or parsley 2 tbsp",
+          "Mayonnaise ½ cup - for dressing",
+          "Milk ½ cup - for dressing",
+          "Sugar 1 tsp - for dressing",
+          "Poppy seeds 1 tsp - for dressing",
+          "Black pepper ½ tsp - for dressing",
+          "Mustard seeds ½ tsp - for dressing",
+          "Salt ½ tsp - for dressing",
+          "Vinegar 2 tbsp - for dressing"
+        ],
+        "instructions": [
+          "In a bowl, add pasta, chicken, tomatoes, salad leaves, capsicum and almonds and mix it together.",
+          "Then in a different bowl, beat together mayonnaise, milk, sugar, poppy seeds, black pepper, mustard seeds, salt and vinegar and pour it on the salad.",
+          "Garnish with coriander or parsley and serve."
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Corn Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Barley 4 cups",
+          "Frozen corn, thawed 1 cup",
+          "Green onion, sliced 1 cup",
+          "Red bell pepper, chopped 1/2 cup",
+          "Green bell pepper, chopped 1/2 cup",
+          "Lime peel, grated 1/2",
+          "Lime juice 2 Tbs",
+          "Balsamic Vinegar 1/2 cup",
+          "Vegetable oil 3 Tbs",
+          "Dill weed 1 1/2 tsp",
+          "Salt 1/2 tsp"
+        ],
+        "instructions": [
+          "Prepare barley according to package directions. Let cool.",
+          "Combine barley, corn, onion and peppers together in a large bowl.",
+          "To prepare dressing combine lime peel, juice, vinegar, oil, salt and dill in a small bowl.",
+          "Whisk to blend. Pour dressing over corn mixture. Toss well.",
+          "Cover and refrigerate."
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Macaroni, Corn and Basil Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Elbow macaroni 3/4 cup uncooked",
+          "Tomatoes, cut into thin wedges 4 medium",
+          "Green onions, thinly sliced 5",
+          "English hothouse cucumber 1 cup thin slices",
+          "Fresh corn kernels or frozen, thawed 1 cup",
+          "Fresh basil leaves 1 cup",
+          "Yogurt 1/3 cup plain",
+          "Mayonnaise 3 tbsp",
+          "Fresh lime juice 1 1/2 tbsp",
+          "Garlic cloves 2 peeled"
+        ],
+        "instructions": [
+          "Boil salted water in medium saucepan.",
+          "Add macaroni to boiling water just until tender but still firm. Drain.",
+          "Rinse under cold water. Drain well.",
+          "Place macaroni in large bowl.",
+          "Add tomatoes, green onions, cucumber and corn.",
+          "Combine basil, yogurt, mayonnaise, lime juice and garlic in processor until basil is finely chopped.",
+          "Mix basil dressing with macaroni mixture and toss to blend.",
+          "Add salt and pepper to taste.",
+          "Cover and refrigerate."
+        ]
+      },
+      {
+        "id": 33,
+        "name": "BBQ Pasta Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Boneless chicken, cut in small cubes 1/4 kg",
+          "Lemon juice 3 tbsp",
+          "Green chillies, crushed 3",
+          "Garlic powder 1 1/2 tbsp",
+          "Chilli powder 1/2 tsp",
+          "Salt to taste",
+          "Shell pasta, boiled 2 cups - for pasta salad",
+          "Cabbage, shredded 3 cups - for pasta salad",
+          "Green peas, boiled 1 cup - for pasta salad",
+          "Lettuce leaves, finely chopped 3 - for pasta salad",
+          "Fresh cream 6 tbsp - for salad dressing",
+          "Mayonnaise 3 tbsp - for salad dressing",
+          "Cold milk 5 tbsp - for salad dressing",
+          "Black pepper powder 1/2 tsp - for salad dressing",
+          "Salt to taste - for salad dressing"
+        ],
+        "instructions": [
+          "Preheat oven to 200°C.",
+          "Marinate the chicken in lemon juice, green chillies, chilli powder, salt and garlic powder for 20 minutes.",
+          "Grill the marinated chicken in pre-heated oven till chicken becomes soft and crisp.",
+          "Remove from oven and set aside.",
+          "In a bowl, mix fresh cream, milk, mayonnaise, salt and black pepper and beat well.",
+          "Combine cabbage, peas, grilled chicken, boiled pasta and lettuce leaves in a large salad bowl.",
+          "Pour the dressing on the salad and mix well.",
+          "Garnish with lettuce leaves and chill in refrigerator until ready to serve."
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tomato Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tomatoes 3 medium sized",
+          "Plum tomatoes 3",
+          "Pint yellow cherry tomatoes 1",
+          "Bunch chives 1 small",
+          "Lime 1 large",
+          "Orange juice 1/3 cup",
+          "Salt 1/4 teaspoon",
+          "Freshly ground pepper",
+          "Lime slices for garnish"
+        ],
+        "instructions": [
+          "Cut medium-sized tomatoes into 1/4 inch thick slices.",
+          "Cut each plum tomato and yellow cherry tomato in half.",
+          "Chop enough chives to measure 1 tablespoon.",
+          "Reserve remaining chives for garnish.",
+          "Squeeze juice from lime into small bowl.",
+          "Stir in chopped chives, orange juice and salt.",
+          "Arrange sliced tomatoes around rim of platter.",
+          "Pile plum tomatoes and yellow cherry tomatoes in center of platter.",
+          "Drizzle salad with dressing, sprinkle with pepper.",
+          "Garnish with lime slices and reserved chives"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Coleslaw Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Grated green cabbage 1-1/2 cups",
+          "Grated red cabbage 1-1/2 cups",
+          "Carrots, grated 2 medium",
+          "Fat-free Cole slaw dressing 3/4 cup",
+          "Pineapple chunks 20 ounce can",
+          "Black pepper, freshly ground, to taste"
+        ],
+        "instructions": [
+          "Fold first 5 ingredients together in a large bowl with wooden spoon.",
+          "Chill and serve with a garnish of freshly ground black pepper.",
+          "Serve with outdoor-cooked foods."
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Spinach and Orange Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Spinach leaves, chopped 200 g",
+          "Oranges 2",
+          "Onions chopped 1/2",
+          "Oil 3 tbsp - for dressing",
+          "Orange juice 2 tbsp - for dressing", 
+          "Lemon juice 2 tsp - for dressing",
+          "Salt to taste - for dressing",
+          "Black pepper to taste - for dressing"
+        ],
+        "instructions": [
+          "Slice the top and bottom off each orange, then remove the peel carefully and slice the segments.",
+          "Save the juice for salad dressing.",
+          "In a salad tray mix together spinach leaves, orange segments and scatter the chopped onions over the salad.",
+          "To make the dressing, whisk together oil, orange and lemon juice, salt and pepper in a bowl.",
+          "Pour the dressing over the salad just before serving.",
+          "Toss the salad well to coat the leaves with the dressing."
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Carrot Raisin Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Carrots(grated) 500 g",
+          "Raisins 2 tbsp",
+          "Light brown sugar 3 tsp",
+          "Salt & pepper to taste",
+          "Oil 6 tbsp - for vinaigrette",
+          "Balsamic vinegar 2 tbsp - for vinaigrette",
+          "Mustard powder 1 tsp - for vinaigrette",
+          "Sugar 1/2 tbsp - for vinaigrette",
+          "Lemon juice 1/2 tbsp - for vinaigrette",
+          "Salt & pepper to taste - for vinaigrette"
+        ],
+        "instructions": [
+          "Mix the carrots in a bowl along with the raisins, sugar, salt and chill in the refrigerator.",
+          "Combine all the ingredients for the vinaigrette in a jar with a well-fitting lid and shake to combine thoroughly.",
+          "Pour the desired quantity of dressing over the salad and store the rest in the jar in the refrigerator."
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Beetroot and Orange Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Beetroot, cooked, peeled and drained 1",
+          "Boiled rice 1-1/2 cup",
+          "Oranges 4",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Orange rind, finely grated 1/2 tsp - for dressing",
+          "Garlic clove, crushed 1 - for dressing",
+          "Mustard powder 1 tbsp - for dressing",
+          "Honey 2 tsp - for dressing",
+          "Yoghurt 4 tbsp - for dressing"
+        ],
+        "instructions": [
+          "Slice the top and bottom off each orange and remove the skin and pith.",
+          "Holding the orange over a bowl, carefully slice the segments.",
+          "Collect the juice in the bowl and leave to chill.",
+          "Place the segments in a separate bowl.",
+          "Dice the beetroot into small cubes, mix with the orange segments and leave to chill.",
+          "In a bowl mix rice with orange juice and season with salt and pepper.",
+          "In a salad plate spoon over rice and top with the beetroot and orange mixture.",
+          "Mix all the dressing ingredients together and spoon over the salad or serve separately in a bowl."
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Apple Pineapple Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Apple (diced) 1 large",
+          "Fresh Pineapple(diced) 1/2 medium",
+          "Oranges (segmented) 2 medium",
+          "Mint Leaves 10 fresh",
+          "Lemon Juice 1 tbsp - for dressing",
+          "Sugar 1 tsp - for dressing",
+          "Salt to taste - for dressing",
+          "Roasted Cumin Seeds 1/2 tsp - for dressing",
+          "Red Chilli Flakes 1/2 tsp - for dressing",
+          "Peppercorns (crushed) 5-6 - for dressing"
+        ],
+        "instructions": [
+          "Mix together all the ingredients for the dressing along with 2 tbsp of water.",
+          "Mix together prepared apple, pineapple & orange.",
+          "Add the dressing & toss well to mix.",
+          "Serve garnished with roughly torn mint leaves."
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Prawns & Mango Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Small Prawns(Peeled) 3/4 cup",
+          "Green Coriander Chutney 1/2 cup",
+          "Green Unripe Mango(Peeled) 1 small",
+          "Tomatoes 2 medium",
+          "Mustard Paste 1 tsp",
+          "Salt to taste",
+          "Black Peppercorns(crushed) 7-8",
+          "Lemon Juice 1 tsp",
+          "Iceberg Lettuce(chilled) 4-5 leaves"
+        ],
+        "instructions": [
+          "Halve the tomatoes, remove the seeds and cut into strips.",
+          "Marinate prawns in green coriander chutney for about fifteen minutes.",
+          "Heat a pan and cook prawns till they are done.",
+          "Mix together mango, tomato, mustard paste, salt, crushed peppercorns, lemon juice and one tablespoon of water.",
+          "Add the cooked prawns and toss to mix.",
+          "Serve on a bed of chilled, crisp lettuce."
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Rajma Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tomatoes(chopped) 1/2 cup - for dressing",
+          "Spring onion(chopped) 1/2 cup - for dressing",
+          "Coriander(finely chopped) 2 tbsp - for dressing",
+          "Green Chillies(finely chopped) 1/2 tsp - for dressing",
+          "Salt to taste - for dressing",
+          "Spring onions, thinly sliced 2 tbsp",
+          "Red kidney beans(soaked overnight and boiled) 1 cup",
+          "Cherry Tomatoes(cut into halves) 3-4",
+          "Cottage cheese 1/4 cup",
+          "Sweet corn kernels(cooked) 1/4 cup",
+          "Capsicum(chopped) 1/4 cup",
+          "Nachos(crushed) 1/4 cup",
+          "Salt to taste",
+          "Cheese(grated) 2 tbsp",
+          "Cheese(grated) 2 tbsp - for garnish",
+          "Cherry Tomatoes(halves) 1 - for garnish"
+        ],
+        "instructions": [
+          "Combine all the ingredients together in a salad bowl.",
+          "Keep refrigerated. Just before serving add the dressing and toss well.",
+          "Serve immediately garnished with cheese and cherry tomatoes."
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Mixed Bean Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Rajma (boiled) 1 cup",
+          "Black eyed beans (boiled) 1 cup",
+          "Chick peas (boiled) 1 cup",
+          "Tomatoes (chopped cubed) 1",
+          "Onion (chopped) 2-3 tbsp",
+          "Green chilies (chopped) 3",
+          "Chopped coriander leaves 2 tbsp",
+          "Garlic paste 1/2 tsp - for dressing",
+          "Lemon juice 4 tbsp - for dressing",
+          "Chat masala 2 tsp - for dressing",
+          "Black pepper powder 1/2 tsp - for dressing",
+          "Salt 1/2 tsp - for dressing",
+          "Olive oil 2 tbsp - for dressing"
+        ],
+        "instructions": [
+          "Take a bowl and pour in lemon juice.",
+          "Add salt, chaat masala, crushed black pepper, garlic paste & olive oil and mix well.",
+          "Add chick peas, rajma, black eyed beans, onion, tomato, green chilies & coriander leaves.",
+          "Mix them all and serve."
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Egg and Tuna Salad",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Tuna fish 200 g canned",
+          "Eggs, hard-boiled 4",
+          "Mandarin oranges 200 g canned",
+          "Stuffed green olives 75 g",
+          "Lemon juice 2 tbsp",
+          "Soya sauce 2 tbsp",
+          "Oil 2 tbsp",
+          "Few sprigs parsley for garnish",
+          "Salt, pepper, pinch of sugar"
+        ],
+        "instructions": [
+          "Drain and flake tuna fish. Slice the eggs.",
+          "Drain the mandarin oranges and olives and slice olives.",
+          "Mix these ingredients together lightly.",
+          "For dressing blend lemon juice and soya sauce into oil and season with salt, pepper and sugar.",
+          "Pour over the salad and leave to marinate in the refrigerator for 10 minutes.",
+          "Divide the salad between 4 glass dishes and garnish with sprigs of parsley."
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Salad with Chili and Peanuts Dressing",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "New Potato 300 halves",
+          "Cauliflower chopped 250 gm",
+          "Carrots 2 sliced",
+          "Red cabbage 1/2 small",
+          "Bean sprouts 2 cup",
+          "Long green cucumber 1",
+          "Boiled eggs 4",
+          "Black and yellow Raisins 4 tbsp",
+          "Butter 300 gm - for peanut dressing",
+          "Curry powder 1 1/2 tsp - for peanut dressing",
+          "Ground cumin 1 tsp - for peanut dressing",
+          "Plain flour 1 tsp - for peanut dressing",
+          "Sweet chilly sauce 2 tbsp - for peanut dressing",
+          "Crunchy peanuts 1/2 cup - for peanut dressing",
+          "Brown sugar 1 tbsp - for peanut dressing",
+          "Coconut cream 400 ml - for peanut dressing",
+          "Medium onion finely chopped - for peanut dressing",
+          "Peanuts crushed 1 cup - for peanut dressing"
+        ],
+        "instructions": [
+          "Boil, steam or microwave potatoes, cauliflower, carrots separately until just tender, drain, rinse under cold water, drain.",
+          "Place cabbage on plate top with cooked vegetable, sprouts, cucumber and egg, peanut dressing, and raisin.",
+          "Peanut Dressing: Heat butter in pan, add onion, cook, stirring until soft.",
+          "Next add peanuts, curry powder, cumin, flour and chilly sauce, cook, stirring 2 minutes stir in peanut crushed, sugar and coconut cream.",
+          "Simmer uncovered about 10 minutes or until slightly thickened."
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Mango Salsa",
+        "category": "Starters - Salads",
+        "ingredients": [
+          "Mango 1",
+          "Onion 1/2",
+          "Tomato 2",
+          "Cucumber 1",
+          "Green chillssi 1",
+          "Coriander leaves 3 tbsp",
+          "Lemon juice 2 tbsp",
+          "Black pepper as required",
+          "Red chilli powder 1/2 tsp",
+          "Salt as required",
+          "Olive oil as required"
+        ],
+        "instructions": [
+          "Chopped all vegetables finely.",
+          "In a mixing bowl, mix all ingredients well except onion.",
+          "Add chopped onion before serving."
+        ]
+      }
+    ]
+  }

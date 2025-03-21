@@ -11,7 +11,7 @@ const categories = {
   'main-courses': {
     name: 'Main Courses',
     subcategories: ['chicken', 'lamb', 'beef', 'seafood', 'vegetables']
-  },
+},
   'sides': {
     name: 'Sides',
     subcategories: ['rice', 'bread', 'daal']
@@ -47,11 +47,12 @@ function CategoryView() {
       .then(data => {
         const categoryRecipes = data.recipes.filter(recipe => {
           if (!selectedSubcategory) {
-            // Exact match for category name
-            return recipe.category === category.name;
+            // Check if the recipe's category starts with the main category name
+            return recipe.category.startsWith(category.name);
           }
-          // For subcategories, check if the recipe's category includes the subcategory name
-          return recipe.category.toLowerCase().includes(selectedSubcategory.toLowerCase());
+          // For subcategories, check if the recipe's category includes both the main category and subcategory
+          return recipe.category.toLowerCase().includes(selectedSubcategory.toLowerCase()) &&
+                 recipe.category.startsWith(category.name);
         });
         setRecipes(categoryRecipes);
         setLoading(false);

@@ -1,0 +1,1277 @@
+{
+    "recipes": [
+        {
+    "id": 1,
+    "name": "Chicken Croquettes",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Chicken mince 250 g",
+      "Onion (chopped) 1",
+      "Potato (boiled) 5",
+      "Salt as to taste",
+      "White pepper 1 tsp",
+      "Plain flour 1/2 cup",
+      "Eggs 2",
+      "Bread crumbs 1 cup",
+      "Oil as required"
+    ],
+    "instructions": [
+      "Heat some oil in a pan.",
+      "Saute fry onions in it and then add minced meat.",
+      "Add salt, white pepper and mix well.",
+      "Cook them well and then put aside to let it cool.",
+      "Mash the potatoes and add chicken mixture in it.",
+      "Mix them all well and make small round shapes.",
+      "Beat the eggs well.",
+      "Roll them in plain flour, then in eggs, then in bread crumbs.",
+      "Deep fry them all.",
+      "Serve with ketchup or any other dip."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Falafel",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Chickpeas 250 gms",
+      "Garlic cloves 3-4",
+      "Parsley 1 bunch",
+      "Coriander leaves",
+      "Green chillies 2",
+      "Flour 2 tbsp",
+      "Soda 3-4 tsp",
+      "Cumin seed powder 1 tsp",
+      "Whole coriander 1 tsp",
+      "Salt to taste",
+      "Black pepper to taste"
+    ],
+    "instructions": [
+      "Boil and grind grams.",
+      "Put garlic cloves, parsley, coriander leaves, green chillies, flour, soda, cumin seed, whole coriander, salt and black pepper.",
+      "Mix all spices and grind grams more.",
+      "Now make pattie/kabab of this mixture.",
+      "Heat oil and fry falafal is ready to serve."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chicken Drum Sticks",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Chicken drum sticks 10 to 12",
+      "Potato (boiled) 3",
+      "Rice 1 cup",
+      "Chilli flakes 1-1/2 tbsp",
+      "Salt",
+      "Ginger garlic paste 2 tbsp",
+      "Black pepper 1 tbsp",
+      "Cumin seed ground 1 tbsp",
+      "Coriander seed 1tbp",
+      "Green chilli 4-5",
+      "Coriander leaves 1/2 cup",
+      "Egg",
+      "Bread crumbs",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Steam chicken drum sticks in steamer for about 12 to 10 minutes.",
+      "Now in a bowl mash potatoes.",
+      "In potatoes put rice, chilli flakes, ginger garlic paste, black pepper, cumin seed, coriander seed, coriander leaves and salt mix well.",
+      "Now coat this potato mixture on chicken drum sticks.",
+      "Dip these coated sticks in beaten egg then roll into crumbs.",
+      "Deep fry in oil.",
+      "Drum Sticks are ready to serve with sauce or ketchup."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Potato Samosa",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "All-purpose Flour 2-1/2 cup",
+      "Ghee 6 tbsp",
+      "Salt to taste",
+      "Water as required",
+      "Potato (boiled) 5",
+      "Salt 1/2 tsp",
+      "Coriander seed 1 tsp",
+      "Cumin seed 1 tsp",
+      "Red chilli powder 1/2 tsp",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "In flour put salt, ghee and water knead dough.",
+      "Make small balls and flatten.",
+      "Roll it with rolling pin and make roti.",
+      "For filling: Mash potatoes in a bowl.",
+      "Put salt, coriander seed, cumin seed and red chilli powder mix well.",
+      "Now fill this mixture and give samosa shape.",
+      "Heat oil in a wok and deep fry on low flame.",
+      "Serve hot with yogurt/curd chutney."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Fish Cutlets",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Surmai fish (cut into finger size pieces) 1/2 kg",
+      "Lemon juice 2 tbsp",
+      "Vinegar 1 tbsp",
+      "Salt 1 tsp",
+      "Red chilli powder 1 1/2 tsp",
+      "gram flour 3 tsp",
+      "Cumin seeds ground 1/2 tsp",
+      "Egg 1",
+      "Cornflour 1 tbsp",
+      "Maida 1/2 cup",
+      "Salt 1 tsp",
+      "Water 1/2 cup",
+      "Bread crumbs, mixed with a little chat masala",
+      "Oil for Deep-frying"
+    ],
+    "instructions": [
+      "Marinate the fish in the marinade for 1 hr.",
+      "Dip pieces of fish in the batter, roll in bread crumbs and chat masala mixture.",
+      "Deep fry in hot oil until golden and serve with chutney."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chicken on Toast",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Chicken mince 250 g",
+      "Onion chopped 2 tbsp",
+      "Green chilies chopped 1 tsp",
+      "Garlic paste 1/2 tsp",
+      "Flour 1-1/2 tbsp",
+      "Corn flour 2 tbsp",
+      "Salt 1 tsp leveled",
+      "White pepper 1/2 tsp",
+      "Egg 1",
+      "Baking powder 1 tsp",
+      "Bread slices 6",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix mince, onions, green chilies, garlic paste, flour, salt, white pepper, egg and baking powder. Mix altogether very well.",
+      "Spread this mixture over each bread slice and deep fry in hot oil for 5 minute.",
+      "Drain out the slices, cut in square shape and deep fry again for 2 minute till golden brown."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Spring Rolls",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Samosa strips 20",
+      "Rice noodles 30 grams",
+      "Bean sprouts 1 cup",
+      "Bamboo shoots ½ cup",
+      "Cabbage (thinly sliced) 1 cup",
+      "Spring onions ¼ bunch",
+      "Salt 1 tsp",
+      "Black pepper powder ¼ tsp",
+      "Soya sauce 1 tsp",
+      "Sesame seed oil 1 tsp",
+      "Eggs 2",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Soak rice noodles for 15 minutes (they do not require boiling).",
+      "Heat sesame seeds oil in a wok.",
+      "Add rice noodles, bamboo shoots, cabbage, spring onions, salt, black pepper powder, soya sauce, bean sprouts and 1 egg.",
+      "Stir fry for 1-2 minutes.",
+      "Put off the flame; place all ingredients at one end of samosa strips.",
+      "Fold them and close the edges with beaten egg, then deep fry till golden brown.",
+      "Take them out on paper towel.",
+      "Serve delicious, hot, crispy Spring Rolls with ketchup."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Spaghetti Cutlets",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Spaghetti 1 cup (boiled)",
+      "Potatoes 2 cups (boiled and mashed)",
+      "Chicken 1 cup (boil and shredded)",
+      "Cheddar cheese ½ cup (grated)",
+      "Sweet corn ½ cup",
+      "Salt 1 tsp (leveled)",
+      "Black pepper 1 tsp (leveled)",
+      "Coriander leaves 2 tbsp",
+      "Green chilies chopped 1 tsp",
+      "Egg 1 beaten",
+      "Fresh breadcrumb as required"
+    ],
+    "instructions": [
+      "Combine together spaghetti, potatoes, chicken, cheddar cheese, sweet corn, salt, black pepper, coriander leaves and green chillies, mix well.",
+      "Form the mixture into small cutlets.",
+      "Dip in beaten egg, roll in bread crumbs.",
+      "Shallow fry in frying pan until golden brown.",
+      "Garnish with lemon, onion and tomato slices.",
+      "Serve with chutney"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Pizza Roll",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Chicken 200 grams (boneless)",
+      "Bar b.q masala 1 tbsp",
+      "Lemon juice 2 tbsp",
+      "Garlic paste 1 tbsp",
+      "Red chilli powder 1 tsp",
+      "Oil 2 to 3 tbsp",
+      "Salt as required",
+      "White flour ½ kg",
+      "Yeast 1 sachet",
+      "Sugar 1 tbsp",
+      "Baking powder 2 tsp",
+      "Capsicum 1 (sliced)",
+      "Tomato 1 (sliced)",
+      "Mushrooms ½ cup",
+      "Black olives ½ cup",
+      "Pizza sauce 1 cup",
+      "Mozzarella cheese 400 gram"
+    ],
+    "instructions": [
+      "Method for preparing chicken: In a bowl add barbeque sauce, garlic paste, lemon juice, red chilli powder and salt.",
+      "Mix well, add the chicken pieces.",
+      "Heat oil in pan and fry the chicken pieces till it turns golden brown.",
+      "Turn the flame off.",
+      "Method for making Dough: Add yeast in lukewarm water along with sugar.",
+      "Leave a side for 15 minutes till it rises.",
+      "Now add white flour, salt and baking powder.",
+      "Knead until smooth dough is formed.",
+      "Cover with a plastic sheet and leave a side in a warm place for 3-4 hours, until the dough rises.",
+      "Knead the dough again until a uniform consistency is reached.",
+      "Dough is ready.",
+      "Method for making pizza roll: Preheat oven at 200 degree C",
+      "Make small round balls with the dough and roll them with a rolling pin.",
+      "Spread the sauce onto the base of each flattened dough.",
+      "Add chopped capsicum, chopped tomatoes, sliced mushrooms and chicken pieces.",
+      "Roll each dough and bake in the oven for 15-20 minutes.",
+      "Delicious pizza roll is ready to serve, enjoy!"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chilli Fries",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Potatoes 2 (cut into fingers)",
+      "Mince 100 gm",
+      "Oil 2 tbsp",
+      "Onion 2 tbsp chopped",
+      "Salt ½ tsp",
+      "Black pepper ½ tsp",
+      "Mustard paste ½ tsp",
+      "Worcestershire sauce 1 tsp",
+      "Crushed red chilli ½ tsp",
+      "Tomato paste 1 tbsp",
+      "Ketchup 2 tbsp",
+      "Cream 2 tbsp",
+      "Cream cheese 1 tbsp",
+      "Vinegar 1 tbsp",
+      "Jalapeno pepper 4 sliced",
+      "Ginger Garlic paste 1/2tsp",
+      "Parsley chopped 1 tsp",
+      "Green onion leaves 1 tbsp (finely chopped)"
+    ],
+    "instructions": [
+      "Heat oil in a frying pan, add 2tbsp chopped onions and sauté for 2 minutes",
+      "Add garlic paste with mince, and fry for 2 minutes.",
+      "Add all seasonings with ½ cup water.",
+      "Cover and cook till mince is tender.",
+      "In a wok deep fry potato fingers till they turn crisp and light golden in colour.",
+      "To serve: In a platter spread fries topped with mince.",
+      "Then pour cream cheese and sliced jalapeños topped with parsley and green onions.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Quesadillas",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Flour 2 cups",
+      "Baking Powder 1/2 tsp",
+      "Salt 1/2 tsp",
+      "Oil 2 tbsp",
+      "Luke Warm Water to Knead",
+      "Green Onion 4 tbsp",
+      "Tomato (Cube Cut) 1",
+      "Capsicum (Cube Cut) 1",
+      "Jalapeno Pepper 2",
+      "Cream Cheese 1/2 cup",
+      "Cheddar Cheese 1 cup",
+      "Salsa 1/2 cup"
+    ],
+    "instructions": [
+      "Mix salsa and cream cheese in a dish and place aside.",
+      "For tortillas, knead flour, backing powder and salt with luke warm water.",
+      "Mix green onion, tomato, capsicum and jalapeno pepper in a separate bowl.",
+      "Make tortillas with this dough and spread at some surface.",
+      "Place some mixture of salsa and cream cheese over it.",
+      "Place filling mixture over it too and cheddar cheese on the top.",
+      "Join one corner of tortillas with the other one so that the mixture remains inside it.",
+      "Fix the corners with the help of knife of fork by pressing them with it.",
+      "Heat up oil in pan and fry Quesadillas for two minutes by both sides till cheese melts.",
+      "Cut them from the middle and serve."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mozzarella Cheese Sticks",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "3 Tbsp flour",
+      "2 Eggs (beaten)",
+      "3/4 Cup dry bread crumbs",
+      "1/2 Kg mozzarella cheese (cut into sticks roughly 3-4 inches long and 1/2 inch wide)",
+      "1 Tbsp chili powder",
+      "2 Tsp garlic salt",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Spoon flour into a bowl; set aside.",
+      "In another shallow bowl, mix together bread crumbs, chili powder, and garlic salt.",
+      "Beat eggs in a third bowl.",
+      "Prepare cheese sticks by first dredging them in the flour, one at a time, turning to coat evenly.",
+      "Dip cheese sticks in egg mixture, and then coat with the bread crumb mixture.",
+      "Dip again in the eggs, and once more in the bread crumbs.",
+      "Set on waxed paper and continue until all of the cheese sticks are coated.",
+      "In deep frying pan add oil and heat it on medium flame.",
+      "Using tongs, gently place cheese sticks into the hot oil and fry for about 30 seconds, or until golden brown.",
+      "Do not overcook, as the breading will burn quite quickly.",
+      "Remove mozzarella sticks from the oil and set on paper towels to drain.",
+      "Serve immediately with any dipping sauce or tomato ketchup."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Prawn Tempura",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Large prawns 1/2 kg",
+      "Cornflour 1/2 cup",
+      "Wheat flour 1/2 cup",
+      "Egg 1",
+      "Soda water 1 bottle",
+      "Breadcrumbs 1 cup",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Wash, and de-vein the prawns, but leaves the tail on.",
+      "Put corn flour, wheat flour, soda water, beaten egg, breadcrumbs, and salt in a bowl to make a thick paste.",
+      "Add prawns to this mixture and leave them for 15 minutes.",
+      "Heat oil in wok.",
+      "Put prawns in the wok one by one.",
+      "When the prawns start turning golden, take them out on a dish and serve."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sesame Crispy Fried Wings",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "Wings 12 pcs",
+      "Chilli sauce 3 tbsp",
+      "Soy sauce 3 tbsp",
+      "Salt as to taste",
+      "Black pepper (crushed) 1 tsp",
+      "Cornflour 2 cup",
+      "Oil as required",
+      "Sesame seeds 1/2 cup"
+    ],
+    "instructions": [
+      "Mix chilli sauce, soy sauce, salt and black pepper.",
+      "Also add in cornflour and sesame seeds.",
+      "Now dip the wings in this batter and then leave to marinate.",
+      "Then deep fry them in oil."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Batata Wada",
+    "category": "Starters - Snacks",
+    "ingredients": [
+      "cloves of Garlic 5 to 6",
+      "Ginger 1\" piece",
+      "Green Chillies 6 to 7",
+      "Oil 2 tbsp",
+      "Mustard seeds 1 tsp",
+      "Cumin seeds 1 tsp",
+      "Pinch of Hing",
+      "Curry Leaves 7 to 8",
+      "Turmeric powder 1/2 tsp",
+      "boiled Potatoes 3",
+      "Lemon juice 1 tbsp",
+      "Coriander leaves1/2 cup chopped",
+      "Besan 1 cup",
+      "Rice Flour 2 tbsp",
+      "Chilli powder 1/2 tsp",
+      "Turmeric powder 1/4 tsp",
+      "pinch of Baking Soda"
+    ],
+    "instructions": [
+      "Boil, peel and mash potatoes in small bites.",
+      "Mix ginger, garlic and green chillies together in to a blender and grind coarsely.",
+      "Heat up oil, add mustard seeds, cumin seeds, hing, curry leaf and coarse ginger garlic paste. Sauté until it gets light golden colour.",
+      "Add turmeric powder, mashed potatoes and mix well.",
+      "Add salt, lemon juice and coriander leaves and mix well.",
+      "For Batter: Take besan, to that add rice flour, turmeric powder, chilli powder, baking soda, salt to taste and mix well.",
+      "Add water slowly and make it in to little thick consistency batter.",
+      "For Vada: Make small balls from potato mixture, deep in to chickpea batter and deep fry until it gets deep golden color from all the sides.",
+      "Serve hot with pav and garnish with some peanut chutney, tamarind or mint chutney."
+    ]
+  },
+  {
+        "id": 16,
+        "name": "Bread Samosa",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Sandwich bread 15-20",
+          "Minced chicken 1/2kg",
+          "Eggs 2",
+          "Red chilli powder 1tbsp",
+          "Garam masala powder 1tsp",
+          "Turmeric 1/2tsp",
+          "Coriander powder ½ bunch",
+          "Chopped green chillies 2tbsp",
+          "Ginger garlic paste 1tbsp",
+          "Oil for frying",
+          "Salt as required"
+        ],
+        "instructions": [
+          "Heat oil in a pan and fry the minced chicken.",
+          "Then add the red chilli powder, garam masala powder, turmeric powder,",
+          "Coriander powder, chopped green chilies salt and ginger garlic paste.",
+          "Mix well and fry for 3-4 minutes, turn the flame off and let it cool.",
+          "Roll the bread slices with a rolling pin.",
+          "Then fill in the chicken mixture and seal the bread with the egg.",
+          "Heat oil in a wok and deep fry the bread samosas.",
+          "Delicious bread samosa is ready."
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Three Layered Dhoklas",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Rice 50 gms",
+          "Split black lentils (Urad dal) 50 gms",
+          "Gram lentils (Chana dal) 75 gms",
+          "Yellow lentils (Moong dal) 75 gms",
+          "Shelled peas 75 gms",
+          "Coconut 1/2",
+          "Green chillies 4",
+          "Ginger 1\" piece",
+          "Oil as needed",
+          "Salt to taste",
+          "Sugar 1 tsp",
+          "Turmeric powder 1 tsp",
+          "Soda bi-carb 1 tsp",
+          "Lemon 1",
+          "Mustard seeds 1/2 tsp",
+          "Curry leaves 6",
+          "Scarp coconut 1/2",
+          "Coriander leaves 2 tbsp"
+        ],
+        "instructions": [
+          "Soak rice and split black lentils separately for 4-5 hours.",
+          "Then grind the rice a little coarsely and the lentils finely.",
+          "Mix in salt, soda bi-carb and 3/4 cup water. Keep aside.",
+          "Grind the peas, green chillies and ginger finely.",
+          "Heat a little oil and cook peas on low flame after adding salt and sugar.",
+          "Grind the gram and yellow lentils finely.",
+          "Add salt, turmeric powder, 1/2 tsp soda bi-carb, juice of 1 lemon and mix.",
+          "In a vessel put a layer of the gram-yellow lentils mixture.",
+          "It should be 1/2\" high. Steam gently for 5-7 minutes.",
+          "Add a layer of peas on top and then the rice-split black lentils layer.",
+          "Steam gently till ready. When cool, cut into pieces.",
+          "Fry mustard seeds and curry leaves in a little oil, add to the dhoklas.",
+          "Add chopped coriander and grated coconut before serving."
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Bhel Puri",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Puffed rice 1 carton",
+          "Bhel mix 1 packet",
+          "Mashed boiled potatoes 2 cups",
+          "Freshly roasted and ground cumin 3 tbsp",
+          "Green chillies, chopped 2",
+          "Freshly ground black pepper 1 tsp",
+          "Tamarind 4 tbsp",
+          "Onions chopped 1 cup",
+          "Brown sugar 1/2 cup",
+          "Fresh cilantro chopped 1/2 cup"
+        ],
+        "instructions": [
+          "First boil the potatoes.",
+          "Peel and mash them, add salt and pepper to taste.",
+          "Add the cilantro leaves.",
+          "Roast the cumin and grind it.",
+          "Dissolve the tamarind concentrate in 1 cup of hot water, and let it simmer to thicken gradually.",
+          "Dissolve the jaggery until the sauce becomes tart and slightly sweet.",
+          "You may add some salt and ground red paprika, if you want to.",
+          "The sauce should be of a consistency slightly thinner than maple syrup.",
+          "Pour into a serving container (like a creamer).",
+          "Mix the puffed rice and bhel mix in a large bowl.",
+          "On your plate, serve the rice-bhel mixture, add the potatoes, then the onions, chillies, and dust the cumin powder over it.",
+          "Then pour the sauce and top off with the coriander garnish.",
+          "Add salt/pepper to taste."
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Chicken Lolly Pops",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken wings 1/2 kg",
+          "Gram Flour 1 cup",
+          "Salt 1 tsp",
+          "Red Chili Flakes 1 tsp",
+          "Crushed Cumin 1 tsp",
+          "Green Chilies Chopped 1 tsp",
+          "Turmeric Powder 1/4 tsp",
+          "Red Chili Powder 1/2 tsp",
+          "Crushed Coriander 1 tbsp",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Form lolly pops of chicken wings.",
+          "Mix salt, red chili powder, red chili flakes, turmeric, crushed coriander, crushed cumin and chopped green chilies with gram flour to make a thick batter.",
+          "Dip chicken lolly pops in this batter and deep fry it.",
+          "Enjoy the wonderful chicken lolly pops.",
+          "Serve Chicken Lolly Pops with your favourite salsa."
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Banana Seekh Kabab",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Raw bananas 4",
+          "Potatoes 2",
+          "Arvi 2",
+          "Coriander 1, 1/2 tsp",
+          "Ginger (chopped finely) 1\" piece",
+          "Green chillies (cut finely) 2",
+          "Either arrowroot or flour 2-3 tsp",
+          "Mango powder 1, 1/2 tsp",
+          "Green coriander leaves 1/2 bunch",
+          "Salt to taste",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Boil the three vegetables and mash well.",
+          "Then add all the other ingredients. Knead well.",
+          "Form into 4\" long thin rolls and deep fry.",
+          "Serve as a snack."
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Cheese Triangles",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Feta Cheese 1/4 cup",
+          "Green Chillies Finely Chopped 2",
+          "Cottage Cheese 125 gm",
+          "Crushed Black pepper as required",
+          "Salt to taste",
+          "Spring Onion chopped finely 1",
+          "Pita Bread 2"
+        ],
+        "instructions": [
+          "Mix all the ingredients well together until well combined.",
+          "Now spread them on one pita bread and sandwich it together.",
+          "Refrigerate it till firm, then cut into triangles.",
+          "Grease a pan well and grill the triangles on both sides till golden brown."
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Hot and Spicy Fajitas",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Olive oil 2 Tbsp",
+          "Onion (sliced) 1",
+          "Green bell pepper (sliced) 1",
+          "Mushrooms (sliced) 6",
+          "Green onions (sliced) 6",
+          "Carrot (cut into strips) 1",
+          "Soya sauce 1 Tbsp",
+          "Chicken breast (cut into strips) ½ Kg",
+          "Beef (cut into strips) ½ Kg",
+          "Lemon (juice) 1",
+          "Chili powder 1 Tsp",
+          "Vinegar 1",
+          "Cheddar cheese ½ Cup",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "In a large skillet, heat olive oil over medium-high heat.",
+          "Add vegetables, season with salt, vinegar, chili powder, pepper, and soya sauce.",
+          "Saute until crisp and tender for about 5-10 minutes.",
+          "Remove vegetables from skillet and set aside.",
+          "Preheat a grill to medium-high heat.",
+          "Grill the chicken and beef separately.",
+          "Remove from the grill and set aside.",
+          "Heat the same large skillet until very hot and return the vegetables to the pan.",
+          "Add lemon juice. Layer the cheese on top and then lay the meat over it and wrap in chapatti.",
+          "Serve with immediately tomato ketchup or ready-made salsa."
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Zinger Wrap",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken boneless 200 gm",
+          "Potato chips (or cornflakes) crushed 1 cup",
+          "Egg white 1",
+          "Roti (chappati) 1",
+          "Tomato ketchup 1 tbsp",
+          "Mayonnaise 1 tbsp",
+          "Lemon juice 1 tbsp",
+          "Ginger garlic paste 1/2 tsp",
+          "Red chilli flakes 1/2 tsp",
+          "Black pepper 1/2 tsp",
+          "Flour 2 tbsp",
+          "Oil for frying",
+          "Lettuce leaves as required",
+          "Salt as required"
+        ],
+        "instructions": [
+          "Marinate chicken with salt, black pepper, red chilli, lemon juice, garlic ginger paste for 30 minutes.",
+          "Whisk egg whites till soft peaks form.",
+          "Heat oil in a deep frying pan.",
+          "Add flour into the chicken and mix.",
+          "Now coat each chicken piece one at a time, first in egg white and then into the potato/chapapati flakes.",
+          "Fry each chicken piece till golden brown.",
+          "Wrap each chicken piece in a chappati (roti), filling in with mayonnaise, tomato ketchup and lettuce."
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Bread Kachories",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Bread 1 pack",
+          "Chicken mince 1/2 kg",
+          "Salt 1 tsp",
+          "Chinese salt 1 tsp",
+          "Black pepper 2 tsp",
+          "Vinegar 2 tbsp",
+          "Soya sauce 2 tbsp",
+          "Mustard powder 1/2 tsp",
+          "Paprika 1 tsp",
+          "Oregano 1 tsp (optional)",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Take a pan, put chicken mince, add a little water, salt, Chinese salt, black pepper, mustard powder, paprika, soya sauce, vinegar and let it cook.",
+          "Add oregano and a little oil and fry well.",
+          "Take some water in a bowl.",
+          "Dip bread slices in water and squeeze well with hands.",
+          "Take one slice put some mince on it cover with another slice press them and make kachories and deep fry."
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Pakoras of Fish Eggs",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Fish eggs 1 cup",
+          "Green chillies 3",
+          "Onion 1",
+          "Salt to taste",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Beat fish eggs till smooth, in a broad vessel.",
+          "Add finely cut onion, green chillies and salt.",
+          "Mix well and form into small balls, then flatten them on the palm.",
+          "Deep fry till golden brown.",
+          "Serve hot as a snack."
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Roasted Almonds",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Almonds 450 g",
+          "Sugar 450 g",
+          "Water 225 ml",
+          "Cinnamon 1 tsp",
+          "Rose water 125 ml",
+          "Oil for greasing"
+        ],
+        "instructions": [
+          "Preheat oven to gas mark 6/200º C.",
+          "Rub the almonds with a dry cloth.",
+          "Bring sugar and water to the boil and add the cinnamon.",
+          "Stir in the almonds and simmer for 20 minutes.",
+          "Cool for 1 minute then add the rose water.",
+          "Return to the heat and cook until the sugar is completely dissolved and sticks to the almonds. (This will take about 5 minutes)",
+          "Line 2 baking trays with greased aluminium foil.",
+          "Pour the almonds onto the foil and separate them very quickly with two forks.",
+          "Place the baking trays in the preheated oven for 5 minutes to glaze the almonds.",
+          "Remove the almonds from the oven and leave to cool."
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Super Nachos",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Mince 1/2 kg",
+          "Tomato 2",
+          "Onion 1",
+          "Lemon juice 4 tbsp",
+          "Green chili 2 (finely chopped)",
+          "Garlic 1 tbsp (finely chopped)",
+          "Black olives 10",
+          "Red kidney beans 1 cup (boiled)",
+          "Coriander 4 tbsp (finely chopped)",
+          "Tomato paste 4 tbsp",
+          "Mozzarella cheese 1 cup (rasp)",
+          "Chili 2 tsp (crushed)",
+          "Cumin seed 1 tsp",
+          "Salt 1 tsp",
+          "Vinegar 2 tbsp",
+          "Tortillas 6 (small bread)",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Heat oil in a pan, add mincemeat and cook for 5 minutes on high flame.",
+          "Now add chopped Garlic, crushed chilies, salt and cumin seeds in it.",
+          "Add chopped tomatoes and onion, cook for 7 minutes on light flame.",
+          "Then add lemon juice, vinegar, kidney beans, green chili and red chili, then stir it well and turn off the flame.",
+          "Fry the tortillas in oil.",
+          "Put the mincemeat, mozzarella cheese, olives and fresh coriander on top of the tortillas and serve."
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Ragda Patties",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Potatoes 1/2 kg (peeled and boiled) - for patties",
+          "Corn flour 3 tbsp - for patties",
+          "Salt 1 tsp - for patties",
+          "Black pepper 1/2 tsp - for patties",
+          "Mint leaves 1/2 cup - for filling",
+          "Coriander leaves 2 tbsp - for filling",
+          "Green chillies 3 - for filling",
+          "Ginger 1/2 inch piece - for filling",
+          "Sugar 1 tsp - for filling",
+          "Lemon juice 1 tsp - for filling",
+          "Salt 1/4 tsp - for filling",
+          "Chickpeas 1 cup (soaked overnight) - for ragda",
+          "Potatoes 2 boiled (cut into small cubes) - for ragda",
+          "Turmeric 1/4 tsp - for ragda",
+          "Chilli powder 1/2 tsp - for ragda",
+          "Grinded green chillies 1 tsp - for ragda",
+          "Ginger grinded 1 tsp - for ragda",
+          "All spice powder 1/2 tsp - for ragda",
+          "Jaggery 1 tbsp - for ragda",
+          "Salt 1/2 tsp (heaped) - for ragda",
+          "Tamarind pulp 1/4 cup - for ragda",
+          "Oil 1/4 cup - for baghar",
+          "Mustard seeds 1/2 tsp - for baghar",
+          "Curry leaves 10-12 - for baghar"
+        ],
+        "instructions": [
+          "For Ragda: Boil chickpeas with 4 cups of water till tender.",
+          "Heat oil for baghar. Add mustard seed and curry leaves.",
+          "Now add this baghar to the chickpeas with potatoes, turmeric, ginger paste, chilli powder, all spice, salt, ground green chillies, jaggery and tamarind pulp.",
+          "Add 1/2 cup water if required, mix all well.",
+          "Mash the chickpeas slightly so the gravy becomes thick.",
+          "Cook for 10 minutes and keep aside.",
+          "For Patties: Mash boil potatoes. Add in salt, black pepper and corn flour.",
+          "Then divide into 8 equal portions.",
+          "And place the portion of ground filling portion, seal to form into a patties, press lightly on top to make patty. Now shallow fry on non stick pan till light golden.",
+          "For Filling: Mix together; mint leaves, coriander leaves, green chillies, ginger, sugar, lemon juice and salt.",
+          "For Servings: Place 2 patties on a plate, pour ragda on top with chopped onion, sprinkle sev and serve immediately."
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Sweet Corn Chaat",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Sweet corn 2 cups",
+          "Sev 1 cup + 1 cup",
+          "Potatoes 2 cups (boiled, peeled and cubed)",
+          "Tomatoes 2 (small cubes)",
+          "Spring onions ½ cup (chopped)",
+          "Coriander leaves 2 tbsp",
+          "Salt 1 tsp or to taste",
+          "Chili powder 1 tsp",
+          "Allspice powder ½ tsp",
+          "Lemon juice 2 to 3 tbsp",
+          "Oil ¼ cup",
+          "Cumin 1, ½ tsp (crushed and roasted)"
+        ],
+        "instructions": [
+          "Heat oil and stir fry the potatoes for 2 minutes.",
+          "Add sweet corn with salt, chili powder, allspice powder and cumin.",
+          "Remove from flame, cool slightly and mix in tomatoes, spring onion and lemon juice.",
+          "To serve: In a serving dish, spread 1 cup sev, then potatoes and corn mixture.",
+          "Again top with 1 cup sev.",
+          "Garnish with chopped coriander."
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Paneer Sandwich Pakora",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Cottage cheese 2 packets of 8 ounces each",
+          "Mint chutney ½ cup",
+          "Gram flour 1 cup - for batter",
+          "Chilli powder ½ tsp - for batter",
+          "Garlic paste ½ tsp - for batter",
+          "Salt ½ tsp - for batter",
+          "Baking soda pinch - for batter",
+          "Crushed cumin ½ tsp - for batter"
+        ],
+        "instructions": [
+          "In a bowl mix gram flour, chilli powder, salt, garlic paste, cumin and water, mix with your hand to make batter.",
+          "Spread prepared chutney between two slices of cottage cheese.",
+          "Heat oil in a frying pan, dip the cottage cheese sandwiches into the batter, deep fry till golden brown on medium heat.",
+          "Delicious paneer sandwich pakora is ready, Serve hot."
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Moong Ki Daal Ki Chaat",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Fried yellow lentils nimkoo 1 packet",
+          "Onions 2 (chopped)",
+          "Green chilies 2 (chopped)",
+          "Potatoes 2 (boiled)",
+          "Somosa sheets 4 (fried)",
+          "Lemon 6",
+          "Mint leaves 1 bunch (chopped)",
+          "Cottage Cheese 1 packet",
+          "Chaat spice as required",
+          "Black pepper 1 tsp (powder)",
+          "Red chili 1 tsp (powder)",
+          "Salt as required"
+        ],
+        "instructions": [
+          "In bowl add the fried lentils, chopped green chilies, chopped onions, chopped mint leaves and boiled potatoes. Mix well.",
+          "Now add the black pepper and red chili powder along with the lemon juice.",
+          "In a serving platter spread a layer of fried lentils.",
+          "Add the cubed cottage cheese, fried somosa sheets and finally the potato mixture.",
+          "Mong Daal Chaat is ready to serve."
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Daal Ki Kachori",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Bengal gram 1 cup",
+          "Lemon 2",
+          "Allspice 1 tsp (powder)",
+          "Cumin white 1 tsp (powder)",
+          "Red chili ½ tbsp (powder)",
+          "Salt as required",
+          "All purpose flour ½ kg - for kachori",
+          "Oil ½ cup - for kachori",
+          "Baking powder a pinch - for kachori",
+          "Salt to taste - for kachori"
+        ],
+        "instructions": [
+          "Boil the lentils till tender.",
+          "Now chop the lentils in a food processor along with lemon juice, allspice powder, red chili powder, cumin powder and salt.",
+          "For Kachori: In a bowl mix together the all purpose flour, oil, baking powder and salt.",
+          "Knead to form smooth dough.",
+          "Now form small round balls, roll out in to round kachoris with a rolling pin, spread a small out of lentils mixture over it, cover it with another rolled out kachori and press the edges gently to seal.",
+          "Deep fry till golden and crisp.",
+          "Serve in a dish with raita and chutneys."
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Spicy Potato Sticks",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Potatoes 1 kg",
+          "Tomato puree 1 cup",
+          "Tomatoes 2-3",
+          "Tamarind paste ½ cup",
+          "Green chilies 6-8",
+          "Cumin 1 tsp (crushed)",
+          "Black pepper 1 tsp (crushed)",
+          "Red chili 2 tbsp (crushed)",
+          "Ginger garlic paste 2 tbsp",
+          "Oil 4-5 tbsp",
+          "Toothpick as required",
+          "Salt to taste",
+          "Chaat masala for garnishing",
+          "Coriander for garnishing"
+        ],
+        "instructions": [
+          "In a pan add oil, ginger garlic paste and potatoes, simmer it properly.",
+          "When potatoes raise golden brown then add crushed tomatoes, tomato puree, crushed red chili, crushed cumin, crushed black pepper, green chilies and salt to taste with as required water and fry it until potatoes get tender and mixture raise to thick.",
+          "In the end add tamarind paste and tender it properly.",
+          "When the oil get separate then take out in a dish.",
+          "Fixed the toothpicks and sprinkle coriander and chaat masala and serve it."
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Fish Fingers",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Fish boneless 500 gm",
+          "Egg white 1",
+          "Food color (orange) a pinch",
+          "Ginger garlic paste 1 tbsp",
+          "Red chili powder 1 tbsp",
+          "Turmeric powder ½ tsp",
+          "All spice powder ½ tsp",
+          "Corn flour 1 tbsp",
+          "All purpose flour 1 tbsp",
+          "Oil for frying",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a mixing bowl, mix egg white with all purpose flour, corn flour, ginger garlic paste, red chili powder, turmeric, all spice powder, food color and salt to make batter.",
+          "Now cut fish in fingers and marinate it in batter for ½ an hour.",
+          "Fry fish till golden then take it out on a absorbent paper.",
+          "Put it in serving dish and serve it with your favorite dip."
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Aloo Bhari Mirchain",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Big green chilies 250 gm",
+          "Boiled potatoes 2 to 3",
+          "Gram flour 1 cup",
+          "Tamarind paste ½ cup",
+          "Cumin powder 1 tsp",
+          "Red chilli powder 1 tbsp",
+          "Chat Masala 1 tbsp",
+          "Oil for fry",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "First mash potato and add chilli powder, chat Masala, salt to taste, tamarind paste and cumin to mix.",
+          "Now slit on chillies from lengthwise.",
+          "Apply salt on chillies and leave it for a while.",
+          "Now fill potato mixture in it.",
+          "Add water in 1 cup gram flour and salt to make a thick batter.",
+          "Heat oil in a pan, dip chillies in batter and fry them till golden.",
+          "Take out on absorbent paper and serve it hot with ketchup or chutney."
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Moong Dal Vada",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Yellow lentil ¼ kg",
+          "Onion ¼ kg",
+          "Green chillies 6",
+          "Salt 1 tsp",
+          "Black pepper (crushed) 1 tsp",
+          "Red chilli (crushed) 2 tsp",
+          "Cumin 2 tsp",
+          "Coriander (whole) 2 tsp",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "Grind the yellow lentil finely in chopper.",
+          "Then add yellow lentil in a bowl.",
+          "Now add salt, crushed red chilli, cumin, whole coriander, black pepper, green chillies and onion. Mix well.",
+          "Keep aside for half an hour.",
+          "Heat oil in a pan.",
+          "Now make this mixture in shape of fritters with hands.",
+          "Delicious moong daal vada is ready.",
+          "Serve with ketchup or chutney."
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Enchiladas",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken Boneless ½ kg - for filling",
+          "Onion 2 - for filling",
+          "Garlic chopped 1 tsp - for filling",
+          "Cumin 2 tsp - for filling",
+          "Salt to taste - for filling",
+          "Black pepper 1 tsp - for filling",
+          "Fresh coriander chopped 2 tbsp - for filling",
+          "Oil 2 tbsp - for filling",
+          "Onion 1 - for tomato sauce",
+          "Crushed Red chili 1 tbsp - for tomato sauce",
+          "Tomato chopped 4 - 6 - for tomato sauce",
+          "Tomato paste 1 cup - for tomato sauce",
+          "Lemon juice 2 tbsp - for tomato sauce",
+          "Brown sugar 2 tbsp - for tomato sauce",
+          "Salt ½ tsp - for tomato sauce",
+          "Black pepper 1 tsp - for tomato sauce",
+          "Garlic chopped 1 tsp - for tomato sauce",
+          "Mozzarella cheese 1 pack",
+          "Oil 2 tbsp - for tomato sauce",
+          "Tortillas 4"
+        ],
+        "instructions": [
+          "In a pan heat of oil and sauté crushed garlic.",
+          "Fry for a minutes then add boneless chicken, chopped onions, white cumin, salt, pepper, chopped coriander.",
+          "Cook until the chicken is tender.",
+          "For Tomato Sauce: In a separate pan heat oil add crushed garlic, finely chopped tomatoes, brown sugar, salt and crushed red chili.",
+          "Cook until the tomatoes are tendered.",
+          "Then add tomato paste, lemon juice and black pepper mix well and turn the flame off.",
+          "Spread a layer of tortilla on a baking tray.",
+          "Then spread a layer of chicken and then a layer of tomato sauce.",
+          "Continue alternating the layers and lastly top with mozzarella cheese.",
+          "Bake at 190C for 10 minutes."
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Chicken Kararey",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken breast ½ kg (boneless)",
+          "Ginger garlic paste 1 tbsp",
+          "Lemon (juice) 1",
+          "Egg 2",
+          "Red pepper 1 tbsp (crushed)",
+          "Black pepper powder ¼ tsp",
+          "Salt to taste",
+          "Rice flour 3 tbsp",
+          "Semolina 2 tbsp",
+          "Corn flour 2 tbsp",
+          "All purpose flour 2 tbsp",
+          "Sesame seeds 2 tbsp",
+          "Oil for fry"
+        ],
+        "instructions": [
+          "Cut chicken breast into layers and then cut the layers into thin strips.",
+          "In a bowl mix together ginger garlic paste, juice of lemon, eggs, red pepper, black pepper powder and salt. Mix very well.",
+          "Then add rice flour, semolina, corn flour and all purpose flour, mix well.",
+          "Lastly add sesame seeds and chicken strips, mix well.",
+          "Then deep fry till golden brown and crisp.",
+          "Remove from oil, serve with tomato ketchup."
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Kathiawari Cholay",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Desi chickpea 250 gm",
+          "Baking soda 1 tsp",
+          "Garlic 1 tsp (chopped)",
+          "Water 6 to 8 cup",
+          "Bread slices 2 large",
+          "Tamarind pulp ½ cup",
+          "Chat masala 1 tsp",
+          "Red pepper 1 tsp (crushed)",
+          "Salt 1 tsp",
+          "Coriander leaves 2 to 3 tbsp (chopped)"
+        ],
+        "instructions": [
+          "Soaked desi chana overnight with baking soda, next morning wash well.",
+          "Boil in 8 cups water with chopped garlic when chana half tender.",
+          "Blend bread slices previously soaked in water and add to the boiling chana.",
+          "Add tamarind pulp, chat masala, salt and crushed red pepper, let it cook for half an hour till gravy thick.",
+          "Lastly sprinkle coriander leaves."
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Chicken Puffs",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Butter 2 oz",
+          "All purpose flour 2 oz 4 tbsp",
+          "Black pepper ½ tsp",
+          "Salt ½ tsp",
+          "Mustard powder",
+          "Milk 1-1/2 cup",
+          "Cheddar cheese 3-4 tbsp",
+          "Chicken 2 breast (boiled and shredded)",
+          "Capsicum 1 small cubes",
+          "Water 1 cup or 100 ml - for puff",
+          "Butter 2 oz - for puff",
+          "Flour 1 cup or 8 tbsp 100 gm - for puff",
+          "Eggs 3 - for puff"
+        ],
+        "instructions": [
+          "White Sauce for filling: In a sauce pan add butter, flour, black pepper, salt and mustard powder and milk whisk all simmer on low flame and make smooth thick paste and remove.",
+          "Add chicken, capsicum and cheese mix well filling is ready",
+          "For puffs: Put water in a sauce pan add butter put on stove bring a boil.",
+          "Immediately add flour remove from stove and mix till a ball forms in the center.",
+          "Now add one egg and mix quickly now add another egg and mix do same with all eggs.",
+          "Fill in to piping bag with plain nozzle.",
+          "Now pipe out on baking tray at distance and bake at 185 C for 15 minutes, allow to cool them.",
+          "Cut baked puffs from center and fill prepared filling on center and cover. ready to serve."
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Tandoori Cutlets",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Tandoori chicken 1/2 cup",
+          "Green chili 1-1/2",
+          "Tara garam masala 2 tsp",
+          "Salt to taste",
+          "Vinegar 2 tbsp",
+          "Red chili powder 1 tsp",
+          "Potato boiled peeled and grated 3",
+          "Flour 1 bowl",
+          "Egg 1+2 tsp water",
+          "Oil 3-4 tbsp"
+        ],
+        "instructions": [
+          "Put chicken, garam masala, salt, vinegar and green chili in food processor and process to mix.",
+          "Take out in a mixing bowl and add grated potatoes and mix well",
+          "Beat egg with 2 tsp of water",
+          "Make shape of cutlet and roll into flour dip in to egg and fry on pan."
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Chicken Dim Sum",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken mince 250 gm",
+          "Flour 250 gm",
+          "Egg 1",
+          "Salt to taste",
+          "Capsicum 1",
+          "Carrot 1",
+          "Onion 1",
+          "Egg 2 (boiled)",
+          "Cinnamon powder a pinch",
+          "Black pepper powder ½ tsp",
+          "White pepper powder ½ tsp",
+          "Oil for fry"
+        ],
+        "instructions": [
+          "In a bowl mix together flour, 1 egg and a little salt, mix well and knead to dough with water as required.",
+          "In chopper put together chicken mince, capsicum, carrot, onion, boiled eggs, cinnamon powder, salt, black pepper powder and white pepper powder, chopperize well and remove mixture in a bowl.",
+          "Now make small balls with the dough, roll each ball and top with a little mince mixture.",
+          "Wet edges with a little water, fold and make into dim sim shape.",
+          "Fry half of the dim sim in oil till golden brown and crisp.",
+          "Cook the remaining in steamer for 8 – 10 minutes.",
+          "Serve hot with chili garlic sauce."
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Red Fried Chicken",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Chicken breast 2",
+          "Tomato paste 3 tbsp",
+          "Coriander leaves ¼ bunch (chopped)",
+          "Lemon (juice) 2",
+          "Salt to taste",
+          "Red pepper 1 tbsp (crushed)",
+          "Papaya paste 2 tbsp",
+          "Corn flour 2 tbsp",
+          "All-purpose flour 2 tbsp",
+          "Egg 1",
+          "Bread crumbs 1 cup",
+          "Oil for fry"
+        ],
+        "instructions": [
+          "Cut chicken into strips, marinate with tomato paste, coriander leaves, lemons juice, salt, red pepper and papaya paste.",
+          "Then add corn flour, all purpose flour and egg. Mix very well.",
+          "Spread bread crumbs in a platter.",
+          "Coat each chicken piece with bread crumbs and deep fry till golden brown.",
+          "Remove from oil, serve hot with any dip or sauce."
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Kebab ki Chat",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Mince ½ kg (double machined) - for kebab",
+          "Ginger garlic paste 1 tbsp - for kebab",
+          "Salt to taste - for kebab",
+          "Gram lentil ½ cup - for kebab",
+          "Onion 2 large - for kebab",
+          "Potato 2 medium - for kebab",
+          "Water 2 cups - for kebab",
+          "Green chilies 6 - for kebab",
+          "Egg 1 - for kebab",
+          "Black pepper ½ tsp - for kebab",
+          "Red pepper 1 tsp (crushed) - for kebab",
+          "Allspice 1 tsp - for kebab",
+          "Coriander leaves 2 tbsp (chopped) - for kebab",
+          "Mint leaves 2 tbsp (chopped) - for kebab",
+          "Yogurt 2 cups (whipped) - for chat",
+          "Green chutney ½ cup - for chat",
+          "Khatti methi chutney ½ cup - for chat",
+          "Sev 1 cup - for chat",
+          "Papadi 2 (crushed) - for chat",
+          "Onion 1 (chopped) - for chat",
+          "Tomato 1 (cut in cubes) - for chat",
+          "Coriander leaves 2 tbsp (chopped) - for chat",
+          "Green chilies 2 - for chat"
+        ],
+        "instructions": [
+          "For Kebab: Cook together mince, ginger garlic paste, salt, gram lentil, onion and potatoes with 2 cup water till water dries, cool add in green chilies, chopped well with 1 egg, black pepper, crushed red pepper, allspice, coriander and mint, mix all well shape into round.",
+          "Cut with doughnut cutter, fry on high flame till light golden.",
+          "For Chat: Put whipped yogurt in a plate, top with 2 kabab, green chutney khatti methi chutney and whipped yogurt.",
+          "Top with sev, papadi, onion, tomato, green chili and coriander leaves, serve immediately."
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Maggi Noodles Drumstick",
+        "category": "Starters - Snacks",
+        "ingredients": [
+          "Maggi noodles 2 packet (boiled)",
+          "Chicken 5 to 6 pieces (boneless and boiled)",
+          "Red chili flakes to taste",
+          "Salt according to taste",
+          "Red chili powder to taste",
+          "Black pepper to taste",
+          "Green chili 2 (chopped)",
+          "Ginger 1 tbsp (chopped)",
+          "Bread crumbs ½ cup",
+          "Egg 2",
+          "Corn flour ½ cup",
+          "Oil for frying"
+        ],
+        "instructions": [
+          "First, do separate bones from chicken.",
+          "Then mix red chili flakes, salt, red chili powder, black pepper, green chili, corn flour, 1 egg and boiled noodles in chicken. Mix well with hand.",
+          "Now beat another egg in bowl.",
+          "Now make balls of chicken mixture and insert bone sticks.",
+          "Then coat in egg and bread crumbs.",
+          "Heat oil in a pan and fry these drumsticks.",
+          "Now take out on platter and serve."
+        ]
+      }
+    ]
+  }
+   

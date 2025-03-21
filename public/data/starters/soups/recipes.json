@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Roasted Tomato Soup",
-      "category": "starters/soups",
+      "category": "Starters - Soups",
       "ingredients": [
         "Sliced Tomato 1 kg",
         "Salt and pepper to taste",
@@ -19,6 +19,257 @@
         "Take a blender, put the roasted ingredients in the blender and blend to a fine texture.",
         "Pour the blended puree into a saucepan and cook on a medium flame.",
         "Serve hot with croutons."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mexican Meatball Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Ground beef ½ kg",
+        "Egg 1",
+        "Garlic 5 clove",
+        "Salt to taste",
+        "Black pepper powder ½ tsp",
+        "Red chili powder 1 tsp",
+        "Oil for fry",
+        "Butter 2 tbsp",
+        "Onion 1 medium (sliced)",
+        "Water 2 cups",
+        "Chicken/beef stock 2 cups",
+        "Tomato sauce 1 can",
+        "Tomato paste 2 tbsp",
+        "Lemon juice 1 tbsp",
+        "Salt to taste",
+        "Black pepper 1 tsp",
+        "Fresh mint leaves 1 tbsp"
+      ],
+      "instructions": [
+        "For Meatballs: Mix egg, salt, black pepper, garlic, red chili into ground beef and mix. Shape into small meatballs.",
+        "Heat little oil in pan and half fry meat balls. Set aside.",
+        "For Soup: Heat butter and fry onion until translucent. Then add water, stock, tomato sauce, tomato paste, lemon juice, salt and black pepper and stir until the tomato paste has been incorporated.",
+        "Slow down to simmer. After 5 minutes add meatballs and cook until meatballs are completely cook.",
+        "Garnish with mint leaves and serve with flat bread."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chinese Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Boneless chicken 1 cup (Strips)",
+        "Mushrooms 6 (Sliced)",
+        "Sesame oil 1 tsp",
+        "Fresh ginger root 2.5 cm (Sliced)",
+        "Spring onion 2 (Sliced)",
+        "Shrimps or prawns 125g (Cooked peeled)",
+        "Soy sauce 2 tbsp",
+        "Fish sauce 1 tbsp",
+        "Fresh lemon juice 1/2 cup",
+        "Salt & pepper to taste",
+        "Egg noodles 85g",
+        "Water 1.5 liters",
+        "Fresh ginger root 2.5 cm (Sliced)",
+        "Spring onion 4"
+      ],
+      "instructions": [
+        "Make a chicken stock in a large saucepan with water, ginger and spring onion. There's no need to peel or chop the ginger and spring onions",
+        "Bring to the boil, skimming off any scum, then cover and simmer for 1 hour. Strain the stock and discard the ginger and spring onions.",
+        "While the stock is simmering, rinse the mushrooms then discard the tough stalks and cut the mushroom caps into thin slices.",
+        "Heat the sesame oil in a large saucepan, add chicken and ginger and cook for 30 seconds, stirring.",
+        "Add it in stock now, bring to the boil and simmer for 3 minutes. Add the spring onions, shrimps or prawns, soya sauce, fish sauce, salt and pepper, lemon juice. Bring back to the boil, and then add the noodles and simmer for 2–3 minutes or until softened.",
+        "Sprinkle with coriander leaves and serve hot."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rasam (South Indian soup)",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Coriander seeds 1 tsp",
+        "Cumin seeds 1 tsp",
+        "Fenugreek seeds (Mehti dana) 1/4 tsp",
+        "Red chilies 2-3 whole",
+        "Whole black pepper 1/4 tsp",
+        "Mustard Seeds 1/4 tsp",
+        "Pigeon pea (tur Dal) 1/2 cup",
+        "Tamarind 1/4 cup",
+        "Curry Leaves a few",
+        "Green Coriander Leaves 1/2 bunch",
+        "Salt to taste",
+        "Water 4 cup",
+        "Oil 2 tbsp",
+        "Mustard Seeds 1 tsp",
+        "Cumin seeds 1 tsp",
+        "Asafetida (hing) a pinch",
+        "Turmeric Powder 1/4 tsp",
+        "Garlic Cloves Mashed 2 cloves"
+      ],
+      "instructions": [
+        "First prepare the Rasam powder.",
+        "Roast the ingredients on low flame.",
+        "Let it cool down. Grind to fine powder.",
+        "Soak tamarind in water for 15 minutes, get the pulp 1 cup water.",
+        "Cook the lentils in 2 cup of water, till it is soft.",
+        "Take deep cooking pot, add 1 cup water, and add rasam powder and tamarind water.",
+        "Mash the cooked lentils, add to the mixture and boil for 5 minutes. Add salt and more water if needed. Boil further for 5 minutes.",
+        "Take a frying pan, pour 1 table spoon oil and heat it.",
+        "Add mustard seeds and cumin seeds, when they stop cracking add asafetida and turmeric powder, curry leaves. Add to ready Rasam and cover the pot.",
+        "Rasam is ready. Serve with hot steamed rice."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Asian Noodle Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Sesame oil 1 Tbsp",
+        "Chopped fresh ginger 1 heaping Tbsp",
+        "Garlic 2 cloves, diced",
+        "Jalapeno seeds removed and thinly sliced, 1/2",
+        "Vegetable broth (preferably one without tomatoes) 6 cups",
+        "Green onions 3 plus extra for serving, sliced",
+        "Soy sauce 3 Tbsp",
+        "Rice vinegar 1 tsp",
+        "Bok choy, 3 baby chopped",
+        "Red pepper 1, thinly sliced",
+        "Carrot 1, peeled and sliced into very thin coins",
+        "Extra-firm tofu 1cup, cubed",
+        "Noodles 1 small pack",
+        "Chopped cilantro, for serving"
+      ],
+      "instructions": [
+        "In a large pot, heat sesame oil over medium high heat. Once hot, add ginger and garlic and saute until fragrant, 2-3 minutes. Add jalapeno, vegetable broth, and green onions. Cover and simmer 10-15 minutes.",
+        "While broth is simmering, cook noodles. Drain and set aside.",
+        "Strain broth into a large bowl. Once strained, pour broth back into pot. Add soy sauce, rice vinegar, vegetables, and tofu, and simmer until veggies are heated through, 1-2 minutes. Add noodles and heat for 1 more minute, until both noodles and broth are hot.",
+        "Remove soup from heat. Serve alongside sliced green onions, chopped cilantro."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Thai Coconut Shrimp Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Olive oil 2 tablespoons",
+        "Cloves garlic 4, minced",
+        "Grated fresh ginger root 4 teaspoons",
+        "Minced lemongrass 4 teaspoons",
+        "Curry powder 1 teaspoon",
+        "Crushed red pepper flakes 1/2 teaspoon",
+        "Vegetable broth 2 cups",
+        "Shrimp 1/2 kg, peeled and deveined",
+        "Coconut Milk 4 cups",
+        "Cabbage 2 cups, finely shredded",
+        "Sea salt to taste",
+        "Lime wedges, for serving",
+        "Fresh parsley, for serving"
+      ],
+      "instructions": [
+        "In a large pot over medium heat, add the olive oil, garlic, ginger and lemongrass. Give it a stir, then",
+        "Add the curry powder, crushed red pepper flakes and the broth. Increase the heat to medium-high bringing the broth to a light boil.",
+        "Add the shrimp and reduce the heat to medium. Simmer for 3 minutes. Add the coconut milk and cabbage. Increase the heat just a bit and as soon as the soup comes to another very light simmer, remove it from the heat.",
+        "Season with salt to taste. Serve in bowls and top with a squeeze of lime and some parsley, additional crushed red pepper if you'd like."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Salmon Chowder",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "Skinless salmon fillets ½ kg",
+        "Cups water",
+        "Vegetable stock 3-1/2 cups",
+        "Chopped onion 1/2 cup",
+        "Cubed red potato 2 1/2 cups",
+        "Fresh dill 1 tablespoon snipped",
+        "Lemon zest 1 teaspoon",
+        "Salt 1/2 teaspoon",
+        "Black pepper 1/2 teaspoon ground",
+        "Whole milk 2 1/2 cup",
+        "Corn-starch 2 tablespoons",
+        "Asparagus 2 cups cut-up fresh trimmed",
+        "Fresh dill sprigs and/or cracked black pepper (optional)"
+      ],
+      "instructions": [
+        "To poach fresh salmon, in a large pan, bring water to boiling. Add salmon. Return to boiling; reduce heat. Simmer, covered, for 6 to 8 minutes or until the salmon flakes easily with a fork. Remove salmon from pan, discarding poaching liquid. Flake salmon into 1/2-inch pieces; set aside.",
+        "Meanwhile, in a cast iron or ceramic or clay pan, combine vegetable broth, onions, potato, snipped fresh dill, lemon zest, salt and pepper. Bring to boiling; reduce heat. Simmer, covered, for 15 minutes or until vegetables are tender, stirring occasionally.",
+        "Combine milk and corn-starch. Mix well; stir into soup. Stir in asparagus. Cook and stir until slightly thickened and bubbly. Cook and stir for 2 minutes more. Gently stir in poached salmon; heat through. If you like, garnish with fresh dill sprigs and/or cracked pepper."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Minestrone Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "tomatoes 2 cans,diced",
+        "tomato paste 2 tablespoons",
+        "sun-dried tomato pesto ¼ cup",
+        "parmesan rind 1",
+        "vegetable stock 4 cups",
+        "water 2 cups",
+        "carrots1 cup , diced",
+        "celery1¼ cup , diced",
+        "white onion1½ cup, diced",
+        "cloves garlic 4 - 5, minced",
+        "dried oregano 1 teaspoon",
+        "rosemary1 sprig (or ½ teaspoon dried)",
+        "bay leaves 2",
+        "salt and pepper to taste",
+        "red kidney beans1 can , drained and rinsed",
+        "great northern beans1 can , drained and rinsed",
+        "zucchini1½ cups , diced",
+        "tubular (ditalini) pasta 1½ cups",
+        "frozen green beans1 cup , thawed",
+        "baby spinach 2½ cups, chopped",
+        "Finely shredded Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Add the diced tomatoes, tomato paste, tomato pesto, parmesan rind, vegetable stock, water, carrots, celery, onions, garlic, oregano, rosemary, and bay leaves to a slow cooker. Season it salt and pepper to taste and cook on low heat 2 hours or high 1 hours.",
+        "Add in red kidney beans, great northern beans, zucchini, and pasta and cook on high heat for an additional 20 - 25 minutes until pasta is tender. Stir in the spinach and green beans and cook for an additional 5 minutes until heated through. Serve warm topped with parmesan cheese and garlic toasts."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Spiced Carrot and Lentil Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "cumin seeds 2 tsp",
+        "chilli flakes pinch",
+        "olive oil 2 tbsp",
+        "carrots 600g , washed and coarsely grated",
+        "split red lentils 140g",
+        "hot vegetable stock 1litre",
+        "milk 125ml",
+        "plain yogurt and naan bread, to serve"
+      ],
+      "instructions": [
+        "Heat a large saucepan and dry-fry the cumin seeds and chilli flakes for 1 min. Scoop out about half of the seeds with a spoon and set aside. Add the oil, carrot, lentils, stock and milk to the pan and bring to the boil. Simmer for 15 mins until the lentils have swollen and softened.",
+        "Whizz the soup with a stick blender or in a food processor until smooth (or leave it chunky if you prefer). Season to taste and finish with a dollop of yogurt and a sprinkling of the reserved toasted spices. Serve with warmed naan breads."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mulligatawny Soup",
+      "category": "Starters - Soups",
+      "ingredients": [
+        "butter ½ cup",
+        "chopped onion ½ cup",
+        "large carrots2 , shredded",
+        "Flour 3 tsp.",
+        "Curry powder 3 tsp.",
+        "chicken broth 8 cups",
+        "apple 1, peeled and diced",
+        "chicken breasts 2, cubed very small and cooked",
+        "white rice ¾ cup",
+        "golden raisins ¾ cup",
+        "salt and pepper to taste",
+        "dried thyme two pinches",
+        "heavy cream 1 cup"
+      ],
+      "instructions": [
+        "Saute the onion and shredded carrots in the butter in a large pot. Add flour and curry and cook five more minutes. Stir in the chicken broth and bring to a boil.",
+        "Reduce to a simmer for about 30 minutes. While simmering, add chicken, apple, rice, raisins, thyme, salt, and pepper to the soup.",
+        "Simmer for 20 more minutes until the rice is done. When there is about 2 minutes left, stir in the cream."
       ]
     }
   ]
