@@ -1,0 +1,187 @@
+{
+    "recipes": [
+{
+    "id": 1,
+    "name": "Strawberry Surprise",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "1 cup strawberries",
+      "1 bottle white drink",
+      "1 cup crushed ice",
+      "2 tbsp caster sugar",
+      "3 tbsp lemon juice powder",
+      "Mint leaves for garnishing"
+    ],
+    "instructions": [
+      "Add strawberries, white drink, ice, caster sugar and lemon juice powder in a blender and blend well till smooth.",
+      "Serve, decorate with mint leaves."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lemony Peachy Surprise",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "2 chopped peaches",
+      "3 tbsp lemon juice powder",
+      "1 cup crushed ice",
+      "1 tbsp caster sugar",
+      "1⁄4 tsp black salt",
+      "1 bottle white drink"
+    ],
+    "instructions": [
+      "In a blender add peaches, lemon juice powder, ice, caster sugar, black salt and white drink and blend them well.",
+      "Serve, decorate with peach wedges."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Electric Lemonade",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "1 cup water",
+      "1⁄4 cup lemon juice",
+      "1⁄2 cup sugar",
+      "1⁄4 tsp salt",
+      "Non-alcoholic blue curacao or blue color",
+      "7-up",
+      "Ice cubes",
+      "Lemon slices for garnish"
+    ],
+    "instructions": [
+      "In a pan add water, sugar and salt cook till sugar dissolved, remove keep aside to cool.",
+      "When sugar syrup completely cooled add in non-alcoholic blue curacao and lemon juice.",
+      "Add curacao as much till required blue color.",
+      "Add 7-up in equal quantity of lemonade for balanced taste.",
+      "Pour into glass, add lemon slices and ice cubes ready to serve."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cucumber Cocktail",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "2 cucumbers",
+      "2 glasses ice cream soda",
+      "1⁄2 cup sugar",
+      "2 tbsp lemon juice",
+      "Ice as required"
+    ],
+    "instructions": [
+      "Peel the cucumber and take out the seeds.",
+      "In the blender, add in cucumber, ice cream soda, sugar, lemon juice and ice.",
+      "Blend everything together.",
+      "Pour then in glasses and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Fruit Mocktail",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "1⁄2 cup apple juice",
+      "1⁄2 cup pineapple juice",
+      "1⁄2 cup pomegranate juice",
+      "1⁄2 cups tangerine juice",
+      "1 lemon",
+      "Few chopped mint leaves",
+      "Ice as required",
+      "2 tbsp sugar"
+    ],
+    "instructions": [
+      "Mix apple juice, pomegranate juice, pineapple juice and tangerine juice in a jug.",
+      "Squeeze lemon in it and add sugar.",
+      "Pour mocktail in glasses.",
+      "Serve with mint leaves and ice."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pina Colada",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "1 cup ice",
+      "1 1⁄4 cup pineapple juice",
+      "1⁄2 cup milk",
+      "1⁄2 cup cream",
+      "2 tbsp sugar",
+      "2 tbsp coconut milk powder"
+    ],
+    "instructions": [
+      "In an electric blender, blend ice, pineapple juice, milk, cream, sugar and coconut milk powder.",
+      "Blend until smooth.",
+      "Pour into glasses and serve chilled."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Watermelon Slush",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "6 ice cubes",
+      "2 cups cubed, seeded watermelon",
+      "1 tsp honey"
+    ],
+    "instructions": [
+      "Place the ice cubes into a blender.",
+      "Cover and pulse until crushed.",
+      "Add the watermelon and blend for about 1 minute, until slushy.",
+      "Add the honey and blend for about 10 seconds."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Date Lemon Water",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "4-5 lemons",
+      "8 cups water",
+      "10 dates",
+      "1/3 cup honey"
+    ],
+    "instructions": [
+      "Take a saucepan and put water and dates and boil it for 10 minutes.",
+      "Then turn the heat off and add honey and lemon juice. Mix well.",
+      "Then keep aside for 10 – 12 hour.",
+      "Strain it and serve cold."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Orange Fiesta",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "1 glass orange juice",
+      "1 cup soda water",
+      "1 pinch black pepper",
+      "1⁄2 tsp black salt",
+      "2 tbsp lemon juice",
+      "2 tbsp mint leaves",
+      "1 cup ice"
+    ],
+    "instructions": [
+      "Blend together orange juice, soda water, black pepper, black salt, lemon juice and mint leaves.",
+      "Pour into glasses and serve with ice."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jasmine Lemonade Cocktail",
+    "category": "Desserts - Drinks",
+    "ingredients": [
+      "3 to 4 tbsp jasmine leaves",
+      "2 to 3 tbsp lemon juice",
+      "200 ml white soda water",
+      "Ice cube as required",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Add 3 to 4 cups of water in a saucepan and put jasmine leaves into it.",
+      "Cook it for 3 to 4 minutes.",
+      "Now strain and put it in blender along with soda, ice cube, salt and lemon juice.",
+      "Blend well pour into glasses and serve chilled."
+    ]
+  }
+]
+}
+

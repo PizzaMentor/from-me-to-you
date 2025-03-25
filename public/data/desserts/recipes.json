@@ -1,0 +1,916 @@
+{
+    "recipes": [
+{ 
+    "id": 1,
+    "name": "Bhapa Doi",
+    "category": "Desserts",
+    "ingredients": [
+      "2 1/2 pints curd or yoghurt",
+      "1 tin sweetened condensed milk"
+    ],
+    "instructions": [
+      "Beat the curd well and gradually mix in the condensed milk.",
+      "Then pour the mixture in a bowl or aluminum dish with a tight lid and place it in a saucepan with water coming to a little less than half the depth of the bowl.",
+      "Boil gently for 1 hour. Chill and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mysore Pak",
+    "category": "Desserts",
+    "ingredients": [
+      "400g gram flour (besan)",
+      "1kg ghee",
+      "400g sugar",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Add a little water to the sugar and melt it to syrup.",
+      "Now add 6 tbsp ghee and, after a few minutes, gram flour and the remaining ghee.",
+      "Stir on a medium heat, thoroughly and continuously so as to avoid sticking.",
+      "As the mixture melts and the ghee begins to appear on the surface, remove and pour the contents on to a greased thali and sprinkle with cardamom.",
+      "Let cool and then cut into 1-inch squares."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Strawberry Shrikhand",
+    "category": "Desserts",
+    "ingredients": [
+      "8-10 medium sized strawberries",
+      "About 3-4 cups plain Greek yogurt",
+      "3/4 cup sugar",
+      "6-8 cardamoms",
+      "Finely sliced pistachios",
+      "Slivered almonds"
+    ],
+    "instructions": [
+      "Spoon yogurt into a clean cheese cloth, tie into a knot and suspend the 'pouch' from your kitchen faucet for 4-5 hours OR place in a colander with a bowl underneath and keep in the refrigerator.",
+      "Remove the drained, thick yogurt into a mixing bowl.",
+      "Slice the stems off the berries, halve them and put in a blender.",
+      "Pulse for a few minutes.",
+      "Strain the pulp to get a smooth syrup and add to yogurt.",
+      "Stir in sugar and whisk the mixture until it dissolves.",
+      "A hand blender works well here.",
+      "Peel the cardamoms and crush to a fine powder in a mortar and pestle.",
+      "Add to yogurt and whisk again.",
+      "Cover and chill shrikhand until it is ready to serve.",
+      "Sprinkle with pistachios and almonds before serving."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Besan and Sooji ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "2 cups gram flour",
+      "2 cups semolina",
+      "3 cups sugar",
+      "1 cup milk",
+      "1/2 cup water",
+      "1/2 cup ghee/oil",
+      "8 cardamoms, peel and crush seeds",
+      "Almonds and pistachios finely chopped as required for garnish",
+      "10 raisins"
+    ],
+    "instructions": [
+      "Heat ghee in a pan; add the cardamom seeds when hot.",
+      "Then add sooji and besan, lower heat and cook stirring continuously.",
+      "Remove from the pan. Combine 1⁄2 cup water and sugar in the pan and cook for five minutes or till the sugar dissolves completely.",
+      "Add the besan and sooji to sugar syrup and cook stirring constantly, add raisins, continue to stir, then add milk and stir till the milk is mixed in thoroughly.",
+      "Apply a little ghee to a large platter and spread the halwa in it.",
+      "Garnish with almonds and pistachios. Cut in pieces when cool."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Monthal",
+    "category": "Desserts",
+    "ingredients": [
+      "200g gram flour",
+      "200g clarified butter",
+      "200g sugar",
+      "4 green cardamoms",
+      "50g grated coconut",
+      "50g poppy seeds",
+      "50g almonds",
+      "400ml milk"
+    ],
+    "instructions": [
+      "Cook milk with sugar and cardamoms and prepare syrup.",
+      "Now separately, heat clarified oil and gram flour.",
+      "Add coconut, poppy seeds, almonds and mix.",
+      "Then take the mixture off the flame and pour syrup on it.",
+      "Stir together with a wooden spoon.",
+      "Grease a tray, put the mixture on it, sprinkle remaining coconut, almonds and poppy seeds on top and serve."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Badami Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1 cup clarified butter",
+      "125g mawa",
+      "4-5 green cardamom",
+      "1⁄2 cup sugar",
+      "1 cup almond paste",
+      "Almond for garnish"
+    ],
+    "instructions": [
+      "In a pan heat clarified butter.",
+      "Now add green cardamom to crackle.",
+      "Then add sugar and almond paste to cook.",
+      "Then put solid milk and cook till oil separates.",
+      "Dish it out and garnish with almond and serve."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Egg Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "10-12 eggs",
+      "1kg milk",
+      "1 pinch saffron",
+      "1 pinch yellow food color",
+      "1 cup sugar",
+      "1⁄2 cup almonds",
+      "1⁄2 cup pistachio",
+      "Few drops kewra essence",
+      "1 tbsp mix seeds",
+      "1⁄2 tsp crushed cardamom",
+      "1-1 1⁄2 cup ghee",
+      "Silver leaves as required"
+    ],
+    "instructions": [
+      "Whip the eggs in a bowl.",
+      "Now add in sugar and milk and beat again.",
+      "Heat ghee in a skillet, add cardamom and fry till the seeds begin to sizzle.",
+      "Then add the egg mixture, fry till the ghee comes on top Lower the flame and add yellow food color mixed in cold milk. Mix well.",
+      "When the aroma of the halwa is given out then add 1tbsp mixed seeds, saffron and few drops of kewra essence.",
+      "Dish out the egg halwa and garnish with almonds, pistachio and silver leaves."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sweet Potato Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 kg sweet potato",
+      "1 cup ghee",
+      "1kg milk",
+      "250g sugar",
+      "8 green cardamom"
+    ],
+    "instructions": [
+      "Wash sweet potato and then boil in sufficient water.",
+      "Remove skin and mash it.",
+      "Heat ghee in a pan and sizzle cardamom then add mashed sweet potato.",
+      "After 5 minutes, add milk and cook. When milk is near to dry then add sugar.",
+      "When sugar is completely dissolved and milk dries. Remove from heat and serve."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Khopra Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 cup semolina",
+      "1 liter milk",
+      "1 tsp cardamom powder",
+      "250g sugar",
+      "1 tsp green food color",
+      "1⁄2 kg solid milk",
+      "2 cup grated coconut"
+    ],
+    "instructions": [
+      "In a pan add semolina to sauté. Keep aside.",
+      "In a separate pan add milk, cardamom and sugar to cook.",
+      "Dissolve green food color in water and add in milk pan.",
+      "Now add solid milk to cook and stir continuously.",
+      "Now add sauté semolina and cook till it turn thick.",
+      "Now take it out in a mould and garnish with coconut to serve."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bread Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "4 large size bread slices",
+      "1 1⁄2 cup milk",
+      "Almonds as required",
+      "Pistachios as required",
+      "Walnuts as required",
+      "Raisins as required",
+      "Sugar to taste",
+      "2 eggs",
+      "1⁄2 cup clarified butter",
+      "1/2 cup cream"
+    ],
+    "instructions": [
+      "Separate the sides of bread slices and make breadcrumbs.",
+      "Heat oil in a pan and fry breadcrumbs until its color becomes golden brown.",
+      "Then add milk and sugar in it.",
+      "When milk dries up then add cream.",
+      "Beat eggs in another bowl and fry with little clarified butter.",
+      "Then mix in halwa.",
+      "Add dry nuts and roast for a while.",
+      "Delicious bread halwa is ready to serve."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Lauki ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1 1⁄2 kg lauki",
+      "250g mawa",
+      "1 pinch green food color",
+      "1/4 cup ground coconut",
+      "2 cups sugar",
+      "6 ground small cardamoms",
+      "Crushed almonds as required",
+      "2 cup sugar",
+      "2-3 tbsp oil"
+    ],
+    "instructions": [
+      "Peel off the skin of a bottle gourd and grate finely.",
+      "In a wok, add oil, 1 tsp sugar and ground cardamoms.",
+      "When spices become fragrant, add grated bottle gourd and a pinch of green food color.",
+      "Mix together briefly and take off the flame.",
+      "In the same wok, add sugar and 1⁄2 cup water and cook to form sugar syrup.",
+      "Add prepared sugar syrup to bottle gourd and mix.",
+      "Grease a tray and place bottle gourd Halva on it.",
+      "Sprinkle milk solid, ground coconut and almonds on top and serve."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Date and Chickpea Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 kg dates",
+      "1 cup chickpea",
+      "250g milk",
+      "1 tbsp small cardamom",
+      "1 cup clarified butter",
+      "1⁄2 cup sugar",
+      "Almond pistachio for garnishing"
+    ],
+    "instructions": [
+      "Blend the dates into a blender and take it out.",
+      "Boil chickpeas in milk and make paste of it.",
+      "Now put clarified butter into pan and heat it up, then put batter in it and cook it on low heat for 10 minutes.",
+      "Add sugar, cardamom powder into pan and cook it for 5 minutes.",
+      "Put dates into the pan and cook 5 minutes more.",
+      "Dish it out and garnish it with almond and pistachio."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Aloo Ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1kg soft boiled potato",
+      "1⁄2 kg sugar",
+      "5-6 small cardamom",
+      "5-6 clove",
+      "1⁄2 kg clarified butter",
+      "Silver paper for garnish"
+    ],
+    "instructions": [
+      "First mash the potato and put it on a side.",
+      "Take a pan and heat up clarified butter and add clove and cardamom, sauté it.",
+      "Now add mash potato with sugar and cook it well.",
+      "When it turn light brown, dish it out and garnish it with silver paper."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Walnut Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "2 cups finely chopped walnuts",
+      "2 cups sugar",
+      "1 cup khoya",
+      "1 cup oil",
+      "8 small cardamoms",
+      "1/2 cup fried semolina",
+      "Slivered almonds and pistachios as required"
+    ],
+    "instructions": [
+      "Heat oil in a wok and fry small cardamoms.",
+      "When the aroma is given off add chopped and peeled walnuts.",
+      "Fry for 1-2 minutes.",
+      "Then add 1 cup khoya, sugar and fried semolina.",
+      "Cook for a further 5-10 minutes.",
+      "Grease a tray and spread the halwa.",
+      "Sprinkle the khoya and slivered pistachios and almonds on top."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Akhroti Kalakand",
+    "category": "Desserts",
+    "ingredients": [
+      "500g dry milk",
+      "500g icing sugar",
+      "500g cottage cheese",
+      "500g walnut",
+      "1 cup clarified butter",
+      "400g almond",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Make paste of walnut and almond.",
+      "Heat oil in pan and add cottage cheese, walnut and almond paste and icing sugar and cook it well.",
+      "When oil starts to make separate layer, add dry milk and cook.",
+      "Now take it out in a square mould and garnish it with walnut and cool it.",
+      "Now cut it and serve it."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Suji Aur Orange ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 kg semolina",
+      "1⁄2 kg sugar",
+      "4-5 orange slices",
+      "4-5 green cardamom",
+      "1 cup orange juice",
+      "1 cup ghee",
+      "1/3 tsp yellow food color",
+      "Orange for garnishing"
+    ],
+    "instructions": [
+      "In a skillet roast semolina.",
+      "In ghee add green cardamom with sugar.",
+      "When it get bubbles then add semolina, orange slices, orange juice and yellow food color mix it and stir with spoon.",
+      "When the halwa is fried then add few drops of kewra essence and turn off the flame.",
+      "In the end garnishe with orange wheels."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Khashkhash Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1 cup poppy seeds",
+      "2 cup milk",
+      "1⁄2 cup milk solid or dry milk",
+      "1 cup grated coconut",
+      "2 cup sugar",
+      "1 cup clarified butter",
+      "1 tsp cardamom powder",
+      "8-10 almonds",
+      "2 tbsp raisins"
+    ],
+    "instructions": [
+      "Soak the poppy seeds in water overnight.",
+      "Next day, wash well and remove the excess water.",
+      "Put it in a mixer and grind to a soft paste by adding little milk or coconut water.",
+      "In a karahi add clarified butter and heat it.",
+      "When it is warm, add the poppy seeds paste and stir well.",
+      "Stir continuously till the raw smell of the poppy seeds go away and it turns to light brown.",
+      "Add milk and stir continuously till the paste absorbs all the milk and the paste is thick.",
+      "Add milk solid or dry milk along with sugar and coconut.",
+      "Stir continuously till it becomes thick and leaves sides of the karahi.",
+      "Add cardamom powder, almond and raisin.",
+      "Mix well and transfer it to a greased tray, spread it and cool.",
+      "When it is cool, cut it into desired shape."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Moung Daal Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1 cup split lentil",
+      "1 cup sugar",
+      "1 cup clarified butter",
+      "1⁄4 cup mix dry fruits",
+      "1⁄2 cup water"
+    ],
+    "instructions": [
+      "Soak split lentil for 1 hour.",
+      "Grind the split lentil to fine paste, keep it aside.",
+      "Heat the clarified butter in a sauce pan & put the ground lentil paste, sauté it on low flame till it turns golden & leave the sides of the pan.",
+      "Put water and sugar in a pan, allow boiling on low flame.",
+      "Keep stirring the spoon till the sugar get dissolved into the water & become syrup.",
+      "Shift the lentils paste mixture into the sugar syrup & cook on low flame until the lentils & sugar syrup combined together.",
+      "Remove it from the flame, garnish with the mix dry fruit from top."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Peanut Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "250g peanuts",
+      "1 cup milk solid",
+      "1 cup sugar",
+      "1⁄2 liter milk",
+      "Pistachios for garnishing",
+      "Almonds for garnishing"
+    ],
+    "instructions": [
+      "Firstly crush the peanuts and roast them in a pan.",
+      "Now add milk and let it cook.",
+      "When the milk reduces to half in quantity add sugar and stir until it dissolve.",
+      "Lastly add the milk solid.",
+      "Stir and cook for 2-3 minutes.",
+      "Garnish with pistachios and almonds."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chany Ki Daal Ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 kg gram lentils (soak for 6 hour)",
+      "1⁄2 kg sugar",
+      "1 1⁄2 cup clarified butter",
+      "1 litter milk",
+      "4 crushed green cardamom",
+      "1 tsp ground green cardamoms",
+      "1⁄2 cup solid milk",
+      "3 tbsp blanched and sliced almond",
+      "3 tbsp pistachio",
+      "1 pinch yellow color",
+      "Silver paper as required"
+    ],
+    "instructions": [
+      "Boil the gram lentils in milk till it dries and the lentils tender.",
+      "Allow the lentils to cool then blend it.",
+      "Heats clarified butter in a pan and add crushed cardamoms along with the ground lentils and fry well for at least half an hour till light brown.",
+      "Then add in sugar and continue to cook, the halva looks thin at this time, keep frying well till it leaves clarified butter at the sides of the pan.",
+      "Add solid milk and fry for another 10-15 minutes.",
+      "Serve in a flat platter.",
+      "Sprinkle almonds and pistachios.",
+      "Top with silver paper and cut into pieces."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Karachi Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1⁄2 kg corn flour",
+      "1⁄2 kg sugar",
+      "1⁄2 cup dried melon seeds",
+      "1 tsp citric acid",
+      "Few drops kewra essence",
+      "Red colour as required",
+      "1 or 1⁄2 cup clarified butter"
+    ],
+    "instructions": [
+      "Put water and corn flour in a pan as per required, mixed it well.",
+      "Light the flame and stir the mixture with a spoon.",
+      "When the mixture get thick then add a little clarified butter.",
+      "After that, when mixture shaped as a layer then add citric acid, kewra essence and red colour mixed it properly.",
+      "Now add half cup dried melon seeds in a mixture.",
+      "Grease the tray with clarified butter and spread the mixture on it.",
+      "Sprinkled dried melon seeds and placed it in fridge for cooling.",
+      "Karachi halwa is ready."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Habshi Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "3 kg milk",
+      "1⁄2 kg sugar",
+      "1⁄2 tbsp tartri",
+      "1 cup white flour",
+      "40g grape vinegar",
+      "1⁄2 tsp brown food color",
+      "1 1⁄2 cup clarified butter"
+    ],
+    "instructions": [
+      "Boil milk into a pan.",
+      "Mix tartri and one cup water in a bowl.",
+      "Now mix this mixture in milk, move spoon.",
+      "After 5 minutes when milk spoils, add food color, sugar and grape vinegar and mix again.",
+      "Mix 1 cup water into white flour and adds it into milk batter and blends it.",
+      "Now put 1⁄2 cup of clarified butter into it.",
+      "Now put it on stove and mix it with spoon continuously.",
+      "When water dries from the pan, add remaining clarified butter into it.",
+      "When aroma arise from the pan, take it out from pan and spread it into a tray to cool down.",
+      "When Halwa become cool cut into pieces and garnish it with dry fruit."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gondh Ka Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1 cup sugar",
+      "2 cup milk",
+      "2 cup clarified butter",
+      "3-4 whole wheat flatbread",
+      "100g edible gum (gond)",
+      "100g almonds",
+      "100g pistachio",
+      "100g walnuts",
+      "100g sesame seeds",
+      "200g mix seeds"
+    ],
+    "instructions": [
+      "In a skillet put clarified butter and fry gum in it and set aside.",
+      "Now in the same clarified butter add almonds, pistachio, walnuts, sesame and mix seeds, fry well and set aside.",
+      "Now preheat a griddle, place whole wheat flour flatbread and crumble them.",
+      "Then crush dry fruit and gum (gondh).",
+      "Now add flatbread crumbs, ground dry fruit and sugar in mixing bowl.",
+      "Now mix all ingredients in same clarified butter.",
+      "Then add milk and cook well.",
+      "Take out in dish and serve."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Caramel Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "3⁄4 cup semolina",
+      "1 cup clarified butter",
+      "3 cups milk",
+      "1 1⁄4 cup sugar",
+      "2 eggs",
+      "4 to 5 small cardamoms",
+      "10 to 12 sliced almonds"
+    ],
+    "instructions": [
+      "In a pan stir continuously sugar and cardamoms on a medium flame till melts and turn golden brown.",
+      "Beat eggs separately.",
+      "In a separate bowl, add semolina and milk mix them well.",
+      "Then add mixture of eggs in it and mix it well.",
+      "Then add melted sugar in the whole mixture and stir it continuously on low flame until oil separates.",
+      "Garnish with sliced almonds and serve."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Ratalu Halwa",
+    "category": "Desserts",
+    "ingredients": [
+      "1/2 kg sweet potatoes",
+      "1 grated coconut",
+      "5 crushed cardamoms",
+      "1 liter milk",
+      "1 1/2 cup sugar",
+      "1/4 kg khoya",
+      "10 cashew nuts",
+      "1/4 cup ghee",
+      "1/2 tsp cardemom essence"
+    ],
+    "instructions": [
+      "Boil sweet potatoes, skin and mash.",
+      "Add milk and cook stirring till it becomes a thick paste.",
+      "Keep aside. Make a syrup of sugar.",
+      "When it becomes one string consistency, add the cooked sweet potato.",
+      "Cook, adding the ghee every 2 minutes.",
+      "Add the grated coconut, crushed cardamom, essence, khoya and cook well.",
+      "When it starts leaving the pan, pour into a greased tray.",
+      "Garnish with nuts and cut into diamond shapes and serve."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Khoya Seviyan Vermicelli",
+    "category": "Desserts",
+    "ingredients": [
+      "1 packet vermicelli",
+      "375g khoya",
+      "1 cup fresh cream",
+      "Sugar to taste",
+      "100g almonds",
+      "100g pistachios",
+      "6 cardamom powder",
+      "2 tbsp kewra essence",
+      "1⁄2 cup ghee"
+    ],
+    "instructions": [
+      "Boil one packet of vermicelli in hot water for one minute.",
+      "Then take it out of water.",
+      "Heat ghee in a pan till it starts giving crackling sound, now add vermicelli to it.",
+      "After frying it for one to two minutes, add khoya and fresh cream.",
+      "Fry again for one to two minutes.",
+      "Unify khoya and cream well after frying.",
+      "Now add sugar and cardamom powder to it.",
+      "After cooking it for a few minutes, add thinly chopped pistachios, almonds and kewra essence.",
+      "Your delicious Khoya Vermicelli is ready, milk is not used in it.",
+      "Garnish with chopped almonds, walnuts and fresh cream.",
+      "Chef's tip: A little saffron can also be used to improve fragrance and flavour."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Raj Tukray",
+    "category": "Desserts",
+    "ingredients": [
+      "10-12 bread slices",
+      "2 tsp butter",
+      "1⁄2 kg milk",
+      "1 cup brown sugar",
+      "Saffron as required",
+      "1 1⁄2 cup cream",
+      "Almond as required",
+      "Pistachio as required",
+      "Raisins as required",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Apply butter on bread slices and toast in oven from both sides until golden brown.",
+      "Arrange bread slices in a wide serving bowl.",
+      "On other side add sugar and saffron in milk and cook. Then remove from heat and add cream, put on heat and cook little more.",
+      "Pour milk over bread slices.",
+      "Heat oil in pan and stir fry dry fruits for 2 minutes.",
+      "Sprinkle over bread and serve."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Kimami Sevai",
+    "category": "Desserts",
+    "ingredients": [
+      "500g sewai",
+      "1kg sugar or less",
+      "250g solid milk",
+      "1-1/2 liter whole milk",
+      "1⁄2 cup clarified butter",
+      "7-8 green cardamom",
+      "4-5 cloves",
+      "1 whole dry coconut (overnight soaked)",
+      "250g dry dates (overnight soaked)",
+      "4 tbsp cashew nuts",
+      "4 tbsp raisins",
+      "4 tbsp almonds",
+      "50g makhana",
+      "Silver paper for garnish"
+    ],
+    "instructions": [
+      "For Kimami: Take a heavy bottom pan add 1 liter of milk bring boil then add sugar mix and now cook string spoon on medium heat to dry milk and reduced, kimam is ready.",
+      "In a pan add 2 tbsp of clarified butter and fry sewai/vermicelli till golden brown and aroma comes, take out vermicelli and keep aside.",
+      "Fry makhana in same pan and take out set a side.",
+      "Now chop all nuts finely and grind soaked coconut and dry dates coarsely keep aside.",
+      "Now take heavy bottom pan add remaining clarified butter, green cardamom and cloves, splutter them add solid milk and fry it until brown.",
+      "Now add ground coconut and dry dates fry them till color changes to brown.",
+      "Add kimam, chopped nuts and makhana also add fried sewai and 1⁄2 liter remaining milk stir on medium heat when bubbles starts, cover and simmer on low flame for about 4-5 minutes. (Do not overcook and dry the syrup)",
+      "Dish out and sprinkle desiccated coconut garnish silver paper and serve."
+    ]
+  },
+    {
+      "id": 29,
+      "name": "Special Lauki Kheer",
+      "category": "Desserts",
+      "ingredients": [
+        "Milk 1 1/2 litres",
+        "Sugar 250 gms",
+        "Lauki (washed and Peeled) 1/4 kg",
+        "Rice (Washed and soaked) 1/4 cup",
+        "Custard powder 2 tbsp",
+        "Cardamom powder 1 tsp",
+        "Kewra 2 tsp",
+        "Khoya 1/4 kg",
+        "Almond & Pistachios for garnishing"
+      ],
+      "instructions": [
+        "Boil the milk and lower the flame.",
+        "Grind rice and add to this milk while stirring with a big spoon.",
+        "Mix well and add sugar to this mixture, again mix well.",
+        "Grate lauki and boil it.",
+        "Drain the water and add this lauki to the above milk rice mixture.",
+        "Now cook until kheer thickens.",
+        "To this kheer, add cardamom and custred powder (dissolve custred powder in half cup of milk and add to kheer while stirring it).",
+        "When kheer paste is formed, add khoya and rose water to it.",
+        "Serve the kheer in a dish.",
+        "Garnish it with almonds and pistachios.",
+        "If desired place in refrigerator to cool and serve."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Moong Dal Laddoo",
+      "category": "Desserts",
+      "ingredients": [
+        "Moong dal 300 gms",
+        "Sugar 300 gms",
+        "Ghee 250 gms",
+        "Green cardamoms 6",
+        "Saffron A little",
+        "Crushed dry fruits"
+      ],
+      "instructions": [
+        "Soak dal overnight and grind it (not very fine) next morning.",
+        "Take 200 grams ghee and brown dal till golden in colour.",
+        "Keep stirring. Grind the sugar very finely and mix in the cooked dal.",
+        "Add crushed cardamoms, saffron (dissolved in a little milk) and finely crushed dry fruits (optional).",
+        "Wait till cool. Then add the remainder of ghee in the dal and from laddoos out of it."
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Vermicelli with Saffron",
+      "category": "Desserts",
+      "ingredients": [
+        "Light olive oil 2 tbsp",
+        "Brown rice vermicelli 125 g",
+        "Semi-skimmed milk 750 ml",
+        "Saffron threads large pinch",
+        "Cardamom seeds (crushed) 1/2 tsp",
+        "Golden caster sugar 6 tbsp",
+        "Raisins 200 g",
+        "Mixed nuts (to serve) 100 g"
+      ],
+      "instructions": [
+        "Heat the oil in a heavy-based saucepan.",
+        "Break the vermicelli into 4 cm lengths and place it in the pan.",
+        "Stir-fry over a gentle heat for 4-5 minutes until lightly golden, then pour in the milk and bring it to the boil.",
+        "Add the saffron, cardamom and sugar and cook and stir over a medium heat for 15-20 minutes until thickened.",
+        "Stir in the raisins, stir and cook for 2-3 minutes, then remove from the heat.",
+        "Transfer the mixture into individual bowls, allow to cook and chill for 3-4 hours.",
+        "Sprinkle over the nuts and serve immediately."
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Kheer",
+      "category": "Desserts",
+      "ingredients": [
+        "3/4 cup basmati rice",
+        "4 cardamom pods, crushed",
+        "1/2 teaspoon salt",
+        "1 cup whipping cream",
+        "1/3 cup sugar",
+        "8 ounces mascarpone",
+        "1/4 teaspoon rose water",
+        "Chopped pistachios"
+      ],
+      "instructions": [
+        "In a 2- to 3-quart pan over high heat, bring rice, cardamom and 1 1/2 cups water to a boil. Lower heat to maintain a simmer, cover, and cook until water is absorbed and rice is tender, 20 to 25 minutes. Fluff with a fork, cover, and let cool to room temperature. Discard cardamom pods.",
+        "In a bowl, combine cream, sugar, mascarpone, and rose water (if using). Whip mixture with an electric mixer at medium speed, until thickened.",
+        "Stir in rice. Spoon into eight bowls or dessert glasses. Cover and chill until cold, at least 1 hour. Just before serving, sprinkle with chopped pistachios."
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Rava Laddo",
+      "category": "Desserts",
+      "ingredients": [
+        "Pure ghee 4 tbsp",
+        "Semolina 1 1/2 cups",
+        "Fresh coconut, scraped 3/4 cup",
+        "Sugar 1 cup",
+        "Raisins 2 tbsp",
+        "Green cardamom powder 1 1/2 tbsp"
+      ],
+      "instructions": [
+        "Heat ghee in a thick-bottomed kadai, stir-fry semolina on very low heat, till it just starts changing colour to light golden.",
+        "Add scraped coconut and continue to stir-fry for one more minute.",
+        "Cook sugar with half a cup of water on meduim heat, stirring continuously till it dissolves.",
+        "Increase heat and bring the syrup to a boil.",
+        "Cook without stirring for about five minutes or till it reaches single thread consistency.",
+        "Add the warm roasted semolina mixture and green cardamom powder to sugar syrup and mix well.",
+        "Cover mixture with a lid & keep aside for thirty minutes, stirring the mixture at regular intervals.",
+        "Divide the mixture into twelve to fifteen equal portions, shape into firm laddus by rolling them with your hands and decorate with raisins."
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Anjeer ka Meetha",
+      "category": "Desserts",
+      "ingredients": [
+        "Dried Figs 250 gms",
+        "Dried dates 250 gms",
+        "Skimmed Milk Powder 1/4 cup",
+        "Almonds (roasted) 4-5"
+      ],
+      "instructions": [
+        "Soak figs in 3 cups of water for 3-4 hours.",
+        "Boil them in the same water in which they were soaked, for 3-5 minutes.",
+        "Take the pan off the heat, drain the figs and cool slightly.",
+        "Reserve some figs and puree the rest. Chop the reserved figs.",
+        "Chop dates roughly and soak in 2 cups hot water for 15-20 minutes. Drain Puree.",
+        "Mix the 2 purees and add skimmed milk powder. Mix well and cook on low heat for 15-20 minutes.",
+        "Add the chop figs and simmer for another 2-3 minutes. Serve garnish with almost silvers."
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kesari Rajbhog",
+      "category": "Desserts",
+      "ingredients": [
+        "Chenna (from cow's milk) 250 gms",
+        "Refined flour (maida) 1 tsp",
+        "Semolina (rava) 1 tsp",
+        "Pistachio nuts 12-15",
+        "Almonds 6-8",
+        "Khoya (Grated) 3 tbsp",
+        "Green cardamom powder 1/2 tsp",
+        "Rose syrup 2 tsp",
+        "Sugar 4-5 cup",
+        "Saffron (kesar) 1/2 tsp"
+      ],
+      "instructions": [
+        "Take fresh chenna, knead it well until smooth.",
+        "Add refined flour and semolina and then knead it gently.",
+        "Divide into twelve to fourteen equal portions.",
+        "Soak pistachio nuts and almonds in one cup boiling water for five minutes.",
+        "Drain, cool, peel and chop them roughly.",
+        "Combine grated khoya with green cardamom powder and rose syrup. Knead it into dough.",
+        "Mix in roughly chopped pistachio nuts and almonds, divide into twelve to fourteen equal portions.",
+        "Stuff a portion of khoya into each portion of chenna and make marble-sized balls.",
+        "Combine sugar with three-fourth litre of water.",
+        "Bring it to a boil and make thin sugar syrup.",
+        "Remove scum, if any and pass it through a muslin cloth.",
+        "Bring sugar syrup to a boil in a wide-mouthed pan and add five minutes on high heat.",
+        "Sprinkle about quarter cup hot water and continue to cook on high heat for another five minutes or till they are almost double in size.",
+        "Remove and keep in sufficient quantity of saffron infused sugar syrup.",
+        "Refrigerate and serve chilled."
+      ]
+    },
+    {
+      "id": 36,
+      "name": "MalPua",
+      "category": "Desserts",
+      "ingredients": [
+        "Flour 1 cup",
+        "Milk 1 cup",
+        "Water 2 cups",
+        "Sugar 2 cups",
+        "Cardamom (ground) 1/2tsp",
+        "Chopped nuts 1/4 cup",
+        "Saffron a little",
+        "Ghee"
+      ],
+      "instructions": [
+        "Boil the sugar and water into a syrup of one string consistency.",
+        "Mix the cream and milk well and then add maida.",
+        "Leave for 1-2 hours. Then heat a little ghee on a griddle and drop spoonfuls of the thick batter to form small puris.",
+        "Lightly brown them. Remove and arrange in a serving dish.",
+        "Cover with the syrup. Sprinkle a little ground cardamom and saffron and some nuts on top."
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Badami Firni",
+      "category": "Desserts",
+      "ingredients": [
+        "Milk 1 liter",
+        "Condensed milk 1 tin",
+        "Almonds (chopped) 1/2 cup",
+        "Pistachio 15",
+        "Kewra 2 tsp",
+        "Rice 2 tbsp"
+      ],
+      "instructions": [
+        "Add grinded rice in water.",
+        "Heat the milk on low-medium heat for some time.",
+        "Then add grinded rice and water mix in the milk.",
+        "Cook them for a while, till they starts thickening.",
+        "Then add chopped almonds in it.",
+        "Keep stirring constantly.",
+        "Then add condensed milk and roh kewra in it.",
+        "Cook for a few minutes and turn off the flame.",
+        "Serve it in dishes and garnish wih pistachio."
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Kimami Sevai",
+      "category": "Desserts",
+      "ingredients": [
+        "Sewai 500 gm",
+        "Sugar 1 kg or Less",
+        "Solid milk 250 gm",
+        "Whole milk 1-1/2 liter",
+        "Clarified butter ½ cup",
+        "Green cardamom 7-8",
+        "Cloves 4-5",
+        "Whole dry coconut 1 (overnight soaked)",
+        "Dry dates 250 gm (overnight soaked)",
+        "Cashew nuts 4 tbsp",
+        "Raisins 4 tbsp",
+        "Almonds 4 tbsp",
+        "Makhana 50 gm",
+        "Silver paper for garnish"
+      ],
+      "instructions": [
+        "For Kimami: Take a heavy bottom pan add 1 liter of milk bring boil then add sugar mix and now cook string spoon on medium heat to dry milk and reduced, kimam is ready.",
+        "In a pan add 2 tbsp of clarified butter and fry sewai/vermicelli till golden brown and aroma comes, take out vermicelli and keep aside.",
+        "Fry makhana in same pan and take out set a side.",
+        "Now chop all nuts finely and grind soaked coconut and dry dates coarsely keep aside.",
+        "Now take heavy bottom pan add remaining clarified butter, green cardamom and cloves, splutter them add solid milk and fry it until brown.",
+        "Now add ground coconut and dry dates fry them till color changes to brown.",
+        "Add kimam, chopped nuts and makhana also add fried sewai and ½ liter remaining milk stir on medium heat when bubbles starts, cover and simmer on low flame for about 4-5 minutes. (Do not overcook and dry the syrup)",
+        "Dish out and sprinkle desiccated coconut garnish silver paper and serve."
+      ]
+    }
+  ]
+}
+
+

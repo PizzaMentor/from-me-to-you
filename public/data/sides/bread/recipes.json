@@ -1,0 +1,256 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Naan",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1/2 kg plain flour",
+              "1 tbsp sugar",
+              "1 1/2 tbsp yeast",
+              "2 to 3 tbsp butter",
+              "Salt to taste",
+              "Milk or water"
+            ],
+            "instructions": [
+              "Add yeast and sugar to warm water and put aside.",
+              "When yeast is raised to desired consistency, add plain flour, salt and milk or water and knead into fine dough.",
+              "Wrap with a plastic sheet and keep in a warm place for 2 to 3 hours.",
+              "Then roll out equal portions of the dough and bake in a pre heated oven at 200C for 8 to 10 minutes.",
+              "When you see a change in color, brush some butter on top and bake again for 1 to 2 minutes.",
+              "Serve hot."
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Roghni Naan",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1/2 kg plain flour",
+              "1 cup butter",
+              "1 tbsp sugar",
+              "1 - 1 1/2 tsp yeast",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Dissolve yeast and sugar in warm water.",
+              "When yeast is raised, mix with plain flour, salt and butter.",
+              "Knead with milk or water and put aside for 2 - 3 hours.",
+              "Fold over kneaded dough using hands and divide into equal portions.",
+              "Roll each portion into a flat naan and make fork marks on it.",
+              "Bake in a pre heated oven at 200C for 8 - 10 minutes.",
+              "When naan turns into a nice golden brown color, brush with butter and bake for another couple of minutes.",
+              "Roghni naan is ready to serve."
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Makkai Ki Roti",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1 cup corn flour",
+              "1 cup wheat flour",
+              "Oil / clarified butter for fry",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Take a bowl and put wheat flour and corn flour in it.",
+              "Now add salt and water (as you required) to knead it to make dough.",
+              "Now make medium balls from dough.",
+              "Roll into chapattis on a rolling board.",
+              "Pour some clarified butter or oil on tawa put roti.",
+              "Roast both the side of it and serve it."
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Missi Paratha",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1 cup gram flour",
+              "1 cup red flour",
+              "1 chopped onion",
+              "1 chopped tomato",
+              "2 - 3 chopped green chili",
+              "2 tbsp chopped fresh coriander",
+              "1/4 cup clarified butter",
+              "1 tbsp crushed cumin",
+              "1 tbsp crushed coriander",
+              "1 tbsp turmeric",
+              "Water as required",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Mix gram flour and red flour in a bowl.",
+              "Knead green chilies, onion, chopped coriander, turmeric, cumin, crushed coriander, tomatoes and salt with required amount of water to knead the dough.",
+              "When the dough gets ready add 2 tbsp clarified butter, mix well and keep aside for 10 to 15 minutes.",
+              "Make balls of the dough, roll it to form rotis.",
+              "Heat pan and fry roti with clarified butter."
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Shermal",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1/2 kg white flour",
+              "1 sachet yeast",
+              "4 tbsp sugar",
+              "1 egg",
+              "1/2 cup clarified butter",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Take warm water in a cup and put yeast, sugar and mix.",
+              "Leave it for 10 to 15 minutes.",
+              "When its start to rise, put it in a mixing bowl with white flour, beaten egg, clarified butter and salt and knead it well.",
+              "Now wrap it in a plastic sheet and leave it on a warm place.",
+              "Now make balls from it and roll it with a rolling pin, with help of fork make marks in the centre.",
+              "Now put it in oven for baking for 15 to 18 minutes at 200C.",
+              "Brush sheermal with clarified butter and serve immediately."
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Methi Palak Puri",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "4 tbsp chopped spinach",
+              "4 tbsp chopped fenugreek leaves",
+              "2 cups flour",
+              "1 tsp crushed cumin",
+              "1 tsp salt",
+              "1 tsp red chili powder",
+              "1/2 tsp all spice powder",
+              "2 tbsp oil",
+              "1 cup warm water",
+              "Oil for fry"
+            ],
+            "instructions": [
+              "Add salt and make past spinach and fenugreek mixture.",
+              "Now add cumin, red chili powder, all spice powder, flour, and oil.",
+              "Knead with warm water into a soft dough.",
+              "Make balls and set aside for 10 minutes.",
+              "Now roll out small puris and fry in hot oil."
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Moong Dal Parathas",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1/2 kg yellow lentils (Moong dal)",
+              "1 tsp crushed pomegranate seeds",
+              "Green coriander leaves",
+              "1 green chilli",
+              "1/2\" piece ginger",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp coriander powder",
+              "1/2 tsp chilli powder",
+              "Salt to taste",
+              "3 cup wheat flour",
+              "Oil as needed"
+            ],
+            "instructions": [
+              "Put 1/2 tsp turmeric powder and chilli powder and 1 tbsp oil in the flour and make a dough.",
+              "In a vessel, heat 1 tsp oil, add ginger, green chillies, turmeric powder, coriander and chilli powder.",
+              "Add the lentils and put about 1, 1/2 cup of water and salt.",
+              "Cover and cook till the lentils are separated and tender and water has dried up.",
+              "Add pomegranate seeds in it.",
+              "Now make small balls of wheat flour and flatten them.",
+              "Put 1 tbsp cooked lentils in it, cover into a ball again.",
+              "Then roll like parathas and cook on a griddle, smearing it with oil frequently."
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Chappati Filled With Mince & Eggs",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "250 gm mince",
+              "1 tbsp chili powder",
+              "1 tbsp ginger garlic paste",
+              "1 chopped onion",
+              "4 chopped green chilies",
+              "3 eggs",
+              "1 tsp all spice",
+              "1/2 tsp salt",
+              "1 tsp chat masala",
+              "2 finely chopped tomato cubes",
+              "1/2 cup finely chopped spring onions",
+              "2 tbsp chopped coriander leaves",
+              "For Roti:",
+              "4 cup flour",
+              "1 cup wheat flour",
+              "1/2 tsp salt"
+            ],
+            "instructions": [
+              "Cook mince with red chili powder, ginger garlic paste, onions, green chilies, salt and water.",
+              "Cook till mince is tender and place aside.",
+              "Mix flour, wheat flour and salt with water. Leave this dough for 5 minutes.",
+              "Make small balls of this dough and roll each ball to almost 6 inches.",
+              "Place square Samosa Patti over it and place some mice mixture over it.",
+              "Place tomatoes, spring onion, all spice powder and chat masala.",
+              "Pour whipped egg half over it and cover with other rolled dough.",
+              "Cut square with the help of pastry wheel and shallow fry till its golden brown."
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Khameeri Roti",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "480 gm/2 cups whole wheat flour",
+              "Clarified butter (ghee) to grease baking tray",
+              "Flour to dust",
+              "Salt to taste",
+              "7.5 gm/1 1/2 tsp fresh yeast"
+            ],
+            "instructions": [
+              "Dissolved the yeast in 120 ml/half cup warm water.",
+              "Sieve the flour with salt onto a platter.",
+              "Make a well in the flour and pour 240 ml/1 cup water.",
+              "Mix flour and water gradually, then knead into a tough dough.",
+              "Cover with a damp cloth and keep aside for 15 minutes.",
+              "Slowly sprinkle the dissolved yeast over the dough and keep kneading till the dough is smooth and pliable and not sticky.",
+              "Cover with damp cloth and set aside for 30 minutes.",
+              "Divide dough into 8 equal balls and dust with dry flour.",
+              "Press and flatten each ball into round discs, 8 inches wide.",
+              "Wearing an oven glove stick the disc to the side of a hot tandoor and bake for 2 minutes.",
+              "Remove with a pair of tongs.",
+              "Alternatively, place on a greased baking try and bake for 4-5 minutes in a preheated oven at 350°F."
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Puran Poli",
+            "category": "Sides - Bread",
+            "ingredients": [
+              "1/2 kg flour",
+              "12 cardamoms",
+              "1/2 kg gram dhal",
+              "4 cloves",
+              "250g sugar",
+              "Little ghee"
+            ],
+            "instructions": [
+              "Clean and wash the gram dhal well.",
+              "Boil till it is tender and the water dries up.",
+              "If there is excess water, drain it off.",
+              "Add sugar to the cooked gram dhal and cook again.",
+              "Add ground cardamoms and whole cloves and cook till a thread like syrup is formed.",
+              "Remove from the heat and allow to cool.",
+              "Meanwhile sieve the flour and mix in about 2 tsp ghee.",
+              "Add a little water at a time and knead to a thick dough.",
+              "Knead well, divide into equal portions and roll into balls 2 inches in diameter. Keep on one side.",
+              "Next grind the gram mixture to a very thick paste and roll into the same number of balls as the flour balls in the palm of your hands.",
+              "The gram balls should be almost double the size of the flour balls.",
+              "Flatten out the flour balls and carefully stuff in the gram balls.",
+              "Seal carefully and roll our like the ordinary paratha.",
+              "Place on a tava and fry on both sides using as little ghee as possible."
+            ]
+          }
+        ]
+      }
+    
+

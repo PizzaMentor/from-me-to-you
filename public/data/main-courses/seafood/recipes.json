@@ -1,0 +1,318 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Mahi Qulia",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 1 kg",
+              "Whole red chilies 4",
+              "Green chilies 6",
+              "Curry leaves 6",
+              "Few fenugreek seeds",
+              "Lemons 1 to 2",
+              "Mustard oil 1 cup",
+              "Coconut 1 small piece",
+              "Tamarind juice 1⁄4 cup",
+              "Peanuts 10 to 12",
+              "Poppy seeds 1 tbsp",
+              "Red chili powder 1 tbsp",
+              "Ginger 2 tsp sliced",
+              "Garlic 2 tsp sliced",
+              "Turmeric powder 1⁄4 tsp",
+              "White cumin 1⁄2 tbsp",
+              "White sesame seeds 2 tbsp",
+              "Coriander seeds 2 tbsp",
+              "White vinegar 2 tbsp",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Mix fish pieces with white vinegar and keep aside for 10 minutes.",
+              "Then wash with warm water.",
+              "On a tawa, sauté poppy seeds, white cumin, white sesame seeds, coriander seeds, 10 to 12 peanuts and small piece of coconut and crush finely.",
+              "In a cooking pot, heat mustard oil and sauté whole red chilies, few fenugreek seeds and curry leaves.",
+              "Also add sliced ginger, sliced garlic, turmeric powder, red chili powder, salt to taste and crushed spices and briefly stir together.",
+              "Then take it off the flame and keep aside.",
+              "Brush fish slices with juice of lemons and fry.",
+              "When fish is a nice golden brown, take it off the flame.",
+              "Heat the prepared spice mix again and spread fried fish slices on it.",
+              "Also add tamarind juice, curry leaves and green chilies and move the pot to mix together fish with spices.",
+              "When oil forms a separate layer, allow simmering on low flame for 5 to 10 minutes.",
+              "Serve Mahi Qulia with plain rice."
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Handi Fish Korma",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 1⁄2 kg",
+              "Black cumin 1⁄2 tsp",
+              "White cumin 1 tsp",
+              "Coconut 2 tbsp heaped (desiccated)",
+              "Yogurt 1⁄2 cup",
+              "Coriander powder 1 tsp heaped",
+              "Ginger garlic paste 1 1⁄2 tsp",
+              "Chili powder 1 1⁄2 tsp",
+              "Turmeric 1⁄4 tsp",
+              "Oil 1⁄2 cup",
+              "Onion 2 tbsp heaped (brown and grinded)",
+              "Coriander leave 2 tbsp (chopped)",
+              "Green chilies 2 (chopped)"
+            ],
+            "instructions": [
+              "Slightly roast black cumin, white cumin and desiccated coconut, grind together and keep aside.",
+              "In a bowl add yogurt, mix with coriander powder, ginger garlic paste, chili powder and turmeric.",
+              "Heat oil add yogurt with masala, fry for 2 minutes stirring continuously.",
+              "Add onion with roasted masala.",
+              "Add fish with 1 cup water, cover and cook on low flame till fish tender and oil comes on top.",
+              "Lastly add coriander and green chilies."
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Fish Qorma",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 1 kg",
+              "Onion chopped 3",
+              "Lemon 2",
+              "Whole Kashmiri red chili 4",
+              "Yogurt 1 cup",
+              "Oil 1 cup",
+              "White vinegar 1⁄2 cup",
+              "All spice powder 1 tsp",
+              "Black pepper crushed 1 tsp",
+              "Ginger chopped 1 tbsp",
+              "Garlic chopped 1 tbsp",
+              "Whole coriander 2 tbsp",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Take fish fillet and wash with vinegar and leave it for 10 minutes, then put lemon juice.",
+              "Heat oil in pan and fry chopped onions till it turns golden brown.",
+              "Place on an absorbent paper and crush.",
+              "In a separate pan add whole Kashmiri red chilies along with, white vinegar, whole coriander and a dash of water.",
+              "When the mixture dries grind it in a grinder.",
+              "Mix together yogurt with the crushed onions, red chili paste, all spice, crushed ginger and crushed garlic.",
+              "Now heat some oil in a pan and fry this mixture for 2-3 minutes.",
+              "Heat oil in a separate pan and fry the fish fillet till they turn golden brown.",
+              "Add the fried fish to the prepared gravy along with salt, chopped green chilies and crushed black pepper.",
+              "Cover and simmer for 5 minutes.",
+              "The fish korma is ready to serve."
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Pomfret Curry",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Pomfret fish or white fish 1 kg",
+              "Fresh coriander 1 1⁄2 bunch",
+              "Green chilies 8",
+              "Garlic 25 gm",
+              "Coconut powder 4 tbsp",
+              "Fenugreek seed 1⁄2 tbsp",
+              "Yogurt 225 gm",
+              "Oil 4 tbsp",
+              "Curry leaves 6 – 7",
+              "Water 150 ml",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Cut the fish into 1 or 1⁄2 inch pieces and wash well.",
+              "Blend coriander leaves, garlic and chilies finely.",
+              "Heat oil and add fenugreek seeds, blended spice and salt.",
+              "Now add water and cook on low flame and stir continuously.",
+              "When spices cooked then add fish and stir with spoon.",
+              "Then mix coconut powder in warm water and add in fish mixture.",
+              "Add curry leaves and cook for 10 minutes on low heat until fish becomes tender.",
+              "Take out fish and spread yogurt before serving.",
+              "Pomfret curry is ready to serve."
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Malbari Fish",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 1⁄2 kg",
+              "Tomato 4 - 5",
+              "Tamarind paste 4 tbsp",
+              "Red chili powder 1 tsp",
+              "Turmeric powder 1⁄2 tsp",
+              "Salt to taste",
+              "Green chili 4",
+              "Coriander powder 2 tsp",
+              "Cumin 1 tsp",
+              "Fresh coriander 2 tbsp",
+              "Ginger garlic paste 2 tbsp",
+              "Coconut powder 2 tbsp",
+              "Curry Leaves 4",
+              "Mustard seeds 1⁄2 tsp",
+              "Whole Red Chili 4",
+              "Fenugreek seeds 1⁄2 tsp",
+              "Oil 4 tbsp"
+            ],
+            "instructions": [
+              "Chop tomatoes and put into a pan.",
+              "Add 1 cup water, red chili powder, salt, turmeric, coriander powder, cumin, ginger garlic paste and coconut powder.",
+              "Cook on low flame for 10 minutes.",
+              "When tomatoes soften and gravy slightly thickens add fish pieces and cook for 10 minutes more.",
+              "Add tamarind paste, green chilies, and fresh coriander. Turn the flame off.",
+              "In frying pan heat oil, add whole red chilies, mustard seeds, curry leaves, and fenugreek seeds.",
+              "Give Tarka and serve with plain rice."
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Prawn Coconut Masala",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Prawn 1⁄2 kg",
+              "Oil for frying",
+              "Red chili 6 – 7 (dry)",
+              "Coconut 4 tbsp (desiccated)",
+              "Mustard seed 1 tsp",
+              "Onion 1 medium sized",
+              "Water 1 cup",
+              "Oil 3 tbsp",
+              "Bay leaves 2",
+              "Ginger garlic paste 2 tbsp",
+              "Coriander powder 1 tsp",
+              "Red chili powder 1 tbsp",
+              "Turmeric 1⁄2 tsp",
+              "Tomatoes 4 (boiled and chopped)",
+              "Tamarind paste 2 tbsp",
+              "Salt as required"
+            ],
+            "instructions": [
+              "Place cuts on the prawns and keep aside.",
+              "Heat oil in a pan and fry prawns tossing until they change color.",
+              "In a dry wok roast dry red chilies, coconut, mustard seeds and onion and fry for 5-6 minutes till it changes the color.",
+              "Add this mixture in a blender with 1⁄2 cup of water and make a paste.",
+              "Heat 3 tbsp oil in a pan add bay leaves, ginger garlic paste and fry for 2 minutes.",
+              "Add coriander powder, red chili powder, turmeric, salt and coconut paste and sauté for 2-3 minutes.",
+              "Add tomatoes and 1 cup of water and sauté on high flame.",
+              "When the sauce thickens add fried prawns and mix for 2-3 minutes.",
+              "Delicious prawn coconut masala is ready to serve."
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Parsi Prawn",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Large prawns 300 gm",
+              "Oil for frying",
+              "Oil 3 tbsp",
+              "Onion 1 (sliced)",
+              "Garlic clove 4 – 5 (chopped)",
+              "Red chili powder 1 tbsp",
+              "Turmeric 1 tsp",
+              "Water 1⁄2 cup",
+              "Tamarind paste 3 tbsp",
+              "Brown sugar 1 tsp",
+              "Salt as required",
+              "Fresh coriander 1⁄4 bunch (chopped)",
+              "Mint leaves 1⁄4 bunch"
+            ],
+            "instructions": [
+              "Clean prawns. Heat the oil in a pan and fry the prawns and keep aside.",
+              "In other pan heat 3 tbsp oil and fry the onion till it gets golden.",
+              "Then fry garlic cloves, red chili powder, turmeric and water and fry for 2-3 minutes.",
+              "Add fried onion, tamarind paste, brown sugar and salt and fry for 3-4 minutes.",
+              "Add fresh coriander and mint leaves.",
+              "When the masala thickens add fried prawns, mix for 2 minutes and serve hot."
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Kharay Masalay ki Machli",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 2 piece",
+              "Garlic 2 clove",
+              "Whole red chili 6",
+              "Oil 1 cup",
+              "Yogurt 1 cup",
+              "Ginger 1 piece (chopped)",
+              "Fennel seeds 1 tsp",
+              "Carom seeds 1 tsp",
+              "Cumin seeds 1 tsp",
+              "Chaat Masala 1 tbsp",
+              "Whole coriander 1 tbsp",
+              "Salt 1⁄2 tsp",
+              "Tamarind pulp 3 tbsp"
+            ],
+            "instructions": [
+              "Heat oil in pan.",
+              "Add salt, fennel seeds, carom seeds, cumin seeds, cloves of garlic, whole red chilies and whole coriander, fry well.",
+              "Now add fish fillet and fry for 2 minutes on high flame.",
+              "Add beaten yogurt and tamarind pulp.",
+              "Cook till water dries.",
+              "Garnish with chopped ginger, sprinkle chaat Masala and serve."
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Tomato Fish Curry",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish fillets 1/2 kg",
+              "Capsicum 4 tbsp",
+              "Onion Chopped 3 tbsp",
+              "Chilli sauce 4 tbsp",
+              "Tomato puree 4 tbsp",
+              "Vinegar 1 tbsp",
+              "Salt 1 tsp",
+              "Oil 1 tbsp",
+              "Dry fenugreek leaves (kasuri methi) 1 tbsp",
+              "Coriander leaves 3 tbsp",
+              "Corn flour 1 tbsp"
+            ],
+            "instructions": [
+              "Shallow fry the fish for two minutes on each side.",
+              "Heat oil in a pan, add chopped onion and saute for 2 minutes until soft.",
+              "Add capsicum and fry for further 1-2 minutes.",
+              "Take pan off the flame and add chilli sauce, 1/4th cup water and tomato puree.",
+              "Replace the pan on flame and add vinegar, dry fenugreek leaves, salt and fish.",
+              "Dilute corn flour in a little dash of water and add to the pan, stirring constantly.",
+              "Remove pan from flame after 3-4 minutes.",
+              "Garnish with fresh coriander leaves.",
+              "Serve with boiled rice."
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Surmai curry",
+            "category": "Main Courses - Seafood",
+            "ingredients": [
+              "Fish 1 kg",
+              "Cumin seed 1 tsp",
+              "Coriander powder 1 tsp",
+              "Turmeric 1/2 tsp",
+              "Red chili 1/2 tsp",
+              "Tamarind paste 5-8 tsp",
+              "Garlic 12 cloves",
+              "Aniseed a pinch",
+              "Curry leaves 10",
+              "Green chili 4",
+              "Coriander 1/2 bunch",
+              "Coconut as required",
+              "Salt to taste",
+              "Oil as required"
+            ],
+            "instructions": [
+              "Combine coconut, cumin seed, and garlic and blend together.",
+              "Heat oil in a pan, pour the blended mixture into it, add curry leaves and roast/ braise.",
+              "Add red chili, salt, turmeric and mix.",
+              "Add fish and tamarind paste and as much water as required according to desired consistency.",
+              "Add chopped tomato and cook on low flame.",
+              "When oil appears on the top, curry is ready.",
+              "Takeout in a bowl, garnish with green chili and coriander.",
+              "Serve hot with rice or naan."
+            ]
+        }
+    ]
+}

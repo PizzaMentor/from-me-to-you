@@ -22,6 +22,11 @@ const CategoryNavigation = () => {
       link: '/category/sides'
     },
     {
+      name: 'Snacks',
+      image: 'https://source.unsplash.com/featured/?snacks',
+      link: '/category/snacks'
+    },
+    {
       name: 'Desserts',
       image: 'https://source.unsplash.com/featured/?desserts',
       link: '/category/desserts'

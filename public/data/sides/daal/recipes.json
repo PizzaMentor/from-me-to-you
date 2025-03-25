@@ -1,0 +1,446 @@
+{
+    "recipes": [
+        { 
+            "id": 1,
+            "name": "Lentils with Eggplant",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "2 tps olive oil",
+              "1 cup chopped onion",
+              "1 1/2 tsp Garam Masala",
+              "1 cup chopped tomato",
+              "1 tsp turmeric",
+              "1 tsp grated peeled fresh ginger",
+              "2 minced garlic cloves",
+              "250 gms peeled and chopped eggplant",
+              "1 cup dried lentils",
+              "4 cups water",
+              "1 1/2 tsp salt",
+              "2 bay leaves"
+            ],
+            "instructions": [
+              "Heat olive oil in a Dutch oven over medium-high heat.",
+              "Add onion and Garam Masala; sauté 3 minutes or until onion is tender.",
+              "Stir in tomato, turmeric, ginger, garlic, and eggplant; sauté 7 minutes or until eggplant is tender.",
+              "Add lentils, water, salt, and bay leaves to pan; bring to a boil.",
+              "Cover, reduce heat, and simmer 15 minutes.",
+              "Discard bay leaves. Serve over rice."
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Aam Dhal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "2 cup toovar dhal",
+              "2 unripe mangoes",
+              "1 onion",
+              "3 cloves garlic",
+              "1 tsp turmeric powder",
+              "1 tsp mustard seeds",
+              "2 dry red chilies",
+              "A sprig of curry leaves",
+              "1 tbsp ghee",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Wash and soak the dhal for an hour.",
+              "Change the water, add salt and set to boil on a medium heat.",
+              "Peel the mangoes, cut into three pieces each and add to the half cooked dhal.",
+              "Cook till dhal is tender and the mangoes are cooked to a pulp.",
+              "Heat the ghee in a frying pan and fry the spices.",
+              "Add chopped onion and garlic and fry till brown.",
+              "Add to the cooked dhal.",
+              "Aam dhal should be of a watery consistency.",
+              "Serve with rice."
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Mash Ki Daal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup mash pulse",
+              "1 tsp cumin seed",
+              "1 tsp salt",
+              "1 onion",
+              "1/2 tsp garam masala powder",
+              "1 whole chillies",
+              "1 tsp chilli flakes",
+              "5 curry leaves",
+              "5 tbsp oil",
+              "2 tbsp coriander leaves",
+              "1 tsp ginger garlic paste",
+              "2 green chillies",
+              "1 piece julien ginger"
+            ],
+            "instructions": [
+              "Wash and boil pulse when little water remain then add salt.",
+              "Add red chilli flakes, ginger garlic paste, cumin seed mix well and let it dry.",
+              "Put all spices powder, julien ginger, green chillies, coriander leaves.",
+              "Serve hot with naan and salad."
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Dal Dhokli",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup arhar dal (soaked in a water for 1 hour)",
+              "2 tps green chilly paste",
+              "1/4 cup groundnuts",
+              "2 chopped tomates",
+              "1/4 fresh coriander",
+              "1/2 tsp haldi",
+              "Salt to taste",
+              "4-5 curry leaves",
+              "1/4 tps hing",
+              "1 lemon juice",
+              "1-1/2 tsp sugar",
+              "2 tps rai",
+              "2 tps zeera",
+              "2 raw chappati in (square pcs)",
+              "2 tsp oil"
+            ],
+            "instructions": [
+              "In a cooker put dal, chilly paste, tomatoes and 1 glass water now give 4-5 whistle to it.",
+              "Now mash it little bit and add salt, groundnuts, 1/4 glass water and again make 4-5 whistle.",
+              "Now add 1/2 glass water in it and add curry leaves, haldi, coriander, lemon juice, sugar and keep for boiling on slow flame.",
+              "Now as 1-2 boiler comes add raw chappati pcs in dal and let it boil for atleast 10 min on slow flame by stiring it.",
+              "For garnishing -- take nonstick pan put 2 spoon oil add zeera, rai and hing as it turn in golden.",
+              "Now garnish this mixer and fresh coriander in dal mix well and serve hot."
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Masala Toovar",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "To be ground into a paste:",
+              "8 garlic cloves",
+              "8 dry red chillies",
+              "2 tsp coriander seeds",
+              "1 tsp cumin seeds",
+              "35 mm ginger (1 1/2\" piece)",
+              "Other Ingredients:",
+              "1 cup toovar (soaked overnight)",
+              "7-8 whole onions",
+              "4 tbsp ghee",
+              "1 cup sliced onions",
+              "Salt to taste",
+              "3/4 cup chopped tomatoes",
+              "For the garnish:",
+              "2 tbsp chopped coriander"
+            ],
+            "instructions": [
+              "Clean, wash and soak the toovar in enough water overnight, add 2 1/2 cups of water and the whole onions and pressure cook for 2 to 3 whistles or till the toovar is cooked.",
+              "Allow the steam to escape before opening the lid. Keep aside.",
+              "Heat the ghee in a kadhai, add the sliced onions and saute for 2 to 3 minutes, while stirring continuously.",
+              "Add the ground paste and saute for another 3 to 4 minutes, while stirring continuously.",
+              "Add cooked toovar, 1 cup of water and salt, mix well and simmer for 5 minutes, stirring once in between.",
+              "Add the tomatoes and simmer for another 10 minutes.",
+              "Serve hot garnished with coriander."
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Khatta Urad Dal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup chilkwali urad dal",
+              "1/2 cup sour curds (whisked with 1 cup of water)",
+              "1/2 tsp turmeric powder",
+              "1 tsp chilli powder",
+              "1/2 tsp garlic paste",
+              "Salt to taste",
+              "For the garnish:",
+              "2 tbsp chopped coriander"
+            ],
+            "instructions": [
+              "Clean, wash and soak the chilkewali urad dal in water for about 15 minutes.",
+              "Drain and keep aside.",
+              "Drain, add 1 1/2 cups of water and pressure cook for at least 4 whistles.",
+              "Allow the steam to escape before opening the lid.",
+              "Add all the remaining ingredients and simmer for 10 minutes.",
+              "Serve hot garnished with coriander."
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Sookhe Kabuli Chane",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 1/2 cups chickpeas",
+              "1 tsp bicarbonate of soda",
+              "1 tea bag",
+              "2 tbsp coriander seeds",
+              "1 tbsp cumin seeds",
+              "1 tsp red chilli powder",
+              "2 tsp ground pomegranate seeds",
+              "2 tbsp mango powder",
+              "2 tsp garam masala",
+              "Salt to taste",
+              "2 potatoes, cut into fingers, fried",
+              "2\" piece ginger, julienned, fried",
+              "1/2 cup vegetable oil",
+              "2 green chillies",
+              "1 chopped dry red chillies",
+              "1 onion, cut into rings"
+            ],
+            "instructions": [
+              "Soak the chickpeas overnight with bicarbonate of soda.",
+              "Next morning, boil the chickpeas with the tea bag in plenty of water, on low heat, till tender and the water nearly dries up.",
+              "Discard the tea bag.",
+              "Add all the dry spices, salt, fried potato fingers, and ginger, toss well.",
+              "Heat the oil in a pan, add the chickpea mixture, and toss on low heat for about 10 minutes.",
+              "Serve hot garnished with green chillies, dry red chilies, and onions rings."
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Rajistani Punch Rangi Daal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 1/4 cup chana dal",
+              "1 1/4 cup moung dal",
+              "1 1/4 cup urad dal (white)",
+              "1 1/4 cup mash dal",
+              "Salt to taste",
+              "4-5 cloves",
+              "1/2 cup oil",
+              "2 green chillies",
+              "1 tsp coriander powder",
+              "1 inch piece ginger",
+              "1/2 cup green coriander leaves",
+              "1 tsp cumin",
+              "A pinch of turmeric",
+              "1/2 tsp garam masala",
+              "2 tomatoes",
+              "3-4 dry red chillies"
+            ],
+            "instructions": [
+              "Wash and soak all 'Dals' in water for 2 hours.",
+              "Then boil them in saltish water until tender.",
+              "Cut in pieces green chilies and coriander leaves. Thinly slice ginger.",
+              "In a pan heat oil and fry in it cumin, cloves, dry red chilies and turmeric. When reddish brown then add ginger and green chilies also in this pan and fry for a while.",
+              "Now add to this coriander powder and red chilies and stir-fry for a minute.",
+              "Now add tomatoes and stir-fry until oil is separated.",
+              "To this pan add 'daals' (lentils) while stirring. Mix all well and cook on low flame for few minutes then put off the flame.",
+              "Serve hot with rice or as soup."
+            ]
+          },
+          {
+            "id": 9,
+            "name": "White Lentils with Spinach",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup split white lentils",
+              "1/2 kg spinach",
+              "8 whole red chilies",
+              "4 green chilies",
+              "6 whole black peppercorns",
+              "4 peeled garlic cloves",
+              "Salt to taste",
+              "6 tbsp oil"
+            ],
+            "instructions": [
+              "Heat oil and add the garlic cloves.",
+              "Fry till golden brown.",
+              "Put in the lentils with spinach and spices.",
+              "Do not add water, cook on low heat till lentils are tender.",
+              "Steam for 5 to 10 minutes before serving."
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Sprouted Lentil Curry",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "2 cup sprouted whole moong",
+              "1/2 coconut",
+              "3 dry red chilies",
+              "1 marble sized ball tamarind",
+              "1/4 tsp fenugreek",
+              "2 small onions",
+              "1 tbsp ghee",
+              "Few cashewnuts",
+              "1 tsp coconut oil",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Soak the lentil seeds overnight. Next morning, drain and remove them from the bowl.",
+              "Put them in a vessel with a tight fitting lid and place in a warm place with a fairly heavy weight on the lid.",
+              "By evening they well have sprouted.",
+              "Put the sprouted lentils in plenty of water and leave overnight.",
+              "Next morning drain the water and remove the outer skins.",
+              "Now put a saucepan containing 2 pints water to boil.",
+              "When it has boiled add the lentil seeds.",
+              "When they are half cooked, drop in a few cashew nuts and cook the mixture till tender.",
+              "Add salt. Grind coconut with red chilies and tamarind to a smooth paste.",
+              "Fry the fenugreek in the coconut oil till it turns red and grind it with the paste.",
+              "Then pour all the ground spices into the lentils, bring to the boil and let cook for 5 more minutes.",
+              "Remove from heat. Chop onions, fry in ghee to a golden brown and drop in the curry.",
+              "Serve with green chutney."
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Moong Dal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup split green gram",
+              "3 cups water",
+              "1/2 tsp turmeric powder",
+              "Salt to taste",
+              "Juice of half a lemon",
+              "2-3 sliced green chillies",
+              "For the tempering:",
+              "1/2 tbsp ghee",
+              "1/2 tsp cumin seeds",
+              "2-3 cloves (laung)",
+              "1 cinnamon stick (1/2\")",
+              "3-4 cloves finely diced garlic",
+              "1 tsp grated ginger",
+              "1 small quartered tomato",
+              "1 tbsp coriander leaves"
+            ],
+            "instructions": [
+              "Soak the split green gram in cold water for 20 minutes, drain, place in a pan along with the water, turmeric and salt and bring to a boil.",
+              "Remove the scum which forms while boiling as it adds an unpleasant taste.",
+              "Simmer until the split green gram is soft, stir it with a ladle, pressing it against the sides of the pan to break it without making it mushy.",
+              "Stir in the lemon juice and green chillies.",
+              "Pour into a serving dish.",
+              "Heat the ghee in a pan and fry the cumin seeds, cloves, cinnamon, garlic and ginger until they release their aromas, add the tomatoes, saute briefly, and pour the contents of the pan over the hot moong dal.",
+              "Cover and allow the aromas to infuse for a few minutes.",
+              "Garnish with coriander leaves."
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Yellow Moong Dal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 cup split green beans",
+              "3 cup water",
+              "1/2 tsp turmeric powder",
+              "Salt to taste",
+              "1 tbsp ghee",
+              "1\" diced ginger",
+              "3-4 cloves diced garlic",
+              "2 chopped tomatoes",
+              "1/2 tsp cumin seeds",
+              "3-4 sliced green chillies",
+              "1/4 cup coriander leaves"
+            ],
+            "instructions": [
+              "Wash the husked green beans; then soak them in cold water for 30 minutes. Drain.",
+              "Boil the beans in a pan, with the water, turmeric and salt, till they are soft, stirring gently so that they don't break.",
+              "Heat the ghee in a small pan, fry ginger and garlic, add the tomatoes and saute them till they are reduced.",
+              "Add to the beans, and cover to infuse the aromas.",
+              "Stir green chillies and coriander leaves into the beans."
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Chanay Ki Daal Karela",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "250 gm boiled gram lentil",
+              "250 gm bitter gourd",
+              "2 sliced onion",
+              "6 whole red chillies",
+              "1/2 cup yogurt",
+              "1 tsp coriander seeds",
+              "1 tsp onion seeds",
+              "1 tsp salt",
+              "1 tbsp fennel seeds",
+              "1 tbsp white cumin seeds",
+              "1/2 tsp turmeric",
+              "1/2 tsp garam masala powder",
+              "2 tsp ginger garlic paste",
+              "2 tbsp chopped coriander leaves",
+              "2 tbsp chopped green chillies",
+              "1 1/2 tsp chilli powder"
+            ],
+            "instructions": [
+              "Dry roast together coriander seeds, fennel seeds, onion seeds, white cumin seeds and grind finely, keep aside.",
+              "Boil lentil till slightly tender, peel and sliced bitter gourd.",
+              "Heat oil fry, sliced onion till light golden.",
+              "Add ginger garlic paste, turmeric, salt, chilli powder, fry well.",
+              "Add yogurt, fry well.",
+              "Now add boiled gram lentil with sliced bitter gourd.",
+              "Mix well, simmer for 10 minutes.",
+              "Lastly sprinkle the dry roasted masala and all spice.",
+              "Garnish with chopped coriander leaves and green chillies."
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Saboth Masoor Dhal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "Daal:",
+              "1/2 kg brown lentil",
+              "1 tsp garlic paste",
+              "1/2 tsp turmeric",
+              "1 tsp red pepper",
+              "Salt according to taste",
+              "Kayri slices (unripe mango) as to taste",
+              "For Baghar:",
+              "1/2 cup oil",
+              "4-5 cloves garlic",
+              "1 tsp cumin",
+              "1 chopped onion",
+              "Finely chopped corriander",
+              "Salt according to taste",
+              "4-5 green chilli",
+              "4-5 black pepper (sabut)"
+            ],
+            "instructions": [
+              "Soak the lentil for 3 hours.",
+              "Put it on stove and cook for 30-40 minutes on low heat.",
+              "Add garlic paste, turmeric, red pepper and salt.",
+              "Cook for a while.",
+              "Also add few slices of kayri.",
+              "Cook the lentil for a while.",
+              "For Baghar: Take oil in a pan.",
+              "Then add onion in it, and saute them for a while.",
+              "Add cumin, garlic, black pepper, salt and corriander.",
+              "Also green chillies in it.",
+              "Fry them all for a while.",
+              "Then add them in the prepared lentil.",
+              "You can garnish with fresh corriander and serve it with cumin rice."
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Shahjahani Dhal",
+            "category": "Sides - Daal (Lentils)",
+            "ingredients": [
+              "1 lb split peas or gram dhal",
+              "3 tbsp ghee",
+              "4 cardamoms",
+              "6 cloves",
+              "2 cinnamon 1-inch sticks",
+              "2 medium onions",
+              "1 coconut",
+              "2 1/2 pint cream",
+              "4 green chilies",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Set the dhal or peas to boil, when parboiled, take off the heat.",
+              "Heat the ghee in a saucepan and when it has begun to smoke, fry the garam masala (cardamoms, cloves, cinnamon) for 1/2 minute.",
+              "Add the thinly sliced onions and fry to a golden brown.",
+              "Add the dhal, cover and cook for about 10 minutes.",
+              "Meanwhile, grate half the coconut and extract the milk by boiling in a little water.",
+              "Strain this milk and mix with the dhal.",
+              "When the coconut milk has almost evaporated add the cream and salt.",
+              "Chop the other half of the coconut into small cubes, fry slightly and add to the dhal.",
+              "Put in the sliced green chilies and keep stirring till the dhal has a dry, thickish consistency. Serve hot."
+            ]
+          }
+        ]
+      }
+    
+

@@ -1,0 +1,1104 @@
+{
+    "recipes": [
+{
+            "id": 1,
+            "name": "Chinese Fried Rice",
+            "category": "Indo Chinese Fusion",
+            "ingredients": [
+              "Chicken 250g (thinly sliced)",
+              "Vegetable oil 2 tbsp",
+              "Soya sauce 2 tsp",
+              "Salt to taste",
+              "Eggs 2",
+              "Onion 1 (diced)",
+              "Red bell pepper 1 (chopped)",
+              "Peas ½ cup (boiled)",
+              "Carrot ½ cup (finely chopped)",
+              "Boiled rice 2 cups",
+              "Green onion 2 (sliced)",
+              "Oyster sauce 1 tsp"
+            ],
+            "instructions": [
+              "Marinade chicken with 2 drops of oil, ½ tsp soya sauce and to taste salt.",
+              "Heat a non stick pan and add eggs. Cook until done. Break cooked eggs into pieces and transfer in a plate.",
+              "Heat 1 tbsp oil in a large skillet and fry onion until translucent. Remove from pan.",
+              "Add remaining oil in skillet; add chicken and cook until half done then add bell pepper, peas and carrot. Cook until chicken tender completely and vegetables starting to get tender.",
+              "Now transfer boiled rice, green onion, oyster sauce and remaining soya sauce. Stir to incorporate.",
+              "Add cooked onion and scrambled eggs. Toss gently. When everything mix completely serve immediately.",
+              "You can adjust seasoning according to your taste after adding rice."
+            ]
+},
+{
+    "id": 2,
+    "name": "Chicken Chow Mein",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 kg spaghetti",
+      "1/2 kg chicken",
+      "3 thinly sliced carrots",
+      "1/2 bundle spring onion",
+      "1 thinly sliced green/red capsicum",
+      "3 tsp black pepper or up to taste",
+      "1/4 cup chili sauce or to taste",
+      "1/4 cup tomato sauce or up to taste",
+      "1/4 cup soy sauce or up to your taste",
+      "Salt to taste",
+      "2 tbsp garlic and ginger paste",
+      "Water as required",
+      "3 tbsp oil for fry",
+      "2 eggs (optional)"
+    ],
+    "instructions": [
+      "For Boil Chicken: Get a saucepan and pour 4 cups water, then add the garlic and ginger paste add the chicken when water gets its first boil.",
+      "Keep checking every 10 minutes to see if the chicken is cooked or not.",
+      "For Boil Spaghetti: Add 9 cups of water to another saucepan and wait for it to boil completely. Then add the spaghetti with the salt and oil, so they don't stick together.",
+      "Get a large fry pan and add the vegetables, chicken and spaghetti together. Add the black pepper, chili sauce, tomato sauce, soy sauce and mix until all the ingredients are combined together.",
+      "At the end if you want get the eggs and whisk them to together. After that fry it and break into pieces and spread over the spaghetti."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chicken Manchurian",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "For Marination:",
+      "1/2 kg chicken breast",
+      "2 tbsp soya sauce",
+      "1 tbsp vinegar",
+      "A pinch of salt",
+      "1/2 tsp black pepper",
+      "For Sauce:",
+      "2 tbsp chopped garlic",
+      "1 cup tomato puree",
+      "400ml chicken stock",
+      "2 tbsp cooking oil",
+      "1/2 cup vinegar",
+      "2 tbsp soya sauce",
+      "1 tsp salt",
+      "2 tbsp crushed red chilli",
+      "A pinch of red food colour",
+      "2 tbsp tomato ketchup",
+      "1 finally chopped onion",
+      "1 finally chopped capsicum",
+      "3 tbsp corn flour"
+    ],
+    "instructions": [
+      "Cut chicken breast in to cubes, marinate it in soya sauce, vinegar, salt and black pepper. Leave it for 30 minutes.",
+      "Now heat oil in a wok and add garlic to saute, add marinated chicken and cook it until water dries.",
+      "Add tomato puree in it and simmer for a while then add chicken stock, chopped onion and capsicum.",
+      "Cook it well then add vinegar, soya sauce, red chilli, salt, tomato ketchup and red food colour, mix it well and cook to come boiling point.",
+      "Dissolve some corn flour in water and add corn flour to sauce to make a thick gravy keep the flame high.",
+      "Check the consistency of gravy; now pour the gravy in serving dish and serve it with fried rice."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sweet and Sour Chow Mein",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 packet noodles",
+      "1⁄2 kg beef undercut",
+      "2 tbsp soya sauce",
+      "2 tbsp white vinegar",
+      "Salt to taste",
+      "4 chopped garlic cloves",
+      "2 chopped carrots",
+      "2 chopped capsicum",
+      "2 tbsp brown sugar",
+      "1 tsp crushed black pepper",
+      "1 tin pineapple cubes",
+      "1 tsp sesame seed oil",
+      "Oil"
+    ],
+    "instructions": [
+      "Boil noodles along with oil.",
+      "When the noodles are boiled drain the water and wash them with cold water.",
+      "Grease them and keep them.",
+      "Now marinate undercut with 1 tbsp soya sauce, 1 tbsp white vinegar and salt and keep it for 10 minutes.",
+      "Heat oil and add in garlic cloves.",
+      "Fry it till they are golden brown.",
+      "Add in the meat and stir fry it.",
+      "Add in carrots, capsicum, brown sugar, 1 tbsp soya sauce, 1 tbsp white vinegar and black pepper.",
+      "Cook it and add in the noodles.",
+      "Add in pine apple cubes.",
+      "Add in sesame seed oil.",
+      "Dish it out and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chicken Hakka Noodles",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "2 cups noodles",
+      "3 dried red chilies",
+      "1 inch piece ginger",
+      "2 tsp chopped garlic",
+      "1 sliced capsicum",
+      "1 thinly sliced carrot",
+      "2 chopped spring onions",
+      "2 tsp soys sauce",
+      "300 gm cooked chicken",
+      "Salt to taste",
+      "1 tsp vinegar"
+    ],
+    "instructions": [
+      "Grind red chilies, ginger and garlic.",
+      "Heat oil in a pan, add the chili paste and sauté for a minute.",
+      "Now add capsicum and carrot. Fry till it tenders.",
+      "Put spring onion and stir fry for 2-3 minutes.",
+      "Add in soya sauce and chicken pieces and toss well.",
+      "Now add noodles and salt (to taste) and mix well.",
+      "Add vinegar and mix it well.",
+      "Hakka Noodles is ready to serve."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Spicy Fried Rice",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "2 cup rice",
+      "2 tbsp white vinegar",
+      "Salt to taste",
+      "1⁄2 cup oil",
+      "4 chopped garlic",
+      "Yellow food color as required",
+      "3 eggs",
+      "1 tsp red chili flakes",
+      "2 chopped carrots",
+      "2 chopped capsicum",
+      "1 tin sliced mushroom",
+      "2 tbsp soya sauce",
+      "1 tsp brown sugar",
+      "1 tsp sesame seed oil",
+      "1 cup chopped spring onion leaves"
+    ],
+    "instructions": [
+      "Wash and soak rice and boil them along with 1 tbsp white vinegar and salt.",
+      "Boil them for 5 minutes and drain the water.",
+      "Take some oil in the pan, add in chopped garlic and fry it till golden brown.",
+      "Add in some yellow food color in the eggs along with 1 tsp red chili flakes.",
+      "Beat them and keep on moving the spoon quickly.",
+      "When the egg it fried cut it into pieces and keep it aside.",
+      "Stir fry carrot, capsicum and mushroom.",
+      "Add in 1 tbsp white vinegar, soya sauce and brown sugar.",
+      "Add in the rice and mix everything.",
+      "Add in sesame seed oil.",
+      "Take it out in dish and garnish with eggs and spring onion leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Chinese Chicken Noodles",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "300 grams boneless chicken",
+      "500 grams boiled egg noodles",
+      "1 cup finely chopped cabbage",
+      "1 finely cut capsicum",
+      "2 finely cut spring onions",
+      "2 cut in strips green chilies",
+      "1 inch piece julienned ginger",
+      "4 julienned garlic cloves",
+      "1 tsp crushed red chilies",
+      "1 tbsp soy sauce",
+      "1 tbsp chili sauce",
+      "1 tbsp vinegar",
+      "1⁄2 tsp black pepper powder",
+      "1⁄2 tsp salt",
+      "3 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pot and cook chicken on high flame till color changes.",
+      "Add all vegetables and fry for 1 minute.",
+      "Add remaining ingredients except noodles, mix and remove from flame.",
+      "Add boiled noodles, mix well and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Stir Fried Chinese Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 kg chicken",
+      "1 piece ginger",
+      "1 fried onion",
+      "1 capsicum",
+      "1 chopped spring onion",
+      "4 fresh red chili",
+      "4 garlic cloves",
+      "10 peas",
+      "1 tbsp sesame oil",
+      "1 tbsp peanut butter",
+      "1 tbsp chili sauce",
+      "1 tbsp soya sauce",
+      "1⁄2 tsp salt",
+      "2 tbsp tomato paste",
+      "2 tbsp black vinegar",
+      "3 tbsp oil"
+    ],
+    "instructions": [
+      "Boil chicken in 1 cup water.",
+      "Turn the flame off when only 1⁄2 cup chicken stock is left.",
+      "In a wok, heat oil and fry cloves of garlic.",
+      "When aroma is given off, add spring onion, fried onion, mushroom, capsicum, red chili and peas.",
+      "Cook on high flame for 1 minute.",
+      "Then add sesame oil, peanut butter, chili sauce, soya sauce, salt, tomato paste and black vinegar mix well then turn the flame off.",
+      "Stir fry Chinese chicken is ready to serve."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chicken Corn Soup",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "4 chicken fillets",
+      "1kg chicken bones",
+      "1 tin cream style corn",
+      "2 eggs",
+      "1 tsp white pepper powder",
+      "1 tsp sesame oil",
+      "1 tbsp chicken flour",
+      "3-4 tbsp corn flour",
+      "2 tbsp oil",
+      "Salt to taste",
+      "For the stock:",
+      "1 bay leaf",
+      "4 garlic cloves",
+      "6 black pepper corns"
+    ],
+    "instructions": [
+      "Wash the chicken bones, boil them in 3 cups of water along with the black pepper corns, garlic cloves, and bay leaves when cooked fully strain the stock.",
+      "In a separate sauce pan boil together the stock and corn.",
+      "When uniformly mixed add the shredded chicken fillet, salt and white pepper powder.",
+      "Mix corn flour and 1tbsp chicken flour in water and stir into the stock.",
+      "When the mixture thickens turn the flame off.",
+      "After 5 minutes beat the eggs into the soup.",
+      "Heat sesame oil and pour into the soup.",
+      "Serve with vinegar, Soya sauce, green chilies and chili sauce."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chinese Soup",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 1⁄4 liters chicken stock",
+      "175 gm sweet corn kernels",
+      "1 tsp freshly grated ginger",
+      "4 topped, tailed and sliced spring onions",
+      "170 gm defrosted and shredded seafood sticks",
+      "50 gm defrosted and peeled prawns",
+      "Salt and black pepper as required",
+      "2 tbsp corn flour",
+      "Carrot flowers for garnishing"
+    ],
+    "instructions": [
+      "Take the chicken stock in a saucepan and bring to the boil.",
+      "Add the sweet corn kernels, ginger, spring onions, seafood sticks and prawns.",
+      "Add the salt, black pepper.",
+      "Blend the corn flour in a small bowl with enough cold water to form a smooth paste.",
+      "Stir the corn flour paste into the soup and simmer gently for 5 minutes.",
+      "Stir until slightly thickened.",
+      "Serve hot garnished with carrot flowers."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Black Pepper Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "400 gm boneless chicken (cut into 1/2 inch dices)",
+      "3 tbsp corn flour (for sprinkle)",
+      "3 medium onions (cut into medium size cubes)",
+      "1 capsicum (cut into small cubes) (optional)",
+      "1 tsp chopped garlic",
+      "Oil for frying as required",
+      "2 tbsp oil for gravy",
+      "For Sauce:",
+      "4 tbsp oyster sauce",
+      "1/2 tsp vinegar",
+      "1 tbsp soya sauce",
+      "1 tsp freshly crushed black pepper",
+      "1/2 tsp salt"
+    ],
+    "instructions": [
+      "Mix well all the sauce ingredients in a bowl.",
+      "On chicken, sprinkle corn flour and deep fry just for 2-3 minutes.",
+      "Heat 2 tablespoons of oil in a wok, add onions and fry till half done.",
+      "Add garlic and sauce ingredients.",
+      "After a minute add fried chicken cubes.",
+      "Add capsicum and cook for another 2 minutes on high flame.",
+      "Serve hot with plain rice."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Garlic Cauliflower",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 kg cauliflower",
+      "For Batter:",
+      "2 tbsp all purpose flour",
+      "2 tbsp corn flour",
+      "Salt to taste",
+      "2 tbsp soy sauce",
+      "1-2 tsp red chilli powder",
+      "1 tbsp vinegar",
+      "For Seasoning:",
+      "6-8 whole red chillies",
+      "2 tbsp ketchup",
+      "1 tbsp soy sauce",
+      "Few spring onions",
+      "1 tbsp oil",
+      "1 tbsp garlic paste",
+      "Salt to taste",
+      "1 tbsp vinegar",
+      "1 tbsp cornflour",
+      "250 ml chicken stock"
+    ],
+    "instructions": [
+      "Cut cauliflower in florets.",
+      "Take corn flour and all purpose flour in a bowl.",
+      "Then add salt, soy sauce, vinegar and red chili powder in it. Mix well.",
+      "Add a little water in it to form a thick batter.",
+      "Now sprinkle salt on cauliflower.",
+      "After 15 minutes, dip cauliflower in batter and deep fry till golden.",
+      "Cut whole red chilli into pieces and mix cornflour in chicken stock.",
+      "Heat oil in a skillet over medium heat and add garlic.",
+      "Then add whole red chillies with ketchup and mix well.",
+      "Now add salt, soy sauce and a little water.",
+      "when it simmers, then dissolve corn flour and mix well.",
+      "Let it simmer, then add vinegar.",
+      "Now add spring onion and remove from heat.",
+      "Serve hot with jasmine rice."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Szechuan Soup",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 cup boneless chicken",
+      "3-4 cups chicken stock",
+      "1 small size carrot",
+      "1⁄2 medium capsicum",
+      "1⁄4 small cabbage",
+      "2 spring onions",
+      "3 tbsp corn starch",
+      "1 tbsp salt",
+      "3 tbsp vinegar",
+      "8-10 Szechuan peppercorns",
+      "Chinese salt as required",
+      "1 tbsp red chili paste",
+      "A pinch of red food color"
+    ],
+    "instructions": [
+      "Cut the boneless chicken into small pieces.",
+      "Also, cut the carrot and cabbage into small pieces.",
+      "Chop the spring onion and crush Szechuan peppercorn.",
+      "Mix the corn starch in a quarter cup of water, along with salt, vinegar, red chili paste and Szechuan pepper.",
+      "Heat the chicken stock and put carrot, cabbage, spring onion and capsicum, cook on high heat.",
+      "Now gradually add the corn starch mixture in a thin stream while stirring slowly in one direction.",
+      "Bring to boil and add chicken and pinch of red food color.",
+      "Stir and serve hot."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chicken with Mushroom",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm chicken",
+      "12 halved mushrooms",
+      "1 cup chicken stock",
+      "1 tsp chilli sauce",
+      "1 tsp soy sauce",
+      "1 tbsp corn flour",
+      "4 tsp ginger, garlic paste",
+      "1⁄4 tsp salt",
+      "6 tbsp + 1 tbsp oil"
+    ],
+    "instructions": [
+      "Marinate chicken pieces with salt, corn flour and 1 tbsp oil, and set aside.",
+      "Heat 5 tbsp oil in a wok, fry chicken pieces and remove.",
+      "Fry ginger garlic in the same oil.",
+      "Add chicken pieces, chilli sauce, soy sauce, stock, salt and cook for 5 minutes.",
+      "Add mushrooms, cook for few minutes and remove."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lamb with Garlic Sauce",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm lamb meat",
+      "2 cubed capsicums",
+      "1 finely sliced carrot",
+      "1 cup tomato ketchup",
+      "1⁄2 head finely sliced cabbage",
+      "50 gm chopped garlic",
+      "50 gm whole red chillies (break from the center)",
+      "1⁄2 cup corn flour (dissolved in required water to make paste)",
+      "1 1⁄2 cup chicken stock",
+      "Corn flour for coating as required",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Cut meat into long and thin strips.",
+      "Heat oil in frying pan.",
+      "Coat meat strips with corn flour, fry and keep aside.",
+      "Heat a little oil in a frying pan.",
+      "Saute red chillies and garlic in it till golden.",
+      "Add capsicums, carrot and cabbage and fry on high flame, add meat.",
+      "Add tomato ketchup, salt and stock.",
+      "Add dissolved corn flour in a thin stream, stirring continuously, until gravy thickens.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Egg Fried Rice",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 1⁄2 cup boiled rice",
+      "3-4 eggs",
+      "1 finely chopped capsicum",
+      "1 finely chopped carrots",
+      "1/2 tsp crushed black pepper",
+      "2 chicken cubes",
+      "2 tbsp soya sauce",
+      "2-3 tbsp oil",
+      "Salt as required"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add chopped capsicum, carrots, crushed black pepper, salt, chicken cubes and eggs. Mix well until egg cooked.",
+      "Add the boiled rice along with small amount of water, cover the pan and reduce the flame to simmer rice.",
+      "After 5 minutes dish out and serve."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kebabs with Vegetables",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 kg chicken mince",
+      "2 bread slices",
+      "2 capsicums",
+      "2 onions",
+      "4 green chilies",
+      "1 cup tomato ketchup",
+      "1 tsp black pepper",
+      "1 tsp ginger garlic paste",
+      "1 tbsp vinegar",
+      "1⁄2 tsp salt",
+      "4 tbsp oil"
+    ],
+    "instructions": [
+      "In a bowl, mix together chicken mince, black pepper, socked bread slices, ginger garlic paste and salt.",
+      "Then form the mixture into long kebabs.",
+      "In a pan, heat oil and fry kebabs.",
+      "When kebabs are done, add capsicum, onion and green chilies after finely chopping them and fry them for a minute.",
+      "Also add tomato ketchup, soya sauce and vinegar and turn off the flame.",
+      "Delicious Chinese Kebab with Vegetables is ready to serve."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Ginger Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 kg chicken boneless (bite size cubes)",
+      "1 egg",
+      "1 tsp white pepper",
+      "2 tbsp ginger water",
+      "2 tbsp corn flour",
+      "1 pinch Chinese salt",
+      "Oil for frying",
+      "Salt and pepper to taste",
+      "For Sauce:",
+      "2 cup stock",
+      "1 tsp minced garlic",
+      "1 tsp white pepper",
+      "2 tbsp soya sauce",
+      "2 tbsp sliced ginger",
+      "2 tbsp corn flour (mixed in a little water)",
+      "3 tbsp oil",
+      "Salt and pepper to taste",
+      "Spring onion for garnishing"
+    ],
+    "instructions": [
+      "Add chicken, white pepper, corn flour, salt and pepper to taste, egg and ginger water in a mixing bowl.",
+      "Mix well and set aside for while.",
+      "Now heat oil in a pan and fry the chicken pieces one by one till golden.",
+      "Now in the same oil add minced garlic, ginger slices and cook for 1-2 minutes.",
+      "Then add stock, white pepper, salt and pepper to taste, ginger, Soya sauce.",
+      "Bring it to a gentle boil and add fried chicken pieces.",
+      "Immediately pour corn flour mixture into the chicken while stirring continuously.",
+      "Simmer on gentle heat until the sauce thickens.",
+      "Turn the flame off and garnish with spring onion.",
+      "The ginger chicken is ready to serve."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Chicken Wings",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 kg chicken wings (with skin)",
+      "1 chicken cube",
+      "2-3 egg white",
+      "1 tsp crushed black pepper",
+      "1 tbsp ginger garlic paste",
+      "2 tbsp soya sauce",
+      "1 tbsp brown sugar",
+      "2-3 tbsp corn flour",
+      "Oil for frying",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a mixing bowl mix ginger garlic paste, soya sauce, brown sugar, corn flour, black pepper crushed, egg white, chicken cube and salt to taste. Marinate chicken wings in the mixture.",
+      "Heat oil on medium flame to deep fry the chicken wings.",
+      "When wings are tender dish out and serve."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chicken Balls",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm fine chicken mince",
+      "1 egg",
+      "2 tsp ginger garlic paste",
+      "1 tbsp corn flour",
+      "1 tbsp all purpose flour",
+      "Half cup ketchup",
+      "1 to 2 spring onions",
+      "3-4 tbsp vinegar",
+      "Salt to taste",
+      "Black pepper to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Combine minced chicken, egg, salt, black pepper, 1 tsp ginger garlic paste, corn flour and all purpose flour in a bowl and mix well.",
+      "Make small balls of the mixture and fry them in hot oil.",
+      "Heat oil in a pan and fry 1 tsp garlic ginger paste in it.",
+      "Add shallots, tomato ketchup, vinegar, salt and black pepper, saute.",
+      "Add chicken balls to it, mix.",
+      "Serve hot.",
+      "Tips: If a dish is over salted, put a handful of kneaded dough in it. It will absorb extra salt."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hong Kong Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "300 gm boneless chicken (bite size cubes)",
+      "1 soaked and ground red chili",
+      "1 egg",
+      "4 coarsely chopped button red chili",
+      "1 1/2 cup chicken stock",
+      "1 tbsp vinegar",
+      "1 tbsp chopped garlic",
+      "1 tbsp sliced ginger",
+      "Salt to taste",
+      "1/2 tsp white pepper",
+      "2 tbsp chili sauce",
+      "4 tbsp corn flour",
+      "Oil for deep frying",
+      "Spring onions for garnishing",
+      "Sesame seeds for garnishing (optional)"
+    ],
+    "instructions": [
+      "Mix 2 1/2 tbsp corn flour with salt, white pepper, soaked ground Kashmir chili and egg in a bowl.",
+      "Marinate chicken in this mixture for 30 minutes.",
+      "Deep fry the chicken pieces till light golden.",
+      "Heat a little oil in a wok and add chopped ginger and garlic, saute for a while.",
+      "Now add chopped red chilies, chili sauce, fried chicken and chicken stock.",
+      "Bring it to a boil and then add vinegar.",
+      "Thicken the gravy with 1 1/2 tbsp corn flour mixed in a little stock.",
+      "Serve garnished with spring onions and sesame seeds."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Beef Chili Dry",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1⁄2 kg meat (undercut)",
+      "1⁄2 cup papaya paste",
+      "1 sliced carrot",
+      "A few sprigs spring onion",
+      "5 to 6 cloves garlic",
+      "1⁄2 cup stock",
+      "6 to 8 green chillies",
+      "1 tsp crushed black pepper",
+      "4 tbsp oyster sauce",
+      "1 tsp sugar",
+      "3 to 4 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cut meat in small pieces and marinate it in papaya and garlic paste for 1⁄2 an hour.",
+      "De-seed the green chilies.",
+      "Heat oil in pan and add marinated meat, black pepper, salt to taste, sugar and oyster sauce and cook for 2 to 3 minutes.",
+      "Now add stock in it and cook till it thickens.",
+      "Now add chillies and cook a little and dish it out.",
+      "Garnish it with carrot and spring onion and serve hot with fried rice."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cauliflower Manchurian",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm cauliflower",
+      "1/4 cup flour",
+      "4 tbsp corn flour",
+      "1/2 tsp salt",
+      "1/2 cup water",
+      "1 tbsp heaped ginger garlic paste",
+      "1 tbsp chopped garlic",
+      "1 cup chopped onion",
+      "2 chopped green chilies",
+      "2 tbsp chopped coriander leaves",
+      "2 tbsp soya sauce",
+      "1/2 cup ketchup",
+      "2 tbsp vinegar",
+      "1/4 cup oil"
+    ],
+    "instructions": [
+      "Make a paste of flour, corn flour, salt, ginger garlic paste and water.",
+      "Dip cauliflower in this paste and deep fry till golden brown and crisp.",
+      "Drain out and keep aside.",
+      "Heat up oil in a pan and fry chopped garlic till golden brown.",
+      "Add onion and green chilies. Fry for 1 minute.",
+      "Add soya sauce, ketchup, vinegar in it.",
+      "Mix fried cauliflower in this mixture in mix them.",
+      "Garnish with coriander leaves and serve."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cashew Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1.2 kg boneless chicken",
+      "1/2 cup boiled peas",
+      "1/2 cup cut mushrooms",
+      "1 cup chicken stock",
+      "4 stalks finely cut spring onions",
+      "3 tbsp soya sauce",
+      "2 tbsp corn flour",
+      "Salt to taste",
+      "1/4 cup oil",
+      "100 gm fried cashew nuts"
+    ],
+    "instructions": [
+      "Mix soya sauce, corn flour and salt in a bowl.",
+      "Heat oil in a pot and fry chicken till it changes colour.",
+      "Add peas, mushrooms and stock and cook for 5 minutes.",
+      "Add soya sauce mixture and cook till it thickens.",
+      "Garnish with spring onions and cashew nuts and serve."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Prawns Chow Mein with Pineapple",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 packet egg noodles",
+      "1/2 kg prawns",
+      "2 chopped capsicum",
+      "6 fine chopped spring onions",
+      "1 cup chopped mushrooms",
+      "2 roundly cut carrots",
+      "1 tsp fine chopped ginger",
+      "5 cloves chopped garlic",
+      "1 tsp white pepper",
+      "6 green chillies",
+      "1 cup pineapple",
+      "1/2 cup pineapple juice",
+      "1.5 cup water",
+      "2.5 tbsp corn flour",
+      "3.5 tbsp soya sauce",
+      "Oil as required",
+      "1 tsp sesame oil"
+    ],
+    "instructions": [
+      "Fry the prawns in oil.",
+      "Then fry all vegetables in oil.",
+      "After that add pineapple juice, soy sauce and sesame oil.",
+      "After that add cornflour to thicken the sauce.",
+      "Then add noodles and mix well.",
+      "Be careful not to mix hardly as it may break the noodles."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Kung Pao Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "Marinade:",
+      "200 gm chicken meat breast bone less",
+      "Salt & pepper to taste",
+      "2 tsp soya sauce",
+      "1 tsp sesame oil",
+      "1.1/2 tsp corn flour",
+      "Sauce:",
+      "02 tbsp soya sauce",
+      "01 tbsp white vinegar",
+      "8 small red chili pepper",
+      "02 garlic cloves",
+      "02 green onions",
+      "04 tbsp oil",
+      "01 tsp crushed black pepper",
+      "1/2 cup peanuts"
+    ],
+    "instructions": [
+      "Cut the chicken meat into 1 inch cube.",
+      "Marinade with soya sauce, sesame oil, and corn flour. Leave it for 15 minutes.",
+      "While the chicken is marinating, prepare the sauce & vegetable's, in a bowl, combine Soya sauce, white vinegar and set a side.",
+      "Cut small red chilies, in half, so they are same size as chicken cubes. Remove the seed's, peel garlic cloves, chop them.",
+      "Cut the green onions into thin slice.",
+      "Now heat the wok over medium high flame.",
+      "Add oil, when the oil get hot, add the chicken, stir-fry until it turn white & is 80 percent cooked.",
+      "Remove from the wok.",
+      "Add 02 table spoon oil, when the oil get hot, add chopped garlic, Stir-fry until aromatic, about 30 second,",
+      "Now add the red chilies crushed, black pepper, and the sauce to the wok, bring to boil, add the chicken back into the wok",
+      "Stir it in pea-nut's & the green onion.",
+      "Remove from the heat, put in a few drops of sesame oil."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Prawns in Hoisin Sauce",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "300 gm tiger prawns",
+      "50 gm hoisin sauce",
+      "20 gm shallot",
+      "15 gm red capsicum",
+      "20 gm green bell pepper",
+      "15 gm chilli oil",
+      "5 gm minced garlic",
+      "5 gm minced ginger",
+      "25 gm leeks",
+      "150 gm chicken stock",
+      "3 gm dried long chilli",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Wash and clean the prawns and set aside.",
+      "Heat the wok and pour in the oil.",
+      "Saute minced ginger, garlic, and dry chilli for five seconds.",
+      "Add prawns and stir for 15 seconds over low flame.",
+      "Add the remaining vegetables and toss.",
+      "Pour hoising sauce and chicken stock and let it boil.",
+      "Simmer for about one minute; add salt and pepper to taste.",
+      "Garnish with leeks."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vegetable Fried Rice",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 cup rice",
+      "2 carrots",
+      "1 capsicum",
+      "1/4 part cabbage",
+      "2 spring onions",
+      "1 tsp ginger/garlic paste",
+      "1/2 tsp white pepper powder",
+      "1 tbsp soya sauce",
+      "Salt to taste",
+      "Oil as required"
+    ],
+    "instructions": [
+      "Boil rice and then pour cold water over them.",
+      "Sieve and set aside.",
+      "Finely cut capsicum, cabbage, carrots and onions in the same size.",
+      "Put ginger/garlic paste and vegetables in a pot and fry them slightly.",
+      "Add rice to the fried vegetables and mix well.",
+      "Add soya sauce, salt and white pepper powder in the rice and mix well.",
+      "Serve solo or with a curry of your choice."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sweet and Sour Prawns",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm prawn",
+      "1 tsp salt",
+      "1 egg",
+      "1/2 tsp black pepper",
+      "1 tbsp soya sauce",
+      "2 tbsp milk",
+      "2 tbsp flour",
+      "3 tbsp cornflour",
+      "Oil",
+      "For Sauce:",
+      "2 stock cubes",
+      "1 cup ketchup",
+      "1/2 cup water",
+      "1 small julien carrot",
+      "1/4 tbsp sugar",
+      "1/4 cup oil",
+      "1-1/2 tbsp vinegar",
+      "1-1/2 tbsp soya sauce"
+    ],
+    "instructions": [
+      "For Prawns: Chop prawns roughly.",
+      "Beat egg put salt, black pepper, soya sauce, milk, flour, cornflour mix well.",
+      "In a bowl put prawns and add egg mixture and marinate.",
+      "Heat oil in a wok.",
+      "Take a large spoon and fill it with marinated prawn with thick mixture and put in oil.",
+      "Deep fry prawns till golden brown take out and keep a side.",
+      "For Sauce: Heat oil add carrot and stir fry.",
+      "Put water, stock cubes, ketchup and let it cook.",
+      "Then add sugar, vinegar and soya sauce cook more for a minute.",
+      "Add fried prawns in prepared sauce.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Chicken Spring Roll",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "400 grams chicken: cubes cut into a centimeter cube pieces",
+      "A whole bunch finely chopped spring onions",
+      "2 tbsp or more to taste soya sauce",
+      "1 tsp black pepper",
+      "1 tbsp chili flakes",
+      "1/2 tsp red chili powder",
+      "1 bunch (hand full) finely chopped green coriander leaves",
+      "Readymade pastry for spring rolls",
+      "Oil for cooking",
+      "Salt to taste (not more because it's got soy sauce already in it)",
+      "1 liter oil for deep frying"
+    ],
+    "instructions": [
+      "Heat the oil in the pan and when its heated put the chicken cubes into it",
+      "Fry it for 5 minutes then put soy sauce, salt, black pepper, red chili flakes, red chili powder.",
+      "Now cook it for 15 Min.",
+      "After its cooked remove it from the wok and let it get cool.",
+      "Now add the finely chopped spring onion and the coriander, mix it well and fill it into the pastry sheets to make spring rolls.",
+      "Deep fry them on high heat for 3 to 5 minutes."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chicken Shashlik",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "300 gm chicken",
+      "2 capsicum",
+      "1 onion",
+      "2 tomatoes",
+      "1 tbsp corn flour",
+      "2 tbsp garlic paste",
+      "2 tbsp tomato ketchup",
+      "2 tbsp chilli garlic sauce",
+      "2 tbsp Worcestershire sauce",
+      "1 tbsp ground red chilli",
+      "1/4 tsp black pepper",
+      "1/4 tsp white pepper",
+      "Salt as required",
+      "Oil as required"
+    ],
+    "instructions": [
+      "Cut chicken into medium size cubes.",
+      "Also cut capsicum, onion, tomatoes into medium size pieces.",
+      "Add garlic paste, sauces spices and oil to it.",
+      "Thread chicken pieces, capsicum, onion cubes and a tomato piece onto soaked skewer.",
+      "Heat oil in a pan and saute these sticks until tender."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Chicken with Vegetables and Garlic Soya Sauce",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 grams boneless chicken breast (cut in strips)",
+      "Marinade:",
+      "1 tsp chopped garlic",
+      "Ginger (julienne cut)",
+      "1 tbsp soya sauce",
+      "1/2 tsp salt",
+      "3 tbsp corn flour (paste with water)",
+      "1 egg white",
+      "For Steamed Vegetables:",
+      "1 sliced carrot",
+      "4-5 mushrooms",
+      "3 tbsp peanuts",
+      "1 onion (cut in rings)",
+      "1 capsicum",
+      "Small piece cut julienne style ginger",
+      "1 cucumber",
+      "For Sauce:",
+      "1 tbsp cooking oil",
+      "3-4 garlic cloves",
+      "4-5 tbsp soya sauce",
+      "1 1/2 cups water",
+      "1 chicken cube",
+      "1 tbsp ginger",
+      "1 1/2 tbsp corn flour (paste with water)",
+      "Sesame seeds (pan-fry for garnishing)"
+    ],
+    "instructions": [
+      "Place water in bottom of stove-top steamer.",
+      "Place chicken strips in single file on bottom of steamer for 15 minutes until no longer pink.",
+      "In second layer place squash, carrots, mushrooms and peanuts for 3-4 minutes then put onion rings, capsicum and ginger on top of first layer of vegetables for 2-3 more minutes.",
+      "Add cucumber to the vegetables for 2 minutes and remove onto serving plate.",
+      "In a frying pan on medium heat put cooking oil and fry garlic until lightly golden brown.",
+      "Add soya sauce, water, chicken cube, ginger and boil for 1 minute.",
+      "Add corn flour paste, cook for 1-2 minutes until thickens then place the sauce on top of the chicken and garnish with sesame seeds."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Szechwan Prawns",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "200 gm prawns",
+      "2 tbsp Worcestershire sauce",
+      "1 tbsp oyster sauce",
+      "2 tbsp garlic chutney sauce",
+      "2 tbsp tomato ketchup",
+      "1 capsicum",
+      "1 carrot",
+      "2 green shallots",
+      "6 to 8 whole red chillies",
+      "1 tbsp corn flour"
+    ],
+    "instructions": [
+      "Clean the prawns and wash them.",
+      "Then cut slits in prawns about 1⁄2 cm apart.",
+      "Pour oil in a deep pan, add chopped ginger and garlic, also add prawns to it.",
+      "Now chop capsicum, red chillies, carrot, green shallots leaves and put them in the pan.",
+      "Add black pepper, white pepper, Worcestershire sauce, garlic chutney and ketchup.",
+      "Then add half cup of water and cook it for 3 to 4 minutes.",
+      "Now add water and corn flour mixture to thicken the sauce.",
+      "The delicious prawns are ready.",
+      "Garnish it with thin slices of green chilli and ginger.",
+      "Tip: Dry the pan before pouring ghee into it, otherwise the ghee will sizzle."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Chicken Rice Flower Dumplings",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "300 grams chicken mince",
+      "3/4 cup soaked basmati rice",
+      "1 inch knob ginger",
+      "2-3 chopped green chillies",
+      "Salt to taste",
+      "1 tsp pepper corns"
+    ],
+    "instructions": [
+      "Pick, wash and soak rice in water for twenty minutes.",
+      "Drain and keep aside.",
+      "Wash green chillies, remove stem and chop them fine.",
+      "Peel and wash ginger.",
+      "Grind ginger into a fine paste.",
+      "Mix chicken mince with chopped green chillies, ginger paste, salt and crushed pepper corn.",
+      "Divide this mixture into twelve equal portions.",
+      "From round balls from each portion of chicken mix and then roll them in presoaked rice.",
+      "Place rice rolled chicken balls on a perforated rack which can be fitted into a steamer pot.",
+      "Boil water in the steamer pot and place the perforated rack in it.",
+      "Cover the pot. Steam for about fifteen to twenty minutes or untill cooked.",
+      "Remove gently and serve hot with a dip of your choice."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Prawn Shrimp Tempura",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "1 kg prawns",
+      "Salt as per taste",
+      "1 tsp garlic paste",
+      "1 tsp white pepper",
+      "Cooking oil for frying",
+      "For the batter:",
+      "1 cup plain flour",
+      "3/4 cup corn flour",
+      "1 egg",
+      "Soda water (chilled) as required"
+    ],
+    "instructions": [
+      "Shell and devein the prawns.",
+      "Leave the tails on for presentation. Make 3 slant cuts in each prawn to keep from shrinking.",
+      "Marinate them with salt, garlic and white pepper and refrigerate for 30 minutes.",
+      "To make the batter, sift both flours together in a bowl.",
+      "Add egg and soda water to make the thick paste and refrigerate for 10-15 minutes.",
+      "In a wok, heat cooking oil on medium heat for 3-5 minutes.",
+      "Dip each prawn in the batter and deep fry until golden brown are cooked throughly.",
+      "It is best to fry the prawns in batches to allow the batter to rise fully.",
+      "Place the prawns on a tissue and serve with stir fried vegetables."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Sesame Chicken",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "250 gm chicken boneless (cut in stripes)",
+      "1 tbsp vinegar",
+      "1 tsp soya sauce",
+      "1 tbsp chilli oil",
+      "3 tbsp sesame seed",
+      "1/4 cup peanuts",
+      "1 green onion",
+      "1/2 bell pepper",
+      "1 carrot"
+    ],
+    "instructions": [
+      "In a wok heat oil fry chicken.",
+      "Fry till become brown colour.",
+      "Put soya sauce, vinegar stir fry it.",
+      "Add bell pepper, carrot and spring onion toss it well.",
+      "Also add peanut and sesame seed and now its ready to serve."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Tofu Chili Fry",
+    "category": "Indo Chinese Fusion",
+    "ingredients": [
+      "400g extra firm tofu",
+      "1/4 cup teriyaki sauce for marinating tofu",
+      "1 green pepper (capsicum) cut lengthwise",
+      "1 sliced onion",
+      "Green chili sauce to taste",
+      "Salt to taste",
+      "Black pepper to taste",
+      "1 tbsp low sodium soy sauce",
+      "1 tbsp corn starch",
+      "1/4 cup water",
+      "3 tbsp sesame oil",
+      "1 tsp vinegar",
+      "1 green chilies cut lengthwise for garnish"
+    ],
+    "instructions": [
+      "Marinate the Tofu overnight in the Teriyaki sauce (make sure you leave it in refrigerator).",
+      "Next day drain the Tofu and reserve the Teriyaki sauce if any left. Mix the cornstarch with the water and put it aside. You will be doing some high heat sauteing so keep all the ingredients chopped and ready.",
+      "Heat the sesame oil in a wok or stir-fry pan and stir fry the Tofu for about 7-8 minutes. Heat should be between high and medium high. Now add the onions, followed by green peppers and stir fry for about 4 minutes. Once the onion and peppers get little sweat, add the salt, pepper, green chili sauce, soy sauce and stir.",
+      "Now add the cornstarch mixed with water and give it a good stir.",
+      "Add the reserved Teriyaki sauce and turn the heat off and add vinegar and serve hot.",
+      "Make sure you make this dish just 15 minutes before you plan to serve to retain the freshness of the dish."
+    ]
+  }
+] 
+}
+
+
+
