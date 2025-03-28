@@ -4,6 +4,7 @@
     "id": 1,
     "name": "Bhapa Doi",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "2 1/2 pints curd or yoghurt",
       "1 tin sweetened condensed milk"
@@ -18,6 +19,7 @@
     "id": 2,
     "name": "Mysore Pak",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "400g gram flour (besan)",
       "1kg ghee",
@@ -36,6 +38,7 @@
     "id": 3,
     "name": "Strawberry Shrikhand",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "8-10 medium sized strawberries",
       "About 3-4 cups plain Greek yogurt",
@@ -62,6 +65,7 @@
     "id": 4,
     "name": "Besan and Sooji ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "2 cups gram flour",
       "2 cups semolina",
@@ -86,6 +90,7 @@
     "id": 5,
     "name": "Monthal",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "200g gram flour",
       "200g clarified butter",
@@ -109,6 +114,7 @@
     "id": 6,
     "name": "Badami Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 cup clarified butter",
       "125g mawa",
@@ -129,6 +135,7 @@
     "id": 7,
     "name": "Egg Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "10-12 eggs",
       "1kg milk",
@@ -156,6 +163,7 @@
     "id": 8,
     "name": "Sweet Potato Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 kg sweet potato",
       "1 cup ghee",
@@ -175,6 +183,7 @@
     "id": 9,
     "name": "Khopra Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 cup semolina",
       "1 liter milk",
@@ -197,6 +206,7 @@
     "id": 10,
     "name": "Bread Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "4 large size bread slices",
       "1 1⁄2 cup milk",
@@ -224,6 +234,7 @@
     "id": 11,
     "name": "Lauki ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 1⁄2 kg lauki",
       "250g mawa",
@@ -250,6 +261,7 @@
     "id": 12,
     "name": "Date and Chickpea Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 kg dates",
       "1 cup chickpea",
@@ -272,6 +284,7 @@
     "id": 13,
     "name": "Aloo Ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1kg soft boiled potato",
       "1⁄2 kg sugar",
@@ -291,6 +304,7 @@
     "id": 14,
     "name": "Walnut Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "2 cups finely chopped walnuts",
       "2 cups sugar",
@@ -314,6 +328,7 @@
     "id": 15,
     "name": "Akhroti Kalakand",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "500g dry milk",
       "500g icing sugar",
@@ -335,6 +350,7 @@
     "id": 16,
     "name": "Suji Aur Orange ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 kg semolina",
       "1⁄2 kg sugar",
@@ -357,6 +373,7 @@
     "id": 17,
     "name": "Khashkhash Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 cup poppy seeds",
       "2 cup milk",
@@ -387,6 +404,7 @@
     "id": 18,
     "name": "Moung Daal Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 cup split lentil",
       "1 cup sugar",
@@ -408,6 +426,7 @@
     "id": 19,
     "name": "Peanut Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "250g peanuts",
       "1 cup milk solid",
@@ -429,6 +448,7 @@
     "id": 20,
     "name": "Chany Ki Daal Ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 kg gram lentils (soak for 6 hour)",
       "1⁄2 kg sugar",
@@ -457,6 +477,7 @@
     "id": 21,
     "name": "Karachi Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1⁄2 kg corn flour",
       "1⁄2 kg sugar",
@@ -481,6 +502,7 @@
     "id": 22,
     "name": "Habshi Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "3 kg milk",
       "1⁄2 kg sugar",
@@ -507,6 +529,7 @@
     "id": 23,
     "name": "Gondh Ka Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 cup sugar",
       "2 cup milk",
@@ -534,6 +557,7 @@
     "id": 24,
     "name": "Caramel Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "3⁄4 cup semolina",
       "1 cup clarified butter",
@@ -556,6 +580,7 @@
     "id": 25,
     "name": "Ratalu Halwa",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1/2 kg sweet potatoes",
       "1 grated coconut",
@@ -582,6 +607,7 @@
     "id": 26,
     "name": "Khoya Seviyan Vermicelli",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "1 packet vermicelli",
       "375g khoya",
@@ -611,6 +637,7 @@
     "id": 27,
     "name": "Raj Tukray",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "10-12 bread slices",
       "2 tsp butter",
@@ -636,6 +663,7 @@
     "id": 28,
     "name": "Kimami Sevai",
     "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
     "ingredients": [
       "500g sewai",
       "1kg sugar or less",
@@ -667,6 +695,7 @@
       "id": 29,
       "name": "Special Lauki Kheer",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Milk 1 1/2 litres",
         "Sugar 250 gms",
@@ -696,6 +725,7 @@
       "id": 30,
       "name": "Moong Dal Laddoo",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Moong dal 300 gms",
         "Sugar 300 gms",
@@ -716,6 +746,7 @@
       "id": 31,
       "name": "Vermicelli with Saffron",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Light olive oil 2 tbsp",
         "Brown rice vermicelli 125 g",
@@ -740,6 +771,7 @@
       "id": 32,
       "name": "Kheer",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "3/4 cup basmati rice",
         "4 cardamom pods, crushed",
@@ -760,6 +792,7 @@
       "id": 33,
       "name": "Rava Laddo",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Pure ghee 4 tbsp",
         "Semolina 1 1/2 cups",
@@ -783,6 +816,7 @@
       "id": 34,
       "name": "Anjeer ka Meetha",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Dried Figs 250 gms",
         "Dried dates 250 gms",
@@ -803,6 +837,7 @@
       "id": 35,
       "name": "Kesari Rajbhog",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Chenna (from cow's milk) 250 gms",
         "Refined flour (maida) 1 tsp",
@@ -837,6 +872,7 @@
       "id": 36,
       "name": "MalPua",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Flour 1 cup",
         "Milk 1 cup",
@@ -859,6 +895,7 @@
       "id": 37,
       "name": "Badami Firni",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Milk 1 liter",
         "Condensed milk 1 tin",
@@ -883,6 +920,7 @@
       "id": 38,
       "name": "Kimami Sevai",
       "category": "Desserts",
+      "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&q=80",
       "ingredients": [
         "Sewai 500 gm",
         "Sugar 1 kg or Less",

@@ -46,7 +46,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-left">
-        <Link to="/" className="navbar-brand">Recipe Finder</Link>
+        <Link to="/" className="navbar-brand">From Me To You</Link>
         <div className="category-links">
           <Link to="/category/starters">Starters</Link>
           <Link to="/category/main-courses">Main Courses</Link>
