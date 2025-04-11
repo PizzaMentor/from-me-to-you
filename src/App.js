@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import CategoryNavigation from './components/CategoryNavigation';
 import CategoryView from './pages/CategoryView';
+import Home from './pages/Home';
 import About from './pages/About';
 import RecipeDetail from './components/RecipeDetail';
 import SearchResults from './pages/SearchResults';
@@ -16,7 +17,7 @@ function App() {
         <CategoryNavigation />
         <main className="main-content">
           <Routes>
-            <Route path="/" element={<CategoryView />} />
+            <Route path="/" element={<Home />} />
             <Route path="/category/:categoryId" element={<CategoryView />} />
             <Route path="/search" element={<SearchResults />} />
             <Route path="/about" element={<About />} />

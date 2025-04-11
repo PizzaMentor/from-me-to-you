@@ -8,37 +8,37 @@ const CategoryNavigation = () => {
   const mainCategories = [
     {
       name: 'Starters',
-      image: 'https://source.unsplash.com/featured/?appetizers',
+      image: '/images/starter.png',
       link: '/category/starters'
     },
     {
       name: 'Main Courses',
-      image: 'https://source.unsplash.com/featured/?main-course',
+      image: '/images/main-courses.png',
       link: '/category/main-courses'
     },
     {
       name: 'Sides',
-      image: 'https://source.unsplash.com/featured/?side-dishes',
+      image: '/images/sides.png',
       link: '/category/sides'
     },
     {
       name: 'Snacks',
-      image: 'https://source.unsplash.com/featured/?snacks',
+      image: '/images/snacks.png',
       link: '/category/snacks'
     },
     {
       name: 'Desserts',
-      image: 'https://source.unsplash.com/featured/?desserts',
+      image: '/images/desserts.png',
       link: '/category/desserts'
     },
     {
       name: 'Drinks',
-      image: 'https://source.unsplash.com/featured/?beverages',
+      image: '/images/drinks.png',
       link: '/category/drinks'
     },
     {
       name: 'Indo Chinese Fusion',
-      image: 'https://source.unsplash.com/featured/?indo-chinese-food',
+      image: '/images/indo-chinese-fusion.png',
       link: '/category/indo-chinese-fusion'
     }
   ];
@@ -56,6 +56,7 @@ const CategoryNavigation = () => {
             resolve();
           };
           img.onerror = () => {
+            console.error(`Failed to load image for ${category.name}`);
             setLoadedImages(prev => ({
               ...prev,
               [category.name]: false

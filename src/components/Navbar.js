@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import headerImage from '../assets/header.png';
 
-function Navbar() {
+const Navbar = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [isListening, setIsListening] = useState(false);
   const navigate = useNavigate();
@@ -46,7 +47,9 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-left">
-        <Link to="/" className="navbar-brand">From Me To You</Link>
+        <Link to="/" className="navbar-brand">
+          <img src={headerImage} alt="From Me To You" className="header-image" />
+        </Link>
         <div className="category-links">
           <Link to="/category/starters">Starters</Link>
           <Link to="/category/main-courses">Main Courses</Link>
@@ -80,6 +83,6 @@ function Navbar() {
       </div>
     </nav>
   );
-}
+};
 
 export default Navbar; 
