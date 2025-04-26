@@ -11,7 +11,18 @@ function Home() {
   // Function to get today's seed for consistent daily selection
   const getTodaySeed = () => {
     const today = new Date();
-    return `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
+    return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  };
+
+  // Function to generate a random number between 0 and 1 based on a seed
+  const seededRandom = (seed, str) => {
+    const hash = str.split('').reduce((acc, char) => {
+      const charCode = char.charCodeAt(0);
+      return ((acc << 5) - acc + charCode) >>> 0;
+    }, 0);
+    const combinedSeed = (hash + seed.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0)) >>> 0;
+    const x = Math.sin(combinedSeed) * 10000;
+    return x - Math.floor(x);
   };
 
   useEffect(() => {
@@ -58,12 +69,11 @@ function Home() {
 
         // Set daily recipes using today's date as seed
         const todaySeed = getTodaySeed();
-        const seededRandom = [...allRecipes].sort((a, b) => {
-          const hash = (str) => str.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-          return hash(a.name + todaySeed) - hash(b.name + todaySeed);
+        const shuffledRecipes = [...allRecipes].sort((a, b) => {
+          return seededRandom(todaySeed, a.name) - seededRandom(todaySeed, b.name);
         });
         
-        setDailyRecipes(seededRandom.slice(0, 6));
+        setDailyRecipes(shuffledRecipes.slice(0, 6));
         setLoading(false);
       } catch (err) {
         console.error('Error loading recipes:', err);

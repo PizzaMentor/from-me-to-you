@@ -215,22 +215,34 @@ body {
 }
 
 .search-button,
-.voice-button {
-  padding: 0.8rem 1.5rem;
-  background-color: var(--accent-color);
+.voice-button,
+.about-link {
   color: var(--text-color);
-  border: none;
-  border-radius: 25px;
-  cursor: pointer;
-  font-weight: 600;
+  text-decoration: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 20px;
   transition: all 0.3s;
+  font-weight: 600;
+  background-color: var(--accent-color);
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  height: 36px;
 }
 
 .search-button:hover,
-.voice-button:hover {
+.voice-button:hover,
+.about-link:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.voice-button {
+  margin-left: 0.5rem;
 }
 
 .voice-button.listening {
@@ -243,21 +255,6 @@ body {
   0% { transform: scale(1); }
   50% { transform: scale(1.05); }
   100% { transform: scale(1); }
-}
-
-.about-link {
-  color: white;
-  text-decoration: none;
-  padding: 0.8rem 1.5rem;
-  border-radius: 25px;
-  transition: all 0.3s;
-  font-weight: 500;
-  background: rgba(255, 255, 255, 0.1);
-}
-
-.about-link:hover {
-  background: rgba(255, 255, 255, 0.2);
-  transform: translateY(-2px);
 }
 
 /* Recipe card styles */
@@ -916,7 +913,7 @@ body {
 }
 
 .category-links a {
-  color: var(--secondary-color);
+  color: white;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s;
