@@ -17,7 +17,6 @@ const Navbar = () => {
 
   const startListening = () => {
     setIsListening(true);
-    // Initialize speech recognition
     const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
     recognition.lang = 'en-US';
     recognition.continuous = false;
@@ -27,7 +26,6 @@ const Navbar = () => {
       const transcript = event.results[0][0].transcript;
       setSearchTerm(transcript);
       setIsListening(false);
-      // Automatically search with the voice input
       navigate(`/search?q=${encodeURIComponent(transcript)}`);
     };
 
@@ -46,40 +44,35 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="nav-left">
-        <Link to="/" className="navbar-brand">
-          <img src={headerImage} alt="From Me To You" className="header-image" />
-        </Link>
-        <div className="category-links">
-          <Link to="/category/starters">Starters</Link>
-          <Link to="/category/main-courses">Main Courses</Link>
-          <Link to="/category/sides">Sides</Link>
-          <Link to="/category/desserts">Desserts</Link>
-          <Link to="/category/drinks">Drinks</Link>
-          <Link to="/category/indo-chinese-fusion">Indo Chinese Fusion</Link>
+      <div className="navbar-content">
+        <div className="nav-left">
+          <Link to="/" className="navbar-brand">
+            <img src={headerImage} alt="From Me To You" className="header-image" />
+          </Link>
         </div>
-      </div>
 
-      <div className="nav-right">
-        <form onSubmit={handleSubmit} className="search-form">
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="Enter ingredients..."
-            className="search-input"
-          />
-          <button type="submit" className="search-button">Search</button>
-        </form>
-        
-        <button 
-          className={`voice-button ${isListening ? 'listening' : ''}`}
-          onClick={isListening ? stopListening : startListening}
-        >
-          {isListening ? 'Stop Voice Input' : 'Voice Input'}
-        </button>
-        
-        <Link to="/about" className="about-link">About</Link>
+        <div className="nav-right">
+          <form onSubmit={handleSubmit} className="search-form">
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Enter ingredients..."
+              className="search-input"
+            />
+            <button type="submit" className="search-button">Search</button>
+          </form>
+          
+          <Link to="/about" className="about-link">About</Link>
+          <Link to="/add-recipe" className="about-link">Add</Link>
+          
+          <button 
+            className={`voice-button ${isListening ? 'listening' : ''}`}
+            onClick={isListening ? stopListening : startListening}
+          >
+            Voice
+          </button>
+        </div>
       </div>
     </nav>
   );
