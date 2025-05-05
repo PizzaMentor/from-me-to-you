@@ -4,7 +4,7 @@ function RecipeCard({ recipe, onSelect }) {
   return (
     <div className="recipe-card" onClick={() => onSelect(recipe)}>
       <img 
-        src={recipe.image || '/images/placeholder-recipe.jpg'} 
+        src={recipe.imageUrl || '/images/placeholder-recipe.jpg'} 
         alt={recipe.name}
         className="recipe-image"
       />
