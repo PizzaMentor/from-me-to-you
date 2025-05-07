@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Chinese Fried Rice",
             "category": "Indo Chinese Fusion",
+            "image": "/images/recipes/indo-chinese/Chinese Fried Rice.png",
             "ingredients": [
               "Chicken 250g (thinly sliced)",
               "Vegetable oil 2 tbsp",
@@ -32,6 +33,7 @@
     "id": 2,
     "name": "Chicken Chow Mein",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Chow Mein.png",
     "ingredients": [
       "1 kg spaghetti",
       "1/2 kg chicken",
@@ -60,6 +62,7 @@
     "id": 3,
     "name": "Chicken Manchurian",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Manchurian.png",
     "ingredients": [
       "For Marination:",
       "1/2 kg chicken breast",
@@ -95,6 +98,7 @@
     "id": 4,
     "name": "Sweet and Sour Chow Mein",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Sweet and Sour Chow Mein.png",
     "ingredients": [
       "1 packet noodles",
       "1⁄2 kg beef undercut",
@@ -129,6 +133,7 @@
     "id": 5,
     "name": "Chicken Hakka Noodles",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Hakka Noodles.png",
     "ingredients": [
       "2 cups noodles",
       "3 dried red chilies",
@@ -157,6 +162,7 @@
     "id": 6,
     "name": "Spicy Fried Rice",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Spicy Fried Rice.png",
     "ingredients": [
       "2 cup rice",
       "2 tbsp white vinegar",
@@ -193,6 +199,7 @@
     "id": 7,
     "name": "Chinese Chicken Noodles",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chinese Chicken Noodles.png",
     "ingredients": [
       "300 grams boneless chicken",
       "500 grams boiled egg noodles",
@@ -221,6 +228,7 @@
     "id": 8,
     "name": "Stir Fried Chinese Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Stir Fried Chinese Chicken.png",
     "ingredients": [
       "1⁄2 kg chicken",
       "1 piece ginger",
@@ -253,6 +261,7 @@
     "id": 9,
     "name": "Chicken Corn Soup",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Corn Soup.png",
     "ingredients": [
       "4 chicken fillets",
       "1kg chicken bones",
@@ -284,6 +293,7 @@
     "id": 10,
     "name": "Chinese Soup",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chinese Soup.png",
     "ingredients": [
       "1 1⁄4 liters chicken stock",
       "175 gm sweet corn kernels",
@@ -309,6 +319,7 @@
     "id": 11,
     "name": "Black Pepper Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Black Pepper Chicken.png",
     "ingredients": [
       "400 gm boneless chicken (cut into 1/2 inch dices)",
       "3 tbsp corn flour (for sprinkle)",
@@ -338,6 +349,7 @@
     "id": 12,
     "name": "Garlic Cauliflower",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Garlic Cauliflower.png",
     "ingredients": [
       "1 kg cauliflower",
       "For Batter:",
@@ -380,6 +392,7 @@
     "id": 13,
     "name": "Szechuan Soup",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Szechuan Soup.png",
     "ingredients": [
       "1⁄2 cup boneless chicken",
       "3-4 cups chicken stock",
@@ -410,6 +423,7 @@
     "id": 14,
     "name": "Chicken with Mushroom",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken with Mushroom.png",
     "ingredients": [
       "250 gm chicken",
       "12 halved mushrooms",
@@ -433,6 +447,7 @@
     "id": 15,
     "name": "Lamb with Garlic Sauce",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Lamb with Garlic Sauce.png",
     "ingredients": [
       "250 gm lamb meat",
       "2 cubed capsicums",
@@ -463,6 +478,7 @@
     "id": 16,
     "name": "Egg Fried Rice",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Egg Fried Rice.png",
     "ingredients": [
       "1 1⁄2 cup boiled rice",
       "3-4 eggs",
@@ -484,6 +500,7 @@
     "id": 17,
     "name": "Kebabs with Vegetables",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Kebabs with Vegetables.png",
     "ingredients": [
       "1⁄2 kg chicken mince",
       "2 bread slices",
@@ -510,6 +527,7 @@
     "id": 18,
     "name": "Ginger Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Ginger Chicken.png",
     "ingredients": [
       "1⁄2 kg chicken boneless (bite size cubes)",
       "1 egg",
@@ -547,6 +565,7 @@
     "id": 19,
     "name": "Chicken Wings",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Wings.png",
     "ingredients": [
       "1⁄2 kg chicken wings (with skin)",
       "1 chicken cube",
@@ -569,6 +588,7 @@
     "id": 20,
     "name": "Chicken Balls",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Balls.png",
     "ingredients": [
       "250 gm fine chicken mince",
       "1 egg",
@@ -596,6 +616,7 @@
     "id": 21,
     "name": "Hong Kong Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Hong Kong Chicken.png",
     "ingredients": [
       "300 gm boneless chicken (bite size cubes)",
       "1 soaked and ground red chili",
@@ -628,6 +649,7 @@
     "id": 22,
     "name": "Beef Chili Dry",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Beef Chili Dry.png",
     "ingredients": [
       "1⁄2 kg meat (undercut)",
       "1⁄2 cup papaya paste",
@@ -655,6 +677,7 @@
     "id": 24,
     "name": "Cauliflower Manchurian",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Cauliflower Manchurian.png",
     "ingredients": [
       "250 gm cauliflower",
       "1/4 cup flour",
@@ -686,6 +709,7 @@
     "id": 25,
     "name": "Cashew Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Cashew Chicken.png",
     "ingredients": [
       "1.2 kg boneless chicken",
       "1/2 cup boiled peas",
@@ -710,6 +734,7 @@
     "id": 26,
     "name": "Prawns Chow Mein with Pineapple",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Prawns Chow Mein with Pineapple.png",
     "ingredients": [
       "1 packet egg noodles",
       "1/2 kg prawns",
@@ -742,6 +767,7 @@
     "id": 27,
     "name": "Kung Pao Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Kung Pao Chicken.png",
     "ingredients": [
       "Marinade:",
       "200 gm chicken meat breast bone less",
@@ -778,6 +804,7 @@
     "id": 28,
     "name": "Prawns in Hoisin Sauce",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Prawns in Hoisin Sauce.png",
     "ingredients": [
       "300 gm tiger prawns",
       "50 gm hoisin sauce",
@@ -807,6 +834,7 @@
     "id": 29,
     "name": "Vegetable Fried Rice",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Vegetable Fried Rice.png",
     "ingredients": [
       "1 cup rice",
       "2 carrots",
@@ -833,6 +861,7 @@
     "id": 30,
     "name": "Sweet and Sour Prawns",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Sweet and Sour Prawns.png",
     "ingredients": [
       "250 gm prawn",
       "1 tsp salt",
@@ -871,6 +900,7 @@
     "id": 31,
     "name": "Chicken Spring Roll",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Spring Roll.png",
     "ingredients": [
       "400 grams chicken: cubes cut into a centimeter cube pieces",
       "A whole bunch finely chopped spring onions",
@@ -897,6 +927,7 @@
     "id": 32,
     "name": "Chicken Shashlik",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Shashlik.png",
     "ingredients": [
       "300 gm chicken",
       "2 capsicum",
@@ -925,6 +956,7 @@
     "id": 33,
     "name": "Chicken with Vegetables and Garlic Soya Sauce",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken with Vegetables and Garlic Soya Sauce.png",
     "ingredients": [
       "250 grams boneless chicken breast (cut in strips)",
       "Marinade:",
@@ -966,6 +998,7 @@
     "id": 34,
     "name": "Szechwan Prawns",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Szechwan Prawns.png",
     "ingredients": [
       "200 gm prawns",
       "2 tbsp Worcestershire sauce",
@@ -995,6 +1028,7 @@
     "id": 35,
     "name": "Chicken Rice Flower Dumplings",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Chicken Rice Flower Dumplings.png",
     "ingredients": [
       "300 grams chicken mince",
       "3/4 cup soaked basmati rice",
@@ -1022,6 +1056,7 @@
     "id": 36,
     "name": "Prawn Shrimp Tempura",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Prawn Shrimp Tempura.png",
     "ingredients": [
       "1 kg prawns",
       "Salt as per taste",
@@ -1050,6 +1085,7 @@
     "id": 37,
     "name": "Sesame Chicken",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Sesame Chicken.png",
     "ingredients": [
       "250 gm chicken boneless (cut in stripes)",
       "1 tbsp vinegar",
@@ -1073,6 +1109,7 @@
     "id": 38,
     "name": "Tofu Chili Fry",
     "category": "Indo Chinese Fusion",
+    "image": "/images/recipes/indo-chinese/Tofu Chili Fry.png",
     "ingredients": [
       "400g extra firm tofu",
       "1/4 cup teriyaki sauce for marinating tofu",

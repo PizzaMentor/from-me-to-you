@@ -4,6 +4,7 @@
     "id": 1,
     "name": "Chicken Croquettes",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Chicken Croquettes.png",
     "ingredients": [
       "Chicken mince 250 g",
       "Onion (chopped) 1",
@@ -32,6 +33,7 @@
     "id": 2,
     "name": "Falafel",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Falafel.png",
     "ingredients": [
       "Chickpeas 250 gms",
       "Garlic cloves 3-4",
@@ -57,6 +59,7 @@
     "id": 3,
     "name": "Chicken Drum Sticks",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Chicken Drum Sticks.png",
     "ingredients": [
       "Chicken drum sticks 10 to 12",
       "Potato (boiled) 3",
@@ -87,6 +90,7 @@
     "id": 4,
     "name": "Potato Samosa",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Potato Samosa.png",
     "ingredients": [
       "All-purpose Flour 2-1/2 cup",
       "Ghee 6 tbsp",
@@ -114,6 +118,7 @@
     "id": 5,
     "name": "Fish Cutlets",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Fish Cutlets.png",
     "ingredients": [
       "Surmai fish (cut into finger size pieces) 1/2 kg",
       "Lemon juice 2 tbsp",
@@ -140,6 +145,7 @@
     "id": 6,
     "name": "Chicken on Toast",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Chicken on Toast.png",
     "ingredients": [
       "Chicken mince 250 g",
       "Onion chopped 2 tbsp",
@@ -164,6 +170,7 @@
     "id": 7,
     "name": "Spring Rolls",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Spring Rolls.png",
     "ingredients": [
       "Samosa strips 20",
       "Rice noodles 30 grams",
@@ -193,6 +200,7 @@
     "id": 8,
     "name": "Spaghetti Cutlets",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Spaghetti Cutlets.png",
     "ingredients": [
       "Spaghetti 1 cup (boiled)",
       "Potatoes 2 cups (boiled and mashed)",
@@ -219,6 +227,7 @@
     "id": 9,
     "name": "Pizza Roll",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Pizza Roll.png",
     "ingredients": [
       "Chicken 200 grams (boneless)",
       "Bar b.q masala 1 tbsp",
@@ -262,6 +271,7 @@
     "id": 10,
     "name": "Chilli Fries",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Chilli Fries.png",
     "ingredients": [
       "Potatoes 2 (cut into fingers)",
       "Mince 100 gm",
@@ -297,6 +307,7 @@
     "id": 11,
     "name": "Quesadillas",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Quesadillas.png",
     "ingredients": [
       "Flour 2 cups",
       "Baking Powder 1/2 tsp",
@@ -328,6 +339,7 @@
     "id": 12,
     "name": "Mozzarella Cheese Sticks",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Mozzarella Cheese Sticks.png",
     "ingredients": [
       "3 Tbsp flour",
       "2 Eggs (beaten)",
@@ -356,6 +368,7 @@
     "id": 13,
     "name": "Prawn Tempura",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Prawn Tempura.png",
     "ingredients": [
       "Large prawns 1/2 kg",
       "Cornflour 1/2 cup",
@@ -379,6 +392,7 @@
     "id": 14,
     "name": "Sesame Crispy Fried Wings",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Sesame Crispy Fried Wings.png",
     "ingredients": [
       "Wings 12 pcs",
       "Chilli sauce 3 tbsp",
@@ -400,6 +414,7 @@
     "id": 15,
     "name": "Batata Wada",
     "category": "Starters - Snacks",
+    "image": "/images/recipes/snacks/Batata Wada.png",
     "ingredients": [
       "cloves of Garlic 5 to 6",
       "Ginger 1\" piece",
@@ -435,6 +450,7 @@
         "id": 16,
         "name": "Bread Samosa",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Bread Samosa.png",
         "ingredients": [
           "Sandwich bread 15-20",
           "Minced chicken 1/2kg",
@@ -463,6 +479,7 @@
         "id": 17,
         "name": "Three Layered Dhoklas",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Three Layered Dhoklas.png",
         "ingredients": [
           "Rice 50 gms",
           "Split black lentils (Urad dal) 50 gms",
@@ -503,6 +520,7 @@
         "id": 18,
         "name": "Bhel Puri",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Bhel Puri.png",
         "ingredients": [
           "Puffed rice 1 carton",
           "Bhel mix 1 packet",
@@ -535,6 +553,7 @@
         "id": 19,
         "name": "Chicken Lolly Pops",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Chicken Lolly Pops.png",
         "ingredients": [
           "Chicken wings 1/2 kg",
           "Gram Flour 1 cup",
@@ -559,6 +578,7 @@
         "id": 20,
         "name": "Banana Seekh Kabab",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Banana Seekh Kabab.png",
         "ingredients": [
           "Raw bananas 4",
           "Potatoes 2",
@@ -583,6 +603,7 @@
         "id": 21,
         "name": "Cheese Triangles",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Cheese Triangles.png",
         "ingredients": [
           "Feta Cheese 1/4 cup",
           "Green Chillies Finely Chopped 2",
@@ -603,6 +624,7 @@
         "id": 22,
         "name": "Hot and Spicy Fajitas",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Hot and Spicy Fajitas.png",
         "ingredients": [
           "Olive oil 2 Tbsp",
           "Onion (sliced) 1",
@@ -636,6 +658,7 @@
         "id": 23,
         "name": "Zinger Wrap",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Zinger Wrap.png",
         "ingredients": [
           "Chicken boneless 200 gm",
           "Potato chips (or cornflakes) crushed 1 cup",
@@ -666,6 +689,7 @@
         "id": 24,
         "name": "Bread Kachories",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Bread Kachories.png",
         "ingredients": [
           "Bread 1 pack",
           "Chicken mince 1/2 kg",
@@ -691,6 +715,7 @@
         "id": 25,
         "name": "Pakoras of Fish Eggs",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Pakoras of Fish Eggs.png",
         "ingredients": [
           "Fish eggs 1 cup",
           "Green chillies 3",
@@ -710,6 +735,7 @@
         "id": 26,
         "name": "Roasted Almonds",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Roasted Almonds.png",
         "ingredients": [
           "Almonds 450 g",
           "Sugar 450 g",
@@ -735,6 +761,7 @@
         "id": 27,
         "name": "Super Nachos",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Super Nachos.png",
         "ingredients": [
           "Mince 1/2 kg",
           "Tomato 2",
@@ -767,6 +794,7 @@
         "id": 28,
         "name": "Ragda Patties",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Ragda Patties.png",
         "ingredients": [
           "Potatoes 1/2 kg (peeled and boiled) - for patties",
           "Corn flour 3 tbsp - for patties",
@@ -811,6 +839,7 @@
         "id": 29,
         "name": "Sweet Corn Chaat",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Sweet Corn Chaat.png",
         "ingredients": [
           "Sweet corn 2 cups",
           "Sev 1 cup + 1 cup",
@@ -838,6 +867,7 @@
         "id": 30,
         "name": "Paneer Sandwich Pakora",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Paneer Sandwich Pakora.png",
         "ingredients": [
           "Cottage cheese 2 packets of 8 ounces each",
           "Mint chutney ½ cup",
@@ -859,6 +889,7 @@
         "id": 31,
         "name": "Moong Ki Daal Ki Chaat",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Moong Ki Daal Ki Chaat.png",
         "ingredients": [
           "Fried yellow lentils nimkoo 1 packet",
           "Onions 2 (chopped)",
@@ -885,6 +916,7 @@
         "id": 32,
         "name": "Daal Ki Kachori",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Daal Ki Kachori.png",
         "ingredients": [
           "Bengal gram 1 cup",
           "Lemon 2",
@@ -911,6 +943,7 @@
         "id": 33,
         "name": "Spicy Potato Sticks",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Spicy Potato Sticks.png",
         "ingredients": [
           "Potatoes 1 kg",
           "Tomato puree 1 cup",
@@ -939,6 +972,7 @@
         "id": 34,
         "name": "Fish Fingers",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Fish Fingers.png",
         "ingredients": [
           "Fish boneless 500 gm",
           "Egg white 1",
@@ -963,6 +997,7 @@
         "id": 35,
         "name": "Aloo Bhari Mirchain",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Aloo Bhari Mirchain.png",
         "ingredients": [
           "Big green chilies 250 gm",
           "Boiled potatoes 2 to 3",
@@ -988,6 +1023,7 @@
         "id": 36,
         "name": "Moong Dal Vada",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Moong Dal Vada.png",
         "ingredients": [
           "Yellow lentil ¼ kg",
           "Onion ¼ kg",
@@ -1014,6 +1050,7 @@
         "id": 37,
         "name": "Enchiladas",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Enchiladas.png",
         "ingredients": [
           "Chicken Boneless ½ kg - for filling",
           "Onion 2 - for filling",
@@ -1053,6 +1090,7 @@
         "id": 38,
         "name": "Chicken Kararey",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Chicken Kararey.png",
         "ingredients": [
           "Chicken breast ½ kg (boneless)",
           "Ginger garlic paste 1 tbsp",
@@ -1081,6 +1119,7 @@
         "id": 39,
         "name": "Kathiawari Cholay",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Kathiawari Cholay.png",
         "ingredients": [
           "Desi chickpea 250 gm",
           "Baking soda 1 tsp",
@@ -1105,6 +1144,7 @@
         "id": 40,
         "name": "Chicken Puffs",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Chicken Puffs.png",
         "ingredients": [
           "Butter 2 oz",
           "All purpose flour 2 oz 4 tbsp",
@@ -1135,6 +1175,7 @@
         "id": 41,
         "name": "Tandoori Cutlets",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Tandoori Cutlets.png",
         "ingredients": [
           "Tandoori chicken 1/2 cup",
           "Green chili 1-1/2",
@@ -1158,6 +1199,7 @@
         "id": 42,
         "name": "Chicken Dim Sum",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Chicken Dim Sum.png",
         "ingredients": [
           "Chicken mince 250 gm",
           "Flour 250 gm",
@@ -1186,6 +1228,7 @@
         "id": 43,
         "name": "Red Fried Chicken",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Red Fried Chicken.png",
         "ingredients": [
           "Chicken breast 2",
           "Tomato paste 3 tbsp",
@@ -1212,6 +1255,7 @@
         "id": 44,
         "name": "Kebab ki Chat",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Kebab ki Chat.png",
         "ingredients": [
           "Mince ½ kg (double machined) - for kebab",
           "Ginger garlic paste 1 tbsp - for kebab",
@@ -1248,6 +1292,7 @@
         "id": 45,
         "name": "Maggi Noodles Drumstick",
         "category": "Starters - Snacks",
+        "image": "/images/recipes/snacks/Maggi Noodles Drumstick.png",
         "ingredients": [
           "Maggi noodles 2 packet (boiled)",
           "Chicken 5 to 6 pieces (boneless and boiled)",

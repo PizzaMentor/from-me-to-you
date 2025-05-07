@@ -4,6 +4,7 @@
     "id": 1,
     "name": "Strawberry Surprise",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Strawberry Surprise.png",
     "ingredients": [
       "1 cup strawberries",
       "1 bottle white drink",
@@ -21,6 +22,7 @@
     "id": 2,
     "name": "Lemony Peachy Surprise",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Lemony Peachy Surprise.png",
     "ingredients": [
       "2 chopped peaches",
       "3 tbsp lemon juice powder",
@@ -38,6 +40,7 @@
     "id": 3,
     "name": "Electric Lemonade",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Electric Lemonade.png",
     "ingredients": [
       "1 cup water",
       "1⁄4 cup lemon juice",
@@ -60,6 +63,7 @@
     "id": 4,
     "name": "Cucumber Cocktail",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Cucumber Cocktail.png",
     "ingredients": [
       "2 cucumbers",
       "2 glasses ice cream soda",
@@ -78,6 +82,7 @@
     "id": 5,
     "name": "Fruit Mocktail",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Fruit Mocktail.png",
     "ingredients": [
       "1⁄2 cup apple juice",
       "1⁄2 cup pineapple juice",
@@ -99,6 +104,7 @@
     "id": 6,
     "name": "Pina Colada",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Pina Colada.png",
     "ingredients": [
       "1 cup ice",
       "1 1⁄4 cup pineapple juice",
@@ -117,6 +123,7 @@
     "id": 7,
     "name": "Watermelon Slush",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Watermelon Slush.png",
     "ingredients": [
       "6 ice cubes",
       "2 cups cubed, seeded watermelon",
@@ -133,6 +140,7 @@
     "id": 8,
     "name": "Date Lemon Water",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Date Lemon Water.png",
     "ingredients": [
       "4-5 lemons",
       "8 cups water",
@@ -150,6 +158,7 @@
     "id": 9,
     "name": "Orange Fiesta",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Orange Fiesta.png",
     "ingredients": [
       "1 glass orange juice",
       "1 cup soda water",
@@ -168,6 +177,7 @@
     "id": 10,
     "name": "Jasmine Lemonade Cocktail",
     "category": "Desserts - Drinks",
+    "image": "/images/recipes/drinks/Jasmine Lemonade Cocktail.png",
     "ingredients": [
       "3 to 4 tbsp jasmine leaves",
       "2 to 3 tbsp lemon juice",

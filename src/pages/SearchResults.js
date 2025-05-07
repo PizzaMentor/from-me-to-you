@@ -60,7 +60,11 @@ function SearchResults() {
           ].join(' ');
           
           return searchTerms.every(term => recipeText.includes(term));
-        });
+        })
+        .map(recipe => ({
+          ...recipe,
+          imageUrl: recipe.image || recipe.imageUrl
+        }));
 
         setRecipes(filteredRecipes);
         setLoading(false);

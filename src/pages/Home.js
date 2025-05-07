@@ -64,16 +64,21 @@ function Home() {
           }
         }
 
-        // Set all recipes
-        setRecipes(allRecipes);
+        // Set all recipes, mapping image to imageUrl for compatibility
+        setRecipes(allRecipes.map(recipe => ({
+          ...recipe,
+          imageUrl: recipe.image || recipe.imageUrl
+        })));
 
         // Set daily recipes using today's date as seed
         const todaySeed = getTodaySeed();
         const shuffledRecipes = [...allRecipes].sort((a, b) => {
           return seededRandom(todaySeed, a.name) - seededRandom(todaySeed, b.name);
         });
-        
-        setDailyRecipes(shuffledRecipes.slice(0, 6));
+        setDailyRecipes(shuffledRecipes.slice(0, 6).map(recipe => ({
+          ...recipe,
+          imageUrl: recipe.image || recipe.imageUrl
+        })));
         setLoading(false);
       } catch (err) {
         console.error('Error loading recipes:', err);
