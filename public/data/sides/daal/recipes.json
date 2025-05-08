@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Lentils with Eggplant",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Lentils with Eggplant.png",
             "ingredients": [
               "2 tps olive oil",
               "1 cup chopped onion",
@@ -31,6 +32,7 @@
             "id": 2,
             "name": "Aam Dhal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Aam Dhal.png",
             "ingredients": [
               "2 cup toovar dhal",
               "2 unripe mangoes",
@@ -59,6 +61,7 @@
             "id": 3,
             "name": "Mash Ki Daal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Mash Ki Daal.png",
             "ingredients": [
               "1 cup mash pulse",
               "1 tsp cumin seed",
@@ -85,6 +88,7 @@
             "id": 4,
             "name": "Dal Dhokli",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Dal Dhokli.png",
             "ingredients": [
               "1 cup arhar dal (soaked in a water for 1 hour)",
               "2 tps green chilly paste",
@@ -115,6 +119,7 @@
             "id": 5,
             "name": "Masala Toovar",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Masala Toovar.png",
             "ingredients": [
               "To be ground into a paste:",
               "8 garlic cloves",
@@ -146,6 +151,7 @@
             "id": 6,
             "name": "Khatta Urad Dal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Khatta Urad Dal.png",
             "ingredients": [
               "1 cup chilkwali urad dal",
               "1/2 cup sour curds (whisked with 1 cup of water)",
@@ -169,6 +175,7 @@
             "id": 7,
             "name": "Sookhe Kabuli Chane",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Sookhe Kabuli Chane.png",
             "ingredients": [
               "1 1/2 cups chickpeas",
               "1 tsp bicarbonate of soda",
@@ -200,6 +207,7 @@
             "id": 8,
             "name": "Rajistani Punch Rangi Daal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Rajistani Punch Rangi Daal.png",
             "ingredients": [
               "1 1/4 cup chana dal",
               "1 1/4 cup moung dal",
@@ -233,6 +241,7 @@
             "id": 9,
             "name": "White Lentils with Spinach",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/White Lentils with Spinach.png",
             "ingredients": [
               "1 cup split white lentils",
               "1/2 kg spinach",
@@ -255,6 +264,7 @@
             "id": 10,
             "name": "Sprouted Lentil Curry",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Sprouted Lentil Curry.png",
             "ingredients": [
               "2 cup sprouted whole moong",
               "1/2 coconut",
@@ -287,6 +297,7 @@
             "id": 11,
             "name": "Moong Dal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Moong Dal.png",
             "ingredients": [
               "1 cup split green gram",
               "3 cups water",
@@ -319,6 +330,7 @@
             "id": 12,
             "name": "Yellow Moong Dal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Yellow Moong Dal.png",
             "ingredients": [
               "1 cup split green beans",
               "3 cup water",
@@ -344,6 +356,7 @@
             "id": 13,
             "name": "Chanay Ki Daal Karela",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Chanay Ki Daal Karela.png",
             "ingredients": [
               "250 gm boiled gram lentil",
               "250 gm bitter gourd",
@@ -378,6 +391,7 @@
             "id": 14,
             "name": "Saboth Masoor Dhal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Saboth Masoor Dhal.png",
             "ingredients": [
               "Daal:",
               "1/2 kg brown lentil",
@@ -416,6 +430,7 @@
             "id": 15,
             "name": "Shahjahani Dhal",
             "category": "Sides - Daal (Lentils)",
+            "image": "/images/recipes/sides/daal/Shahjahani Dhal.png",
             "ingredients": [
               "1 lb split peas or gram dhal",
               "3 tbsp ghee",
