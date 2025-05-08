@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Naan",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Naan.png",
             "ingredients": [
               "1/2 kg plain flour",
               "1 tbsp sugar",
@@ -25,6 +26,7 @@
             "id": 2,
             "name": "Roghni Naan",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Roghni Naan.png",
             "ingredients": [
               "1/2 kg plain flour",
               "1 cup butter",
@@ -47,6 +49,7 @@
             "id": 3,
             "name": "Makkai Ki Roti",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Makkai Ki Roti.png",
             "ingredients": [
               "1 cup corn flour",
               "1 cup wheat flour",
@@ -66,6 +69,7 @@
             "id": 4,
             "name": "Missi Paratha",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Missi Paratha.png",
             "ingredients": [
               "1 cup gram flour",
               "1 cup red flour",
@@ -92,6 +96,7 @@
             "id": 5,
             "name": "Shermal",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Shermal.png",
             "ingredients": [
               "1/2 kg white flour",
               "1 sachet yeast",
@@ -114,6 +119,7 @@
             "id": 6,
             "name": "Methi Palak Puri",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Methi Palak Puri.png",
             "ingredients": [
               "4 tbsp chopped spinach",
               "4 tbsp chopped fenugreek leaves",
@@ -138,6 +144,7 @@
             "id": 7,
             "name": "Moong Dal Parathas",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Moong Dal Parathas.png",
             "ingredients": [
               "1/2 kg yellow lentils (Moong dal)",
               "1 tsp crushed pomegranate seeds",
@@ -166,6 +173,7 @@
             "id": 8,
             "name": "Chappati Filled With Mince & Eggs",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Chappati Filled With Mince & Eggs.png",
             "ingredients": [
               "250 gm mince",
               "1 tbsp chili powder",
@@ -199,6 +207,7 @@
             "id": 9,
             "name": "Khameeri Roti",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Khameeri Roti.png",
             "ingredients": [
               "480 gm/2 cups whole wheat flour",
               "Clarified butter (ghee) to grease baking tray",
@@ -225,6 +234,7 @@
             "id": 10,
             "name": "Puran Poli",
             "category": "Sides - Bread",
+            "image": "/images/recipes/sides/bread/Puran Poli.png",
             "ingredients": [
               "1/2 kg flour",
               "12 cardamoms",

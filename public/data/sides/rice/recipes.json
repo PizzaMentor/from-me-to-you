@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Chicken Spicy Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Chicken Spicy Rice.png",
             "ingredients": [
               "1/2 kg chicken",
               "1/2 kg rice",
@@ -32,6 +33,7 @@
             "id": 2,
             "name": "Hyderabadi Khichdi",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Hyderabadi Khichdi.png",
             "ingredients": [
               "1/2 kg long grain rice",
               "200 gm skinned lentils",
@@ -71,6 +73,7 @@
             "id": 3,
             "name": "Nav Ratan Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Nav Ratan Pulao.png",
             "ingredients": [
               "6 tbsp sunflower oil",
               "1 tsp cumin seeds",
@@ -101,6 +104,7 @@
             "id": 4,
             "name": "Shahjahani Khichdi",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Shahjahani Khichdi.png",
             "ingredients": [
               "1/2 kg mince",
               "2 ground onions",
@@ -142,6 +146,7 @@
             "id": 5,
             "name": "Landi Kotal Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Landi Kotal Biryani.png",
             "ingredients": [
               "1/2 kg boiled rice",
               "1 kg chicken (16 pieces)",
@@ -174,6 +179,7 @@
             "id": 6,
             "name": "Pulao Nawabi",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Pulao Nawabi.png",
             "ingredients": [
               "2 cups basmati rice",
               "A pinch of saffron",
@@ -200,6 +206,7 @@
             "id": 7,
             "name": "Coconut Shrimp Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Coconut Shrimp Rice.png",
             "ingredients": [
               "1/4 cup vegetable oil",
               "1 teaspoon brown mustard seeds",
@@ -230,6 +237,7 @@
             "id": 8,
             "name": "Fragrant Red Lentils with Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Fragrant Red Lentils with Rice.png",
             "ingredients": [
               "1 tablespoon vegetable oil",
               "1 cup diced onion",
@@ -262,6 +270,7 @@
             "id": 9,
             "name": "Burnt Chilli Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Burnt Chilli Rice.png",
             "ingredients": [
               "2 cloves garlic sliced round fried golden brown and drained on tissue paper",
               "4 dried chillies",
@@ -288,6 +297,7 @@
             "id": 10,
             "name": "Spanish Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Spanish Rice.png",
             "ingredients": [
               "1/2 kg rice",
               "1/2 cup oil",
@@ -321,6 +331,7 @@
             "id": 11,
             "name": "Cholay Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Cholay Biryani.png",
             "ingredients": [
               "1 1/2 cups basmati rice",
               "1 cup chickpeas (kabuli chana)",
@@ -363,6 +374,7 @@
             "id": 12,
             "name": "Afghani Chicken Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Afghani Chicken Biryani.png",
             "ingredients": [
               "1 kg whole chicken",
               "3 cups rice",
@@ -392,6 +404,7 @@
             "id": 13,
             "name": "Seafood Fried Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Seafood Fried Rice.png",
             "ingredients": [
               "5 gms corn oil",
               "3 egg yolks",
@@ -415,6 +428,7 @@
             "id": 14,
             "name": "Coconut Curry Jasmine Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Coconut Curry Jasmine Rice.png",
             "ingredients": [
               "1 1/4 tablespoons butter",
               "1 small chopped onion",
@@ -438,6 +452,7 @@
             "id": 15,
             "name": "Pulao in Hara Masala",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Pulao in Hara Masala.png",
             "ingredients": [
               "1 kg mutton",
               "3 mugs basmati rice",
@@ -472,6 +487,7 @@
             "id": 16,
             "name": "Kofta Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Kofta Pulao.png",
             "ingredients": [
               "500 gms basmati rice",
               "300 gms minced meat",
@@ -523,6 +539,7 @@
             "id": 17,
             "name": "Cashew Nut Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Cashew Nut Rice.png",
             "ingredients": [
               "1 cup basmati rice",
               "8 cashew nuts",
@@ -551,6 +568,7 @@
             "id": 18,
             "name": "Garlic Fried Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Garlic Fried Rice.png",
             "ingredients": [
               "2 cups boiled rice",
               "4 finely chopped garlic cloves",
@@ -572,6 +590,7 @@
             "id": 19,
             "name": "Minted Rice with Sprouted Beans",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Minted Rice with Sprouted Beans.png",
             "ingredients": [
               "2 tbsp light olive oil",
               "6 sliced spring onions",
@@ -595,6 +614,7 @@
             "id": 21,
             "name": "Mushroom Corn Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Mushroom Corn Rice.png",
             "ingredients": [
               "1 1/2 cups rice",
               "2 tbsp each butter and flour",
@@ -627,6 +647,7 @@
             "id": 22,
             "name": "Rice Supreme",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Rice Supreme.png",
             "ingredients": [
               "1 cup rice",
               "1 cup finely chopped onion",
@@ -656,6 +677,7 @@
             "id": 23,
             "name": "Gulabi Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Gulabi Pulao.png",
             "ingredients": [
               "8 oz rice",
               "1 large beetroot",
@@ -690,6 +712,7 @@
             "id": 24,
             "name": "Mango Rice",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Mango Rice.png",
             "ingredients": [
               "500 g rice",
               "3 medium sized green mangoes",
@@ -720,6 +743,7 @@
             "id": 25,
             "name": "Fish Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Fish Biryani.png",
             "ingredients": [
               "400 g fish",
               "400 g basmati rice",
@@ -755,6 +779,7 @@
             "id": 26,
             "name": "Sultana Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Sultana Biryani.png",
             "ingredients": [
               "1 kg chicken",
               "1 cup curd",
@@ -779,6 +804,7 @@
             "id": 27,
             "name": "Paneer Kofta and Kebab Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Paneer Kofta and Kebab Biryani.png",
             "ingredients": [
               "For Rice:",
               "1/4 cup ghee",
@@ -837,6 +863,7 @@
             "id": 28,
             "name": "Junglee Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Junglee Pulao.png",
             "ingredients": [
               "2 cups Basmati Rice (washed well & drained)",
               "1 kilogram Chicken or Mutton",
@@ -869,6 +896,7 @@
             "id": 29,
             "name": "Kathal Jackfruit Rice Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Kathal Jackfruit Rice Biryani.png",
             "ingredients": [
               "1 1/2 cup rice",
               "1/2 kg unripe jackfruit (kathal)",
@@ -926,6 +954,7 @@
             "id": 30,
             "name": "Moti Kofta Rice Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Moti Kofta Rice Pulao.png",
             "ingredients": [
               "1 kg washed rice",
               "For Koftas:",
@@ -976,6 +1005,7 @@
             "id": 31,
             "name": "Lamb Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Lamb Pulao.png",
             "ingredients": [
               "3 cups washed, soaked rice",
               "10 cups water",
@@ -1012,6 +1042,7 @@
             "id": 32,
             "name": "Shahi Kabuli Pulao",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Shahi Kabuli Pulao.png",
             "ingredients": [
               "1/2 kg chicken (4 pieces)",
               "1/2 cup oil",
@@ -1049,6 +1080,7 @@
             "id": 33,
             "name": "Kabab Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Kabab Biryani.png",
             "ingredients": [
               "For Kebab:",
               "1/2 kg minced beef",
@@ -1114,6 +1146,7 @@
             "id": 34,
             "name": "Kachay Gosht Ki Biryani",
             "category": "Sides - Rice",
+            "image": "/images/recipes/sides/rice/Kachay Gosht Ki Biryani.png",
             "ingredients": [
               "1/2 kg rice",
               "1/2 kg boneless chicken",
@@ -1168,6 +1201,7 @@
                     "id": 35,
                     "name": "Lasani Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Lasani Biryani.png",
                     "ingredients": [
                       "Rice ½ kg (boiled)",
                       "Meat 1 kg",
@@ -1210,6 +1244,7 @@
                     "id": 36,
                     "name": "Arabian Rice",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Arabian Rice.png",
                     "ingredients": [
                       "Rice 1 kg",
                       "Chicken 1 kg",
@@ -1242,6 +1277,7 @@
                     "id": 37,
                     "name": "Saloni Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Saloni Biryani.png",
                     "ingredients": [
                       "Beef - boneless 1 kg",
                       "Rice 1 kg",
@@ -1289,6 +1325,7 @@
                     "id": 38,
                     "name": "Meat Dry Fruit Pulao",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Meat Dry Fruit Pulao.png",
                     "ingredients": [
                       "Mutton, boneless 2 kg",
                       "Rice, boiled with cloves and bay leaves 2 kg",
@@ -1325,6 +1362,7 @@
                     "id": 39,
                     "name": "Mint and Yogurt Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Mint and Yogurt Biryani.png",
                     "ingredients": [
                       "Rice 3 to 4 cups",
                       "Water for boiling",
@@ -1358,6 +1396,7 @@
                     "id": 40,
                     "name": "Irani Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Irani Biryani.png",
                     "ingredients": [
                       "Beef 1 kg",
                       "Rice 600 grams",
@@ -1401,6 +1440,7 @@
                     "id": 41,
                     "name": "Chicken Drumstick Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Chicken Drumstick Biryani.png",
                     "ingredients": [
                       "Drumsticks 6",
                       "Oil as required",
@@ -1434,6 +1474,7 @@
                     "id": 42,
                     "name": "Yakhni Pulao",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Yakhni Pulao.png",
                     "ingredients": [
                       "Mutton 1 kg",
                       "Rice 4 cups (soaked)",
@@ -1477,6 +1518,7 @@
                     "id": 43,
                     "name": "Beef with Fried Rice",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Beef with Fried Rice.png",
                     "ingredients": [
                       "Beef undercut 400 g (strips)",
                       "Rice 300 g (boiled)",
@@ -1501,6 +1543,7 @@
                     "id": 44,
                     "name": "White Masala Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/White Masala Biryani.png",
                     "ingredients": [
                       "For Stock: Water 6 cups",
                       "For Stock: Garlic 6 cloves",
@@ -1535,45 +1578,10 @@
                     ]
                   },
                   {
-                    "id": 45,
-                    "name": "Fish Biryani",
-                    "category": "Sides - Rice",
-                    "ingredients": [
-                      "Fish 750 gm",
-                      "Mixed whole spices 1 tbsp",
-                      "Fenugreek leaves 4 (small bunches)",
-                      "Tomato 4 (sliced)",
-                      "Brown onion ½ cup",
-                      "Ginger garlic paste 1 tbsp heaped",
-                      "Salt 1 ½ tsp",
-                      "Chili powder 1 tbsp heaped",
-                      "Coriander 1 tsp heaped",
-                      "Cumin 1 tsp heaped",
-                      "garam masalapowder 1 tsp",
-                      "Yogurt 1 cup (whipped)",
-                      "Potatoes 250 gm (cut into big cubes)",
-                      "Rice 750 gm (boiled with 2 tbsp salt)",
-                      "Kewra water 1 tbsp",
-                      "Yellow color ¼ tsp",
-                      "Oil ½ cup",
-                      "Green chili as required (chopped)",
-                      "Fresh coriander as required (chopped)"
-                    ],
-                    "instructions": [
-                      "Heat oil add whole spices, fenugreek and tomatoes.",
-                      "Add brown onion with ginger garlic paste, all the dry seasonings, fry well.",
-                      "Add whipped yogurt with potatoes and 1 cup water, cover and cook till potatoes tender.",
-                      "Add fish, cover and cook for 10 minutes, remove fish.",
-                      "Add chopped coriander and green chilies.",
-                      "In a pan arrange a layer of ½ boiled rice with fish masala and potato mixture top with remaining rice.",
-                      "Top with Kewra and yellow color.",
-                      "Put fish pieces on top, leave it on steam for 15 minutes."
-                    ]
-                  },
-                  {
                     "id": 46,
                     "name": "Nawabi Andy ki Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Nawabi Andy ki Biryani.png",
                     "ingredients": [
                       "Egg 6 (boiled)",
                       "Oil ½ cup",
@@ -1605,6 +1613,7 @@
                     "id": 47,
                     "name": "Masala Prawn Rice",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Masala Prawn Rice.png",
                     "ingredients": [
                       "Basmati Rice ½ kg",
                       "Prawns ½ kg",
@@ -1637,6 +1646,7 @@
                     "id": 48,
                     "name": "Egg Fried Rice",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Egg Fried Rice.png",
                     "ingredients": [
                       "Rice 250g",
                       "Water 3 cups (for boiling rice)",
@@ -1658,6 +1668,7 @@
                     "id": 49,
                     "name": "Mexican Chicken With Fried Rice",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Mexican Chicken With Fried Rice.png",
                     "ingredients": [
                       "Chicken 1 kg (16 pieces)",
                       "Oil ¼ cup",
@@ -1705,6 +1716,7 @@
                     "id": 50,
                     "name": "Memoni Akni",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Memoni Akni.png",
                     "ingredients": [
                       "Rice ½ kg",
                       "Mutton meat ½ kg",
@@ -1739,6 +1751,7 @@
                     "id": 51,
                     "name": "Rice Macaroni Biryani",
                     "category": "Sides - Rice",
+                    "image": "/images/recipes/sides/rice/Rice Macaroni Biryani.png",
                     "ingredients": [
                       "Chicken (eight pieces) 400 gm",
                       "Chopped Tomatoes 2 pieces",
@@ -1760,32 +1773,6 @@
                       "Remove the lid to minimize the gravy.",
                       "Add green chilies, mint leaves and Macaroni and toss all ingredients.",
                       "Serve while hot."
-                    ]
-                  },
-                  {
-                    "id": 52,
-                    "name": "Burnt Chilli Rice",
-                    "category": "Sides - Rice",
-                    "ingredients": [
-                      "Garlic 2 cloves sliced round fried golden brown and drained on tissue paper",
-                      "Dried Chillies 4",
-                      "Salt to taste",
-                      "Oil 1 tbsp",
-                      "Spring onions 2 (just the leaves) finely chopped",
-                      "Black Pepper to taste",
-                      "Rice Boiled 2 cups",
-                      "Garlic 1 clove finely chopped",
-                      "Paprika 1/2 tsp",
-                      "Soya sauce 1 tbsp",
-                      "Fish floss",
-                      "Corriander to garnish 1 tbsp finely chopped"
-                    ],
-                    "instructions": [
-                      "Heat oil in a pan add the chillies and fry for 1 minute or till they crackle then add the garlic and green onion",
-                      "Saute it for a minute and add the rice toss to mix well and heat the rice through.",
-                      "Season with salt, pepper and soya sauce and paprika.",
-                      "Now serve on a platter and garnish with fried garlic and corriander.",
-                      "You can sprinkle some fish floss if you on top too before serving."
                     ]
                   }
                 ]
